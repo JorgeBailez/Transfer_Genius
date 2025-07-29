@@ -1,7 +1,8 @@
 import requests
 import pathlib
+import pandas as pd
+import time
 from bs4 import BeautifulSoup
-import  pandas as pd
 
 HEADERS = {
     "User-Agent": (
@@ -11,15 +12,27 @@ HEADERS = {
     )
 }
 
-URL_CLUBS = "https://www.transfermarkt.com/laliga/daten/wettbewerb/ES1"
-OUT_PATH = pathlib.Path("data/raw/transfermarkt_laliga_clubs.html")
+TEMPORADAS = list(range(2017, 2026))  # De 2016/17 a 2025/26
 
-def download_html(url: str, path: pathlib.Path) -> None:
-    resp = requests.get(url, headers=HEADERS, timeout=20)
-    resp.raise_for_status()  # Lanza excepción si hay error HTTP
-    path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_bytes(resp.content)
-    print(f"✅ HTML guardado en {path} ({len(resp.content)/1024:.1f} KB)")
+# Función robusta para descargar HTML
+def download_html_safe(url: str, path: pathlib.Path, retries=3, delay=10):
+    if path.exists():
+        print(f"⏭️ Ya existe {path.name}, se omite descarga")
+        return
+
+    for attempt in range(retries):
+        try:
+            resp = requests.get(url, headers=HEADERS, timeout=60)
+            resp.raise_for_status()
+            path.parent.mkdir(parents=True, exist_ok=True)
+            path.write_bytes(resp.content)
+            print(f"✅ HTML guardado en {path} ({len(resp.content)/1024:.1f} KB)")
+            return
+        except Exception as e:
+            print(f"⚠️ Intento {attempt+1} fallido al descargar {url}: {e}")
+            time.sleep(delay)
+    print(f"❌ No se pudo descargar {url} tras {retries} intentos")
+
 
 def get_club_list(html_path: pathlib.Path):
     soup = BeautifulSoup(html_path.read_bytes(), "lxml")
@@ -37,20 +50,19 @@ def get_club_list(html_path: pathlib.Path):
                 "club_url": full_url
             })
 
-    print(f"🏟️ Extraídos {len(clubs)} clubes.")
     return clubs
 
 
 def download_club_html(club: dict, path: pathlib.Path):
+    if path.exists():
+        print(f"⏭️ Ya existe plantilla de {club['club_name']}")
+        return
+
     url = club["club_url"] + "/kader"
-    resp = requests.get(url, headers=HEADERS, timeout=20)
-    resp.raise_for_status()
-    path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_bytes(resp.content)
-    print(f"✅ HTML plantilla guardado en {path} ({len(resp.content)/1024:.1f} KB)")
+    download_html_safe(url, path)
+
 
 def parse_club_table(path: pathlib.Path, club_name: str) -> pd.DataFrame:
-    # Leemos la tabla principal del club
     df_raw = pd.read_html(path, flavor="lxml")[1]
     df_raw = df_raw[['#', 'Player', 'Date of birth/Age', 'Nat.', 'Market value']].copy()
 
@@ -61,10 +73,7 @@ def parse_club_table(path: pathlib.Path, club_name: str) -> pd.DataFrame:
     }, inplace=True)
 
     df_raw.reset_index(drop=True, inplace=True)
-    print("📋 Columnas en df_raw:", df_raw.columns.tolist())
-    print(df_raw.head(3))
 
-    # Parseo adicional con BeautifulSoup
     soup = BeautifulSoup(path.read_bytes(), "lxml")
     table = soup.select_one("table.items")
     html_rows = table.select("tbody > tr")
@@ -82,7 +91,6 @@ def parse_club_table(path: pathlib.Path, club_name: str) -> pd.DataFrame:
             position = str(row_pos["player"]).strip()
             mv = row_main["market_value"]
 
-            # Buscar la fila HTML que coincide con el jugador (por texto visible)
             while html_idx < len(html_rows):
                 html_tr = html_rows[html_idx]
                 html_idx += 1
@@ -91,10 +99,8 @@ def parse_club_table(path: pathlib.Path, club_name: str) -> pd.DataFrame:
                 if player_tag and player_tag.text.strip() == player:
                     break
             else:
-                print(f"⚠️ No encontrado en HTML: {player}")
                 continue
 
-            # Edad (de "May 11, 1992 (33)" → 33)
             age_cell = html_tr.select_one("td:nth-child(3)")
             age = None
             if age_cell:
@@ -120,23 +126,14 @@ def parse_club_table(path: pathlib.Path, club_name: str) -> pd.DataFrame:
                 "nationality": nationalities,
                 "player_url": player_url
             }
-            print("✅ Jugador extraído:", jugador)
             rows.append(jugador)
 
         except Exception as e:
             print(f"❌ Error en fila {i}: {e}")
             continue
 
-    # DataFrame final
     df = pd.DataFrame(rows)
 
-    if len(df) == 0:
-        print(f"⚠️ No se extrajo ninguna fila para {club_name}")
-    else:
-        print(f"📊 Columnas en df final: {df.columns.tolist()}")
-        print(df.head())
-
-    # Conversión del valor de mercado
     def parse_market_value(x):
         try:
             x = x.replace("€", "").replace("-", "0").strip()
@@ -151,48 +148,46 @@ def parse_club_table(path: pathlib.Path, club_name: str) -> pd.DataFrame:
 
     if "market_value" in df.columns:
         df["mv_millions"] = df["market_value"].apply(parse_market_value)
-    else:
-        print("❌ 'market_value' no está en el DataFrame final")
 
-    print(f"🔍 {club_name} → {len(df)} jugadores")
     return df
 
 
+# ===== BUCLE PRINCIPAL POR TEMPORADAS =====
 
-if __name__ == "__main__":
-    # Paso 1: Descargar HTML de clubes
-    download_html(URL_CLUBS, OUT_PATH)
-    clubs = get_club_list(OUT_PATH)
-    print("✅ Ejemplo:", clubs[0])
+for temporada in TEMPORADAS:
+    print(f"\n📅 Procesando temporada {temporada}/{str(temporada+1)[-2:]}...")
 
-    all_players = []
+    URL_TEMPORADA = f"https://www.transfermarkt.com/laliga/startseite/wettbewerb/ES1/plus/?saison_id={temporada}"
+    OUT_PATH_TEMP = pathlib.Path(f"data/raw/tm_laliga_{temporada}/clubs.html")
+
+    download_html_safe(URL_TEMPORADA, OUT_PATH_TEMP)
+
+    clubs = get_club_list(OUT_PATH_TEMP)
+    print(f"✅ {len(clubs)} clubes encontrados para {temporada}")
+
+    all_players_temp = []
 
     for club in clubs:
+        name = club["club_name"]
+        club_filename = f"plantilla_{name.lower().replace(' ', '_')}.html"
+        club_path = pathlib.Path(f"data/raw/tm_laliga_{temporada}") / club_filename
+
+        download_club_html(club, club_path)
+
         try:
-            name = club['club_name']
-            url = club['club_url']
-            print(f"\n=== 🔄 Procesando {name} ===")
-
-            # Nombre de archivo para guardar la plantilla
-            club_filename = f"plantilla_{name.lower().replace(' ', '_')}.html"
-            club_path = pathlib.Path("data/raw") / club_filename
-
-            # Descargar HTML solo si no existe (puedes quitar el if para forzar la descarga)
-            if not club_path.exists():
-                download_club_html(club, club_path)
-
-            # Extraer jugadores de ese club
-            df = parse_club_table(club_path, name)
-            all_players.append(df)
-
+            df_club = parse_club_table(club_path, name)
+            df_club["season"] = f"{temporada}/{str(temporada+1)[-2:]}"
+            all_players_temp.append(df_club)
         except Exception as e:
-            print(f"❌ Error procesando {club['club_name']}: {e}")
+            print(f"❌ Error procesando {name} ({temporada}): {e}")
 
-    # Paso 3: Unir todos los DataFrames
-    final_df = pd.concat(all_players, ignore_index=True)
+    # Guardar resultado si hay jugadores
+    if all_players_temp:
+        df_temp = pd.concat(all_players_temp, ignore_index=True)
+        out_csv = pathlib.Path(f"data/interim/jugadores_laliga_{temporada}.csv")
+        out_csv.parent.mkdir(parents=True, exist_ok=True)
+        df_temp.to_csv(out_csv, index=False)
+        print(f"💾 Guardado {out_csv.name} ({len(df_temp)} jugadores)")
 
-    # Paso 4: Guardar a CSV
-    OUT_CSV = pathlib.Path("data/processed/jugadores_laliga_2024.csv")
-    OUT_CSV.parent.mkdir(parents=True, exist_ok=True)
-    final_df.to_csv(OUT_CSV, index=False)
-    print(f"\n✅ CSV final guardado en {OUT_CSV} con {len(final_df)} jugadores")
+    # Pausa entre temporadas
+    time.sleep(60)
