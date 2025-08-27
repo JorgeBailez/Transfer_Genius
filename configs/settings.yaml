@@ -1,0 +1,26 @@
+---
+# Lista de años de inicio de temporada.  Por ejemplo, 2017 para la
+# temporada 2017/18.  Ajusta este listado según tus necesidades.
+seasons:
+  - 2017
+  - 2018
+  - 2019
+  - 2020
+  - 2021
+  - 2022
+  - 2023
+  - 2024
+  - 2025
+
+# Modo de descarga: ``real`` fuerza la descarga y sobrescribe archivos
+# locales; ``cache`` usa los archivos existentes si están presentes.
+mode: cache
+
+# Número máximo de reintentos para peticiones HTTP en scrapers.
+retries: 3
+
+# Segundos de espera entre reintentos.
+delay: 60
+
+# Tiempo máximo de espera (timeout) por solicitud HTTP.
+timeout: 30
