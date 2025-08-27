@@ -1,0 +1,735 @@
+player,position,age,market_value,club,nationality,player_url,mv_millions,season
+Marc-André ter Stegen,Goalkeeper,29,€60.00m,FC Barcelona,['Germany'],https://www.transfermarkt.com/marc-andre-ter-stegen/profil/spieler/74857,60.0,2020/21
+Neto,Goalkeeper,31,€6.00m,FC Barcelona,"['Brazil', 'Italy']",https://www.transfermarkt.com/neto/profil/spieler/111819,6.0,2020/21
+Iñaki Peña,Goalkeeper,22,€3.00m,FC Barcelona,['Spain'],https://www.transfermarkt.com/inaki-pena/profil/spieler/283170,3.0,2020/21
+Arnau Tenas,Goalkeeper,20,€1.50m,FC Barcelona,['Spain'],https://www.transfermarkt.com/arnau-tenas/profil/spieler/466783,1.5,2020/21
+Ronald Araujo,Centre-Back,22,€25.00m,FC Barcelona,"['Uruguay', 'Spain']",https://www.transfermarkt.com/ronald-araujo/profil/spieler/480267,25.0,2020/21
+Clément Lenglet,Centre-Back,26,€25.00m,FC Barcelona,['France'],https://www.transfermarkt.com/clement-lenglet/profil/spieler/182904,25.0,2020/21
+Gerard Piqué,Centre-Back,34,€10.00m,FC Barcelona,['Spain'],https://www.transfermarkt.com/gerard-pique/profil/spieler/18944,10.0,2020/21
+Samuel Umtiti,Centre-Back,27,€8.00m,FC Barcelona,"['France', 'Cameroon']",https://www.transfermarkt.com/samuel-umtiti/profil/spieler/126540,8.0,2020/21
+Santiago Ramos Mingo,Centre-Back,19,€500k,FC Barcelona,"['Argentina', 'Italy']",https://www.transfermarkt.com/santiago-ramos-mingo/profil/spieler/688593,0.5,2020/21
+Jordi Alba,Left-Back,32,€20.00m,FC Barcelona,['Spain'],https://www.transfermarkt.com/jordi-alba/profil/spieler/69751,20.0,2020/21
+Junior Firpo,Left-Back,24,€8.00m,FC Barcelona,"['Dominican Republic', 'Spain']",https://www.transfermarkt.com/junior-firpo/profil/spieler/374139,8.0,2020/21
+Sergiño Dest,Right-Back,20,€30.00m,FC Barcelona,"['United States', 'Netherlands']",https://www.transfermarkt.com/sergino-dest/profil/spieler/361104,30.0,2020/21
+Óscar Mingueza,Right-Back,22,€15.00m,FC Barcelona,['Spain'],https://www.transfermarkt.com/oscar-mingueza/profil/spieler/331505,15.0,2020/21
+Sergio Busquets,Defensive Midfield,32,€9.00m,FC Barcelona,['Spain'],https://www.transfermarkt.com/sergio-busquets/profil/spieler/65230,9.0,2020/21
+Matheus Fernandes,Defensive Midfield,23,€1.50m,FC Barcelona,['Brazil'],https://www.transfermarkt.com/matheus-fernandes/profil/spieler/351892,1.5,2020/21
+Frenkie de Jong,Central Midfield,24,€90.00m,FC Barcelona,['Netherlands'],https://www.transfermarkt.com/frenkie-de-jong/profil/spieler/326330,90.0,2020/21
+Pedri,Central Midfield,18,€70.00m,FC Barcelona,['Spain'],https://www.transfermarkt.com/pedri/profil/spieler/683840,70.0,2020/21
+Ilaix Moriba,Central Midfield,18,€25.00m,FC Barcelona,"['Guinea', 'Spain']",https://www.transfermarkt.com/ilaix-moriba/profil/spieler/617074,25.0,2020/21
+Miralem Pjanić,Central Midfield,31,€20.00m,FC Barcelona,"['Bosnia-Herzegovina', 'Luxembourg']",https://www.transfermarkt.com/miralem-pjanic/profil/spieler/44162,20.0,2020/21
+Riqui Puig,Central Midfield,21,€18.00m,FC Barcelona,['Spain'],https://www.transfermarkt.com/riqui-puig/profil/spieler/331511,18.0,2020/21
+Sergi Roberto,Central Midfield,29,€18.00m,FC Barcelona,['Spain'],https://www.transfermarkt.com/sergi-roberto/profil/spieler/85370,18.0,2020/21
+Carles Aleñá,Central Midfield,23,€15.00m,FC Barcelona,['Spain'],https://www.transfermarkt.com/carles-alena/profil/spieler/284854,15.0,2020/21
+Philippe Coutinho,Attacking Midfield,29,€30.00m,FC Barcelona,"['Brazil', 'Portugal']",https://www.transfermarkt.com/philippe-coutinho/profil/spieler/80444,30.0,2020/21
+Rafinha,Attacking Midfield,28,€15.00m,FC Barcelona,"['Brazil', 'Spain']",https://www.transfermarkt.com/rafinha/profil/spieler/129473,15.0,2020/21
+Ansu Fati,Left Winger,18,€60.00m,FC Barcelona,"['Spain', 'Guinea-Bissau']",https://www.transfermarkt.com/ansu-fati/profil/spieler/466810,60.0,2020/21
+Konrad de la Fuente,Left Winger,19,€4.00m,FC Barcelona,"['United States', 'Dominican Republic']",https://www.transfermarkt.com/konrad-de-la-fuente/profil/spieler/466809,4.0,2020/21
+Lionel Messi,Right Winger,34,€80.00m,FC Barcelona,"['Argentina', 'Spain']",https://www.transfermarkt.com/lionel-messi/profil/spieler/28003,80.0,2020/21
+Ousmane Dembélé,Right Winger,24,€50.00m,FC Barcelona,['France'],https://www.transfermarkt.com/ousmane-dembele/profil/spieler/288230,50.0,2020/21
+Francisco Trincão,Right Winger,21,€22.00m,FC Barcelona,['Portugal'],https://www.transfermarkt.com/francisco-trincao/profil/spieler/412669,22.0,2020/21
+Álex Collado,Right Winger,22,€5.00m,FC Barcelona,['Spain'],https://www.transfermarkt.com/alex-collado/profil/spieler/282722,5.0,2020/21
+Antoine Griezmann,Centre-Forward,30,€60.00m,FC Barcelona,['France'],https://www.transfermarkt.com/antoine-griezmann/profil/spieler/125781,60.0,2020/21
+Martin Braithwaite,Centre-Forward,30,€9.00m,FC Barcelona,"['Denmark', 'Guyana']",https://www.transfermarkt.com/martin-braithwaite/profil/spieler/95732,9.0,2020/21
+Thibaut Courtois,Goalkeeper,29,€60.00m,Real Madrid,['Belgium'],https://www.transfermarkt.com/thibaut-courtois/profil/spieler/108390,60.0,2020/21
+Andriy Lunin,Goalkeeper,22,€3.00m,Real Madrid,['Ukraine'],https://www.transfermarkt.com/andriy-lunin/profil/spieler/404839,3.0,2020/21
+Diego Altube,Goalkeeper,21,€500k,Real Madrid,['Spain'],https://www.transfermarkt.com/diego-altube/profil/spieler/549069,0.5,2020/21
+Luis López,Goalkeeper,20,€150k,Real Madrid,['Spain'],https://www.transfermarkt.com/luis-lopez/profil/spieler/623525,0.15,2020/21
+Lucas Cañizares,Goalkeeper,19,-,Real Madrid,['Spain'],https://www.transfermarkt.com/lucas-canizares/profil/spieler/568154,0.0,2020/21
+Raphaël Varane,Centre-Back,28,€70.00m,Real Madrid,"['France', 'Martinique']",https://www.transfermarkt.com/raphael-varane/profil/spieler/164770,70.0,2020/21
+Éder Militão,Centre-Back,23,€40.00m,Real Madrid,"['Brazil', 'Spain']",https://www.transfermarkt.com/eder-militao/profil/spieler/401530,40.0,2020/21
+Sergio Ramos,Centre-Back,35,€10.00m,Real Madrid,['Spain'],https://www.transfermarkt.com/sergio-ramos/profil/spieler/25557,10.0,2020/21
+Nacho Fernández,Centre-Back,31,€10.00m,Real Madrid,['Spain'],https://www.transfermarkt.com/nacho-fernandez/profil/spieler/58884,10.0,2020/21
+Víctor Chust,Centre-Back,21,€400k,Real Madrid,['Spain'],https://www.transfermarkt.com/victor-chust/profil/spieler/495625,0.4,2020/21
+Pablo Ramón,Centre-Back,20,€50k,Real Madrid,['Spain'],https://www.transfermarkt.com/pablo-ramon/profil/spieler/629511,0.05,2020/21
+Ferland Mendy,Left-Back,26,€50.00m,Real Madrid,"['France', 'Senegal']",https://www.transfermarkt.com/ferland-mendy/profil/spieler/291417,50.0,2020/21
+Marcelo,Left-Back,33,€7.50m,Real Madrid,"['Brazil', 'Spain']",https://www.transfermarkt.com/marcelo/profil/spieler/44501,7.5,2020/21
+Miguel Gutiérrez,Left-Back,19,€5.00m,Real Madrid,['Spain'],https://www.transfermarkt.com/miguel-gutierrez/profil/spieler/525299,5.0,2020/21
+Daniel Carvajal,Right-Back,29,€30.00m,Real Madrid,['Spain'],https://www.transfermarkt.com/daniel-carvajal/profil/spieler/138927,30.0,2020/21
+Lucas Vázquez,Right-Back,29,€15.00m,Real Madrid,['Spain'],https://www.transfermarkt.com/lucas-vazquez/profil/spieler/221316,15.0,2020/21
+Álvaro Odriozola,Right-Back,25,€10.00m,Real Madrid,['Spain'],https://www.transfermarkt.com/alvaro-odriozola/profil/spieler/280730,10.0,2020/21
+Marvin Park,Right-Back,20,€500k,Real Madrid,['Spain'],https://www.transfermarkt.com/marvin-park/profil/spieler/603940,0.5,2020/21
+Sergio Santos,Right-Back,20,€200k,Real Madrid,['Spain'],https://www.transfermarkt.com/sergio-santos/profil/spieler/537759,0.2,2020/21
+Casemiro,Defensive Midfield,29,€70.00m,Real Madrid,"['Brazil', 'Spain']",https://www.transfermarkt.com/casemiro/profil/spieler/16306,70.0,2020/21
+Antonio Blanco,Defensive Midfield,20,€5.00m,Real Madrid,['Spain'],https://www.transfermarkt.com/antonio-blanco/profil/spieler/495621,5.0,2020/21
+Federico Valverde,Central Midfield,22,€65.00m,Real Madrid,"['Uruguay', 'Spain']",https://www.transfermarkt.com/federico-valverde/profil/spieler/369081,65.0,2020/21
+Toni Kroos,Central Midfield,31,€40.00m,Real Madrid,['Germany'],https://www.transfermarkt.com/toni-kroos/profil/spieler/31909,40.0,2020/21
+Luka Modrić,Central Midfield,35,€10.00m,Real Madrid,['Croatia'],https://www.transfermarkt.com/luka-modric/profil/spieler/27992,10.0,2020/21
+Martin Ødegaard,Attacking Midfield,22,€40.00m,Real Madrid,['Norway'],https://www.transfermarkt.com/martin-odegaard/profil/spieler/316264,40.0,2020/21
+Marco Asensio,Attacking Midfield,25,€35.00m,Real Madrid,"['Spain', 'Netherlands']",https://www.transfermarkt.com/marco-asensio/profil/spieler/296622,35.0,2020/21
+Isco,Attacking Midfield,29,€18.00m,Real Madrid,['Spain'],https://www.transfermarkt.com/isco/profil/spieler/85288,18.0,2020/21
+Sergio Arribas,Attacking Midfield,19,€3.00m,Real Madrid,['Spain'],https://www.transfermarkt.com/sergio-arribas/profil/spieler/537762,3.0,2020/21
+Eden Hazard,Left Winger,30,€40.00m,Real Madrid,['Belgium'],https://www.transfermarkt.com/eden-hazard/profil/spieler/50202,40.0,2020/21
+Vinicius Junior,Left Winger,20,€40.00m,Real Madrid,"['Brazil', 'Spain']",https://www.transfermarkt.com/vinicius-junior/profil/spieler/371998,40.0,2020/21
+Óscar Aranda,Left Winger,19,-,Real Madrid,['Spain'],https://www.transfermarkt.com/oscar-aranda/profil/spieler/652332,0.0,2020/21
+Rodrygo,Right Winger,20,€35.00m,Real Madrid,"['Brazil', 'Spain']",https://www.transfermarkt.com/rodrygo/profil/spieler/412363,35.0,2020/21
+Karim Benzema,Centre-Forward,33,€25.00m,Real Madrid,"['France', 'Algeria']",https://www.transfermarkt.com/karim-benzema/profil/spieler/18922,25.0,2020/21
+Luka Jović,Centre-Forward,23,€20.00m,Real Madrid,"['Serbia', 'Bosnia-Herzegovina']",https://www.transfermarkt.com/luka-jovic/profil/spieler/257462,20.0,2020/21
+Borja Mayoral,Centre-Forward,24,€14.00m,Real Madrid,['Spain'],https://www.transfermarkt.com/borja-mayoral/profil/spieler/298976,14.0,2020/21
+Mariano Díaz,Centre-Forward,27,€10.00m,Real Madrid,"['Dominican Republic', 'Spain']",https://www.transfermarkt.com/mariano-diaz/profil/spieler/225020,10.0,2020/21
+Hugo Duro,Centre-Forward,21,€5.00m,Real Madrid,['Spain'],https://www.transfermarkt.com/hugo-duro/profil/spieler/573775,5.0,2020/21
+Jan Oblak,Goalkeeper,28,€70.00m,Atlético de Madrid,['Slovenia'],https://www.transfermarkt.com/jan-oblak/profil/spieler/121483,70.0,2020/21
+Ivo Grbic,Goalkeeper,25,€3.50m,Atlético de Madrid,['Croatia'],https://www.transfermarkt.com/ivo-grbic/profil/spieler/226073,3.5,2020/21
+Miguel San Román,Goalkeeper,23,€700k,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/miguel-san-roman/profil/spieler/396337,0.7,2020/21
+José María Giménez,Centre-Back,26,€60.00m,Atlético de Madrid,"['Uruguay', 'Spain']",https://www.transfermarkt.com/jose-maria-gimenez/profil/spieler/250845,60.0,2020/21
+Mario Hermoso,Centre-Back,26,€35.00m,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/mario-hermoso/profil/spieler/281769,35.0,2020/21
+Stefan Savic,Centre-Back,30,€25.00m,Atlético de Madrid,"['Montenegro', 'Serbia']",https://www.transfermarkt.com/stefan-savic/profil/spieler/107010,25.0,2020/21
+Felipe,Centre-Back,32,€12.00m,Atlético de Madrid,['Brazil'],https://www.transfermarkt.com/felipe/profil/spieler/156501,12.0,2020/21
+Nehuén Pérez,Centre-Back,21,€4.00m,Atlético de Madrid,['Argentina'],https://www.transfermarkt.com/nehuen-perez/profil/spieler/491693,4.0,2020/21
+Álvaro García,Centre-Back,21,€200k,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/alvaro-garcia/profil/spieler/495600,0.2,2020/21
+Adrián Corral,Centre-Back,18,€200k,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/adrian-corral/profil/spieler/708388,0.2,2020/21
+Renan Lodi,Left-Back,23,€25.00m,Atlético de Madrid,"['Brazil', 'Italy']",https://www.transfermarkt.com/renan-lodi/profil/spieler/476352,25.0,2020/21
+Manu Sánchez,Left-Back,20,€8.00m,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/manu-sanchez/profil/spieler/618809,8.0,2020/21
+Juan Manuel Sanabria,Left-Back,21,€800k,Atlético de Madrid,"['Uruguay', 'Spain']",https://www.transfermarkt.com/juan-manuel-sanabria/profil/spieler/446106,0.8,2020/21
+Kieran Trippier,Right-Back,30,€20.00m,Atlético de Madrid,['England'],https://www.transfermarkt.com/kieran-trippier/profil/spieler/95810,20.0,2020/21
+Sime Vrsaljko,Right-Back,29,€5.00m,Atlético de Madrid,['Croatia'],https://www.transfermarkt.com/sime-vrsaljko/profil/spieler/76061,5.0,2020/21
+Ricard Sánchez,Right-Back,21,€1.50m,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/ricard-sanchez/profil/spieler/388545,1.5,2020/21
+Thomas Partey,Defensive Midfield,28,€40.00m,Atlético de Madrid,['Ghana'],https://www.transfermarkt.com/thomas-partey/profil/spieler/230784,40.0,2020/21
+Lucas Torreira,Defensive Midfield,25,€20.00m,Atlético de Madrid,"['Uruguay', 'Spain']",https://www.transfermarkt.com/lucas-torreira/profil/spieler/318077,20.0,2020/21
+Geoffrey Kondogbia,Defensive Midfield,28,€15.00m,Atlético de Madrid,"['Central African Republic', 'France']",https://www.transfermarkt.com/geoffrey-kondogbia/profil/spieler/127189,15.0,2020/21
+Koke,Central Midfield,29,€60.00m,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/koke/profil/spieler/74229,60.0,2020/21
+Saúl Ñíguez,Central Midfield,26,€40.00m,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/saul-niguez/profil/spieler/148928,40.0,2020/21
+Héctor Herrera,Central Midfield,31,€7.00m,Atlético de Madrid,"['Mexico', 'Portugal']",https://www.transfermarkt.com/hector-herrera/profil/spieler/122043,7.0,2020/21
+Toni Moya,Central Midfield,23,€400k,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/toni-moya/profil/spieler/295065,0.4,2020/21
+Josep Calavera,Central Midfield,21,€250k,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/josep-calavera/profil/spieler/408472,0.25,2020/21
+Óscar Castro,Central Midfield,20,€50k,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/oscar-castro/profil/spieler/536823,0.05,2020/21
+Marcos Llorente,Right Midfield,26,€80.00m,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/marcos-llorente/profil/spieler/282411,80.0,2020/21
+Thomas Lemar,Attacking Midfield,25,€25.00m,Atlético de Madrid,"['France', 'Guadeloupe']",https://www.transfermarkt.com/thomas-lemar/profil/spieler/205562,25.0,2020/21
+Mario Soriano,Attacking Midfield,19,€500k,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/mario-soriano/profil/spieler/568148,0.5,2020/21
+Yannick Carrasco,Left Winger,27,€40.00m,Atlético de Madrid,"['Belgium', 'Spain']",https://www.transfermarkt.com/yannick-carrasco/profil/spieler/140776,40.0,2020/21
+Vitolo,Left Winger,31,€4.00m,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/vitolo/profil/spieler/67082,4.0,2020/21
+Víctor Mollejo,Left Winger,20,€3.00m,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/victor-mollejo/profil/spieler/505673,3.0,2020/21
+Ángel Correa,Right Winger,26,€40.00m,Atlético de Madrid,"['Argentina', 'Spain']",https://www.transfermarkt.com/angel-correa/profil/spieler/266807,40.0,2020/21
+Germán Valera,Right Winger,19,€2.50m,Atlético de Madrid,"['Spain', 'Lithuania']",https://www.transfermarkt.com/german-valera/profil/spieler/548188,2.5,2020/21
+João Félix,Second Striker,21,€80.00m,Atlético de Madrid,['Portugal'],https://www.transfermarkt.com/joao-felix/profil/spieler/462250,80.0,2020/21
+Moussa Dembélé,Centre-Forward,24,€20.00m,Atlético de Madrid,"['France', 'Mali']",https://www.transfermarkt.com/moussa-dembele/profil/spieler/229004,20.0,2020/21
+Luis Suárez,Centre-Forward,34,€15.00m,Atlético de Madrid,['Uruguay'],https://www.transfermarkt.com/luis-suarez/profil/spieler/44352,15.0,2020/21
+Diego Costa,Centre-Forward,32,€6.00m,Atlético de Madrid,"['Spain', 'Brazil']",https://www.transfermarkt.com/diego-costa/profil/spieler/44779,6.0,2020/21
+Sergio Camello,Centre-Forward,20,€2.30m,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/sergio-camello/profil/spieler/505674,2.3,2020/21
+Ivan Saponjic,Centre-Forward,23,€1.20m,Atlético de Madrid,['Serbia'],https://www.transfermarkt.com/ivan-saponjic/profil/spieler/274347,1.2,2020/21
+Bono,Goalkeeper,30,€18.00m,Sevilla FC,"['Morocco', 'Canada']",https://www.transfermarkt.com/bono/profil/spieler/207834,18.0,2020/21
+Tomáš Vaclík,Goalkeeper,32,€4.00m,Sevilla FC,['Czech Republic'],https://www.transfermarkt.com/tomas-vaclik/profil/spieler/64000,4.0,2020/21
+Javi Díaz,Goalkeeper,24,€400k,Sevilla FC,['Spain'],https://www.transfermarkt.com/javi-diaz/profil/spieler/396107,0.4,2020/21
+Alfonso Pastor,Goalkeeper,20,€250k,Sevilla FC,['Spain'],https://www.transfermarkt.com/alfonso-pastor/profil/spieler/537367,0.25,2020/21
+Adrián González,Goalkeeper,21,€50k,Sevilla FC,['Spain'],https://www.transfermarkt.com/adrian-gonzalez/profil/spieler/537369,0.05,2020/21
+Diego Carlos,Centre-Back,28,€45.00m,Sevilla FC,"['Brazil', 'Spain']",https://www.transfermarkt.com/diego-carlos/profil/spieler/329145,45.0,2020/21
+Sergi Gómez,Centre-Back,29,€3.00m,Sevilla FC,['Spain'],https://www.transfermarkt.com/sergi-gomez/profil/spieler/92947,3.0,2020/21
+Karim Rekik,Centre-Back,26,€3.00m,Sevilla FC,"['Netherlands', 'Tunisia']",https://www.transfermarkt.com/karim-rekik/profil/spieler/182579,3.0,2020/21
+Joris Gnagnon,Centre-Back,24,€1.50m,Sevilla FC,"['France', ""Cote d'Ivoire""]",https://www.transfermarkt.com/joris-gnagnon/profil/spieler/378954,1.5,2020/21
+Kike Ríos,Centre-Back,21,€50k,Sevilla FC,['Spain'],https://www.transfermarkt.com/kike-rios/profil/spieler/398435,0.05,2020/21
+Marcos Acuña,Left-Back,29,€15.00m,Sevilla FC,['Argentina'],https://www.transfermarkt.com/marcos-acuna/profil/spieler/60410,15.0,2020/21
+Sergio Escudero,Left-Back,31,€2.50m,Sevilla FC,['Spain'],https://www.transfermarkt.com/sergio-escudero/profil/spieler/93935,2.5,2020/21
+Javi Vázquez,Left-Back,20,€150k,Sevilla FC,['Spain'],https://www.transfermarkt.com/javi-vazquez/profil/spieler/461866,0.15,2020/21
+Pablo Pérez,Left-Back,19,€100k,Sevilla FC,['Spain'],https://www.transfermarkt.com/pablo-perez/profil/spieler/711628,0.1,2020/21
+Jules Koundé,Right-Back,22,€60.00m,Sevilla FC,"['France', 'Benin']",https://www.transfermarkt.com/jules-kounde/profil/spieler/411975,60.0,2020/21
+Álex Pozo,Right-Back,22,€4.00m,Sevilla FC,['Spain'],https://www.transfermarkt.com/alex-pozo/profil/spieler/341272,4.0,2020/21
+Jesús Navas,Right-Back,35,€3.00m,Sevilla FC,['Spain'],https://www.transfermarkt.com/jesus-navas/profil/spieler/15956,3.0,2020/21
+Juanlu Sánchez,Right-Back,17,€400k,Sevilla FC,['Spain'],https://www.transfermarkt.com/juanlu-sanchez/profil/spieler/676042,0.4,2020/21
+Nemanja Gudelj,Defensive Midfield,29,€6.00m,Sevilla FC,"['Serbia', 'Netherlands']",https://www.transfermarkt.com/nemanja-gudelj/profil/spieler/74294,6.0,2020/21
+Fernando,Defensive Midfield,33,€4.00m,Sevilla FC,"['Brazil', 'Portugal']",https://www.transfermarkt.com/fernando/profil/spieler/51174,4.0,2020/21
+Joan Jordán,Central Midfield,26,€30.00m,Sevilla FC,['Spain'],https://www.transfermarkt.com/joan-jordan/profil/spieler/263727,30.0,2020/21
+Óliver Torres,Central Midfield,26,€13.00m,Sevilla FC,['Spain'],https://www.transfermarkt.com/oliver-torres/profil/spieler/214775,13.0,2020/21
+Ivan Rakitic,Central Midfield,33,€10.00m,Sevilla FC,"['Croatia', 'Switzerland']",https://www.transfermarkt.com/ivan-rakitic/profil/spieler/32467,10.0,2020/21
+Óscar Rodríguez,Attacking Midfield,23,€12.00m,Sevilla FC,['Spain'],https://www.transfermarkt.com/oscar-rodriguez/profil/spieler/284884,12.0,2020/21
+Franco Vázquez,Attacking Midfield,32,€4.00m,Sevilla FC,"['Argentina', 'Italy']",https://www.transfermarkt.com/franco-vazquez/profil/spieler/76163,4.0,2020/21
+Lucas Ocampos,Left Winger,26,€40.00m,Sevilla FC,"['Argentina', 'Spain']",https://www.transfermarkt.com/lucas-ocampos/profil/spieler/189441,40.0,2020/21
+Bryan Gil,Left Winger,20,€30.00m,Sevilla FC,['Spain'],https://www.transfermarkt.com/bryan-gil/profil/spieler/537382,30.0,2020/21
+Papu Gómez,Left Winger,33,€9.00m,Sevilla FC,"['Argentina', 'Italy']",https://www.transfermarkt.com/papu-gomez/profil/spieler/20005,9.0,2020/21
+Oussama Idrissi,Left Winger,25,€8.00m,Sevilla FC,"['Morocco', 'Netherlands']",https://www.transfermarkt.com/oussama-idrissi/profil/spieler/241391,8.0,2020/21
+Suso,Right Winger,27,€20.00m,Sevilla FC,['Spain'],https://www.transfermarkt.com/suso/profil/spieler/111961,20.0,2020/21
+Munir El Haddadi,Right Winger,25,€10.00m,Sevilla FC,"['Morocco', 'Spain']",https://www.transfermarkt.com/munir-el-haddadi/profil/spieler/223725,10.0,2020/21
+Aleix Vidal,Right Winger,31,€2.00m,Sevilla FC,['Spain'],https://www.transfermarkt.com/aleix-vidal/profil/spieler/88490,2.0,2020/21
+Carlos Álvarez,Right Winger,17,€300k,Sevilla FC,['Spain'],https://www.transfermarkt.com/carlos-alvarez/profil/spieler/668179,0.3,2020/21
+Antonio Zarzana,Right Winger,19,€50k,Sevilla FC,['Spain'],https://www.transfermarkt.com/antonio-zarzana/profil/spieler/587562,0.05,2020/21
+Youssef En-Nesyri,Centre-Forward,24,€40.00m,Sevilla FC,['Morocco'],https://www.transfermarkt.com/youssef-en-nesyri/profil/spieler/433049,40.0,2020/21
+Luuk de Jong,Centre-Forward,30,€10.00m,Sevilla FC,['Netherlands'],https://www.transfermarkt.com/luuk-de-jong/profil/spieler/72522,10.0,2020/21
+Carlos Fernández,Centre-Forward,25,€9.00m,Sevilla FC,['Spain'],https://www.transfermarkt.com/carlos-fernandez/profil/spieler/216464,9.0,2020/21
+Iván Romero,Centre-Forward,20,€500k,Sevilla FC,['Spain'],https://www.transfermarkt.com/ivan-romero/profil/spieler/628886,0.5,2020/21
+Álex Remiro,Goalkeeper,26,€20.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/alex-remiro/profil/spieler/212862,20.0,2020/21
+Miguel Ángel Moyá,Goalkeeper,37,€800k,Real Sociedad,['Spain'],https://www.transfermarkt.com/miguel-angel-moya/profil/spieler/26065,0.8,2020/21
+Andoni Zubiaurre,Goalkeeper,24,€300k,Real Sociedad,['Spain'],https://www.transfermarkt.com/andoni-zubiaurre/profil/spieler/428948,0.3,2020/21
+Gaizka Ayesa,Goalkeeper,20,€200k,Real Sociedad,['Spain'],https://www.transfermarkt.com/gaizka-ayesa/profil/spieler/561702,0.2,2020/21
+Unai Marrero,Goalkeeper,19,-,Real Sociedad,['Spain'],https://www.transfermarkt.com/unai-marrero/profil/spieler/625657,0.0,2020/21
+Robin Le Normand,Centre-Back,24,€22.00m,Real Sociedad,"['Spain', 'France']",https://www.transfermarkt.com/robin-le-normand/profil/spieler/351809,22.0,2020/21
+Diego Llorente,Centre-Back,27,€20.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/diego-llorente/profil/spieler/246291,20.0,2020/21
+Igor Zubeldia,Centre-Back,24,€20.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/igor-zubeldia/profil/spieler/355628,20.0,2020/21
+Aritz Elustondo,Centre-Back,27,€15.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/aritz-elustondo/profil/spieler/229804,15.0,2020/21
+Modibo Sagnan,Centre-Back,22,€3.00m,Real Sociedad,"['Mali', 'France']",https://www.transfermarkt.com/modibo-sagnan/profil/spieler/524925,3.0,2020/21
+Jon Pacheco,Centre-Back,20,€200k,Real Sociedad,['Spain'],https://www.transfermarkt.com/jon-pacheco/profil/spieler/580560,0.2,2020/21
+Jérémy Blasco,Centre-Back,22,€150k,Real Sociedad,['France'],https://www.transfermarkt.com/jeremy-blasco/profil/spieler/517845,0.15,2020/21
+Aritz Arambarri,Centre-Back,23,€150k,Real Sociedad,['Spain'],https://www.transfermarkt.com/aritz-arambarri/profil/spieler/434602,0.15,2020/21
+Aihen Muñoz,Left-Back,23,€6.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/aihen-munoz/profil/spieler/517842,6.0,2020/21
+Nacho Monreal,Left-Back,35,€1.50m,Real Sociedad,['Spain'],https://www.transfermarkt.com/nacho-monreal/profil/spieler/43003,1.5,2020/21
+Andoni Gorosabel,Right-Back,24,€10.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/andoni-gorosabel/profil/spieler/289255,10.0,2020/21
+Joseba Zaldua,Right-Back,29,€5.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/joseba-zaldua/profil/spieler/197135,5.0,2020/21
+Martín Zubimendi,Defensive Midfield,22,€20.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/martin-zubimendi/profil/spieler/423440,20.0,2020/21
+Asier Illarramendi,Defensive Midfield,31,€6.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/asier-illarramendi/profil/spieler/59344,6.0,2020/21
+Urko González de Zárate,Defensive Midfield,20,€500k,Real Sociedad,['Spain'],https://www.transfermarkt.com/urko-gonzalez-de-zarate/profil/spieler/625651,0.5,2020/21
+Mikel Merino,Central Midfield,25,€40.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/mikel-merino/profil/spieler/338424,40.0,2020/21
+Ander Guevara,Central Midfield,23,€7.50m,Real Sociedad,['Spain'],https://www.transfermarkt.com/ander-guevara/profil/spieler/465967,7.5,2020/21
+Jon Guridi,Central Midfield,26,€1.80m,Real Sociedad,['Spain'],https://www.transfermarkt.com/jon-guridi/profil/spieler/289257,1.8,2020/21
+Luca Sangalli,Central Midfield,26,€1.50m,Real Sociedad,"['Spain', 'Italy']",https://www.transfermarkt.com/luca-sangalli/profil/spieler/289286,1.5,2020/21
+Beñat Turrientes,Central Midfield,19,€300k,Real Sociedad,['Spain'],https://www.transfermarkt.com/benat-turrientes/profil/spieler/634431,0.3,2020/21
+Roberto López,Attacking Midfield,21,€8.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/roberto-lopez/profil/spieler/569866,8.0,2020/21
+David Silva,Attacking Midfield,35,€5.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/david-silva/profil/spieler/35518,5.0,2020/21
+Ander Barrenetxea,Left Winger,19,€15.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/ander-barrenetxea/profil/spieler/616369,15.0,2020/21
+Martín Merquelanz,Left Winger,26,€2.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/martin-merquelanz/profil/spieler/289272,2.0,2020/21
+Julen Lobete,Left Winger,20,€1.50m,Real Sociedad,['Spain'],https://www.transfermarkt.com/julen-lobete/profil/spieler/625654,1.5,2020/21
+Portu,Right Winger,29,€20.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/portu/profil/spieler/99353,20.0,2020/21
+Adnan Januzaj,Right Winger,26,€12.00m,Real Sociedad,"['Belgium', 'Kosovo']",https://www.transfermarkt.com/adnan-januzaj/profil/spieler/177847,12.0,2020/21
+Robert Navarro,Right Winger,19,€3.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/robert-navarro/profil/spieler/563137,3.0,2020/21
+Mikel Oyarzabal,Centre-Forward,24,€70.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/mikel-oyarzabal/profil/spieler/351478,70.0,2020/21
+Alexander Isak,Centre-Forward,21,€40.00m,Real Sociedad,"['Sweden', 'Eritrea']",https://www.transfermarkt.com/alexander-isak/profil/spieler/349066,40.0,2020/21
+Willian José,Centre-Forward,29,€18.00m,Real Sociedad,"['Brazil', 'Spain']",https://www.transfermarkt.com/willian-jose/profil/spieler/122155,18.0,2020/21
+Carlos Fernández,Centre-Forward,25,€9.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/carlos-fernandez/profil/spieler/216464,9.0,2020/21
+Jon Bautista,Centre-Forward,25,€1.20m,Real Sociedad,['Spain'],https://www.transfermarkt.com/jon-bautista/profil/spieler/289236,1.2,2020/21
+Sergio Asenjo,Goalkeeper,32,€9.00m,Villarreal CF,['Spain'],https://www.transfermarkt.com/sergio-asenjo/profil/spieler/51710,9.0,2020/21
+Gerónimo Rulli,Goalkeeper,29,€4.00m,Villarreal CF,"['Argentina', 'Italy']",https://www.transfermarkt.com/geronimo-rulli/profil/spieler/229604,4.0,2020/21
+Filip Jørgensen,Goalkeeper,19,€250k,Villarreal CF,"['Denmark', 'Sweden']",https://www.transfermarkt.com/filip-jorgensen/profil/spieler/585323,0.25,2020/21
+Iker Álvarez,Goalkeeper,19,€50k,Villarreal CF,['Andorra'],https://www.transfermarkt.com/iker-alvarez/profil/spieler/547248,0.05,2020/21
+Pau Torres,Centre-Back,24,€50.00m,Villarreal CF,['Spain'],https://www.transfermarkt.com/pau-torres/profil/spieler/399776,50.0,2020/21
+Mario Gaspar,Centre-Back,30,€5.00m,Villarreal CF,['Spain'],https://www.transfermarkt.com/mario-gaspar/profil/spieler/73250,5.0,2020/21
+Raúl Albiol,Centre-Back,35,€2.50m,Villarreal CF,['Spain'],https://www.transfermarkt.com/raul-albiol/profil/spieler/15452,2.5,2020/21
+Ramiro Funes Mori,Centre-Back,30,€2.00m,Villarreal CF,"['Argentina', 'United States']",https://www.transfermarkt.com/ramiro-funes-mori/profil/spieler/11111,2.0,2020/21
+Soufiane Chakla,Centre-Back,27,€800k,Villarreal CF,"['Morocco', 'Spain']",https://www.transfermarkt.com/soufiane-chakla/profil/spieler/236956,0.8,2020/21
+Alfonso Pedraza,Left-Back,25,€20.00m,Villarreal CF,['Spain'],https://www.transfermarkt.com/alfonso-pedraza/profil/spieler/356197,20.0,2020/21
+Pervis Estupiñán,Left-Back,23,€12.00m,Villarreal CF,"['Ecuador', 'Spain']",https://www.transfermarkt.com/pervis-estupinan/profil/spieler/349599,12.0,2020/21
+Alberto Moreno,Left-Back,28,€2.50m,Villarreal CF,['Spain'],https://www.transfermarkt.com/alberto-moreno/profil/spieler/207917,2.5,2020/21
+Jaume Costa,Left-Back,33,€2.00m,Villarreal CF,['Spain'],https://www.transfermarkt.com/jaume-costa/profil/spieler/65318,2.0,2020/21
+Juan Foyth,Right-Back,23,€12.00m,Villarreal CF,"['Argentina', 'Spain']",https://www.transfermarkt.com/juan-foyth/profil/spieler/480763,12.0,2020/21
+Rubén Peña,Right-Back,29,€4.00m,Villarreal CF,['Spain'],https://www.transfermarkt.com/ruben-pena/profil/spieler/238868,4.0,2020/21
+Andrei Rațiu,Right-Back,23,€300k,Villarreal CF,"['Romania', 'Spain']",https://www.transfermarkt.com/andrei-ratiu/profil/spieler/527966,0.3,2020/21
+Lanchi,Right-Back,20,€200k,Villarreal CF,['Spain'],https://www.transfermarkt.com/lanchi/profil/spieler/631098,0.2,2020/21
+Francis Coquelin,Defensive Midfield,30,€5.00m,Villarreal CF,"['France', 'Réunion']",https://www.transfermarkt.com/francis-coquelin/profil/spieler/74869,5.0,2020/21
+Vicente Iborra,Defensive Midfield,33,€3.00m,Villarreal CF,['Spain'],https://www.transfermarkt.com/vicente-iborra/profil/spieler/65467,3.0,2020/21
+Étienne Capoue,Defensive Midfield,32,€2.00m,Villarreal CF,"['France', 'Guadeloupe']",https://www.transfermarkt.com/etienne-capoue/profil/spieler/63494,2.0,2020/21
+Manu Trigueros,Central Midfield,29,€12.00m,Villarreal CF,['Spain'],https://www.transfermarkt.com/manu-trigueros/profil/spieler/188854,12.0,2020/21
+Dani Parejo,Central Midfield,32,€10.00m,Villarreal CF,['Spain'],https://www.transfermarkt.com/dani-parejo/profil/spieler/59561,10.0,2020/21
+Carlo García,Central Midfield,20,€300k,Villarreal CF,['Spain'],https://www.transfermarkt.com/carlo-garcia/profil/spieler/627287,0.3,2020/21
+Sergio Lozano,Central Midfield,22,€200k,Villarreal CF,['Spain'],https://www.transfermarkt.com/sergio-lozano/profil/spieler/341277,0.2,2020/21
+Moi Gómez,Left Winger,27,€8.00m,Villarreal CF,['Spain'],https://www.transfermarkt.com/moi-gomez/profil/spieler/175449,8.0,2020/21
+Javi Ontiveros,Left Winger,23,€5.00m,Villarreal CF,['Spain'],https://www.transfermarkt.com/javi-ontiveros/profil/spieler/298983,5.0,2020/21
+Álex Baena,Left Winger,19,€2.50m,Villarreal CF,['Spain'],https://www.transfermarkt.com/alex-baena/profil/spieler/548111,2.5,2020/21
+Samuel Chukwueze,Right Winger,22,€20.00m,Villarreal CF,['Nigeria'],https://www.transfermarkt.com/samuel-chukwueze/profil/spieler/401922,20.0,2020/21
+Takefusa Kubo,Right Winger,20,€15.00m,Villarreal CF,['Japan'],https://www.transfermarkt.com/takefusa-kubo/profil/spieler/405398,15.0,2020/21
+Yéremy Pino,Right Winger,18,€15.00m,Villarreal CF,['Spain'],https://www.transfermarkt.com/yeremy-pino/profil/spieler/568157,15.0,2020/21
+Dani Raba,Right Winger,25,€900k,Villarreal CF,['Spain'],https://www.transfermarkt.com/dani-raba/profil/spieler/413262,0.9,2020/21
+Gerard Moreno,Centre-Forward,29,€40.00m,Villarreal CF,['Spain'],https://www.transfermarkt.com/gerard-moreno/profil/spieler/177467,40.0,2020/21
+Paco Alcácer,Centre-Forward,27,€22.00m,Villarreal CF,['Spain'],https://www.transfermarkt.com/paco-alcacer/profil/spieler/126716,22.0,2020/21
+Fer Niño,Centre-Forward,20,€3.00m,Villarreal CF,['Spain'],https://www.transfermarkt.com/fer-nino/profil/spieler/627294,3.0,2020/21
+Carlos Bacca,Centre-Forward,34,€1.80m,Villarreal CF,['Colombia'],https://www.transfermarkt.com/carlos-bacca/profil/spieler/119235,1.8,2020/21
+Álex Millán,Centre-Forward,21,€300k,Villarreal CF,['Spain'],https://www.transfermarkt.com/alex-millan/profil/spieler/412041,0.3,2020/21
+Jasper Cillessen,Goalkeeper,32,€5.00m,Valencia CF,['Netherlands'],https://www.transfermarkt.com/jasper-cillessen/profil/spieler/146227,5.0,2020/21
+Jaume Doménech,Goalkeeper,30,€4.00m,Valencia CF,['Spain'],https://www.transfermarkt.com/jaume-domenech/profil/spieler/227805,4.0,2020/21
+Cristian Rivero,Goalkeeper,23,€300k,Valencia CF,['Spain'],https://www.transfermarkt.com/cristian-rivero/profil/spieler/398131,0.3,2020/21
+Unai Etxebarria,Goalkeeper,24,€150k,Valencia CF,['Spain'],https://www.transfermarkt.com/unai-etxebarria/profil/spieler/288376,0.15,2020/21
+Gabriel Paulista,Centre-Back,30,€15.00m,Valencia CF,"['Brazil', 'Spain']",https://www.transfermarkt.com/gabriel-paulista/profil/spieler/149498,15.0,2020/21
+Mouctar Diakhaby,Centre-Back,24,€10.00m,Valencia CF,"['Guinea', 'France']",https://www.transfermarkt.com/mouctar-diakhaby/profil/spieler/346289,10.0,2020/21
+Ferro,Centre-Back,24,€5.00m,Valencia CF,['Portugal'],https://www.transfermarkt.com/ferro/profil/spieler/294321,5.0,2020/21
+Eliaquim Mangala,Centre-Back,30,€2.50m,Valencia CF,"['France', 'Belgium']",https://www.transfermarkt.com/eliaquim-mangala/profil/spieler/90681,2.5,2020/21
+Cristiano Piccini,Centre-Back,28,€2.20m,Valencia CF,['Italy'],https://www.transfermarkt.com/cristiano-piccini/profil/spieler/163086,2.2,2020/21
+Guillem Molina,Centre-Back,21,€600k,Valencia CF,['Spain'],https://www.transfermarkt.com/guillem-molina/profil/spieler/602156,0.6,2020/21
+Kevin Sibille,Centre-Back,22,€250k,Valencia CF,"['Argentina', 'Italy']",https://www.transfermarkt.com/kevin-sibille/profil/spieler/409273,0.25,2020/21
+José Gayà,Left-Back,26,€35.00m,Valencia CF,['Spain'],https://www.transfermarkt.com/jose-gaya/profil/spieler/221322,35.0,2020/21
+Toni Lato,Left-Back,23,€2.50m,Valencia CF,['Spain'],https://www.transfermarkt.com/toni-lato/profil/spieler/320271,2.5,2020/21
+Álex Centelles,Left-Back,21,€2.00m,Valencia CF,['Spain'],https://www.transfermarkt.com/alex-centelles/profil/spieler/423443,2.0,2020/21
+Jesús Vázquez,Left-Back,18,€250k,Valencia CF,['Spain'],https://www.transfermarkt.com/jesus-vazquez/profil/spieler/623024,0.25,2020/21
+Thierry Correia,Right-Back,22,€6.00m,Valencia CF,"['Portugal', 'Cape Verde']",https://www.transfermarkt.com/thierry-correia/profil/spieler/367466,6.0,2020/21
+Geoffrey Kondogbia,Defensive Midfield,28,€15.00m,Valencia CF,"['Central African Republic', 'France']",https://www.transfermarkt.com/geoffrey-kondogbia/profil/spieler/127189,15.0,2020/21
+Uroš Račić,Defensive Midfield,23,€10.00m,Valencia CF,['Serbia'],https://www.transfermarkt.com/uros-racic/profil/spieler/417575,10.0,2020/21
+Hugo Guillamón,Defensive Midfield,21,€7.50m,Valencia CF,['Spain'],https://www.transfermarkt.com/hugo-guillamon/profil/spieler/495629,7.5,2020/21
+Christian Oliva,Defensive Midfield,25,€4.00m,Valencia CF,['Uruguay'],https://www.transfermarkt.com/christian-oliva/profil/spieler/563812,4.0,2020/21
+Carlos Soler,Central Midfield,24,€40.00m,Valencia CF,['Spain'],https://www.transfermarkt.com/carlos-soler/profil/spieler/372246,40.0,2020/21
+Yunus Musah,Central Midfield,18,€15.00m,Valencia CF,"['United States', 'England']",https://www.transfermarkt.com/yunus-musah/profil/spieler/503991,15.0,2020/21
+Daniel Wass,Central Midfield,32,€7.00m,Valencia CF,['Denmark'],https://www.transfermarkt.com/daniel-wass/profil/spieler/63463,7.0,2020/21
+Koba Koindredi,Central Midfield,19,€600k,Valencia CF,"['France', 'Neukaledonien']",https://www.transfermarkt.com/koba-koindredi/profil/spieler/569375,0.6,2020/21
+Vicente Esquerdo,Attacking Midfield,22,€1.00m,Valencia CF,['Spain'],https://www.transfermarkt.com/vicente-esquerdo/profil/spieler/599263,1.0,2020/21
+Gonçalo Guedes,Left Winger,24,€25.00m,Valencia CF,['Portugal'],https://www.transfermarkt.com/goncalo-guedes/profil/spieler/225122,25.0,2020/21
+Denis Cheryshev,Left Winger,30,€3.50m,Valencia CF,"['Russia', 'Spain']",https://www.transfermarkt.com/denis-cheryshev/profil/spieler/98322,3.5,2020/21
+Álex Blanco,Left Winger,22,€1.50m,Valencia CF,['Spain'],https://www.transfermarkt.com/alex-blanco/profil/spieler/328914,1.5,2020/21
+Kang-in Lee,Right Winger,20,€10.00m,Valencia CF,"['Korea, South']",https://www.transfermarkt.com/kang-in-lee/profil/spieler/557149,10.0,2020/21
+Jason,Right Winger,26,€2.50m,Valencia CF,['Spain'],https://www.transfermarkt.com/jason/profil/spieler/263860,2.5,2020/21
+Manu Vallejo,Second Striker,24,€7.00m,Valencia CF,['Spain'],https://www.transfermarkt.com/manu-vallejo/profil/spieler/527350,7.0,2020/21
+Maxi Gómez,Centre-Forward,24,€25.00m,Valencia CF,['Uruguay'],https://www.transfermarkt.com/maxi-gomez/profil/spieler/396894,25.0,2020/21
+Patrick Cutrone,Centre-Forward,23,€9.00m,Valencia CF,['Italy'],https://www.transfermarkt.com/patrick-cutrone/profil/spieler/265078,9.0,2020/21
+Kévin Gameiro,Centre-Forward,34,€3.00m,Valencia CF,['France'],https://www.transfermarkt.com/kevin-gameiro/profil/spieler/27389,3.0,2020/21
+Rubén Sobrino,Centre-Forward,29,€1.50m,Valencia CF,['Spain'],https://www.transfermarkt.com/ruben-sobrino/profil/spieler/85383,1.5,2020/21
+Joel Robles,Goalkeeper,31,€4.00m,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/joel-robles/profil/spieler/101118,4.0,2020/21
+Dani Martín,Goalkeeper,22,€3.00m,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/dani-martin/profil/spieler/335221,3.0,2020/21
+Claudio Bravo,Goalkeeper,38,€1.00m,Real Betis Balompié,"['Chile', 'Spain']",https://www.transfermarkt.com/claudio-bravo/profil/spieler/40423,1.0,2020/21
+Dani Rebollo,Goalkeeper,21,€100k,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/dani-rebollo/profil/spieler/566666,0.1,2020/21
+Carlos Marín,Goalkeeper,24,€100k,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/carlos-marin/profil/spieler/251877,0.1,2020/21
+Marc Bartra,Centre-Back,30,€10.00m,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/marc-bartra/profil/spieler/99922,10.0,2020/21
+Aïssa Mandi,Centre-Back,29,€8.00m,Real Betis Balompié,"['Algeria', 'France']",https://www.transfermarkt.com/aissa-mandi/profil/spieler/80293,8.0,2020/21
+Sidnei,Centre-Back,31,€2.50m,Real Betis Balompié,"['Brazil', 'Spain']",https://www.transfermarkt.com/sidnei/profil/spieler/27374,2.5,2020/21
+Víctor Ruiz,Centre-Back,32,€2.20m,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/victor-ruiz/profil/spieler/62920,2.2,2020/21
+Geovanni Barba,Centre-Back,20,€50k,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/geovanni-barba/profil/spieler/630984,0.05,2020/21
+Juan Miranda,Left-Back,21,€7.00m,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/juan-miranda/profil/spieler/341227,7.0,2020/21
+Álex Moreno,Left-Back,28,€6.00m,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/alex-moreno/profil/spieler/193098,6.0,2020/21
+José Calderón,Left-Back,21,€50k,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/jose-calderon/profil/spieler/630998,0.05,2020/21
+Emerson Royal,Right-Back,22,€25.00m,Real Betis Balompié,['Brazil'],https://www.transfermarkt.com/emerson-royal/profil/spieler/476344,25.0,2020/21
+Martín Montoya,Right-Back,30,€2.00m,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/martin-montoya/profil/spieler/68645,2.0,2020/21
+Aitor Ruibal,Right-Back,25,€2.00m,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/aitor-ruibal/profil/spieler/378139,2.0,2020/21
+Fran Delgado,Right-Back,19,€400k,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/fran-delgado/profil/spieler/711638,0.4,2020/21
+Guido Rodríguez,Defensive Midfield,27,€22.00m,Real Betis Balompié,"['Argentina', 'Italy']",https://www.transfermarkt.com/guido-rodriguez/profil/spieler/342385,22.0,2020/21
+William Carvalho,Defensive Midfield,29,€15.00m,Real Betis Balompié,"['Portugal', 'Angola']",https://www.transfermarkt.com/william-carvalho/profil/spieler/100131,15.0,2020/21
+Paul Akouokou,Defensive Midfield,23,€1.50m,Real Betis Balompié,"[""Cote d'Ivoire""]",https://www.transfermarkt.com/paul-akouokou/profil/spieler/429901,1.5,2020/21
+Víctor Camarasa,Central Midfield,27,€1.50m,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/victor-camarasa/profil/spieler/263856,1.5,2020/21
+Andrés Guardado,Central Midfield,34,€1.50m,Real Betis Balompié,"['Mexico', 'Spain']",https://www.transfermarkt.com/andres-guardado/profil/spieler/20506,1.5,2020/21
+Nabil Fekir,Attacking Midfield,27,€25.00m,Real Betis Balompié,"['France', 'Algeria']",https://www.transfermarkt.com/nabil-fekir/profil/spieler/203496,25.0,2020/21
+Sergio Canales,Attacking Midfield,30,€20.00m,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/sergio-canales/profil/spieler/66106,20.0,2020/21
+Yassin Fekir,Attacking Midfield,24,€300k,Real Betis Balompié,"['France', 'Algeria']",https://www.transfermarkt.com/yassin-fekir/profil/spieler/395694,0.3,2020/21
+Cristian Tello,Left Winger,29,€7.50m,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/cristian-tello/profil/spieler/141834,7.5,2020/21
+Juanmi,Left Winger,28,€2.50m,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/juanmi/profil/spieler/126737,2.5,2020/21
+Diego Lainez,Right Winger,21,€8.00m,Real Betis Balompié,"['Mexico', 'Spain']",https://www.transfermarkt.com/diego-lainez/profil/spieler/371174,8.0,2020/21
+Joaquín,Right Winger,39,€1.50m,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/joaquin/profil/spieler/7663,1.5,2020/21
+Rodri Sánchez,Right Winger,21,€1.50m,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/rodri-sanchez/profil/spieler/630995,1.5,2020/21
+Borja Iglesias,Centre-Forward,28,€10.00m,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/borja-iglesias/profil/spieler/278359,10.0,2020/21
+Loren Morón,Centre-Forward,27,€9.00m,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/loren-moron/profil/spieler/354741,9.0,2020/21
+Antonio Sanabria,Centre-Forward,25,€7.50m,Real Betis Balompié,"['Paraguay', 'Spain']",https://www.transfermarkt.com/antonio-sanabria/profil/spieler/234523,7.5,2020/21
+Unai Simón,Goalkeeper,24,€20.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/unai-simon/profil/spieler/262396,20.0,2020/21
+Iago Herrerín,Goalkeeper,33,€1.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/iago-herrerin/profil/spieler/71570,1.0,2020/21
+Jokin Ezkieta,Goalkeeper,24,€300k,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/jokin-ezkieta/profil/spieler/379548,0.3,2020/21
+Unai Núñez,Centre-Back,24,€20.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/unai-nunez/profil/spieler/338285,20.0,2020/21
+Iñigo Martínez,Centre-Back,30,€20.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/inigo-martinez/profil/spieler/158863,20.0,2020/21
+Yeray Álvarez,Centre-Back,26,€20.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/yeray-alvarez/profil/spieler/255488,20.0,2020/21
+Aitor Paredes,Centre-Back,21,€200k,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/aitor-paredes/profil/spieler/591916,0.2,2020/21
+Yuri Berchiche,Left-Back,31,€12.00m,Athletic Bilbao,"['Spain', 'Algeria']",https://www.transfermarkt.com/yuri-berchiche/profil/spieler/61812,12.0,2020/21
+Mikel Balenziaga,Left-Back,33,€1.20m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/mikel-balenziaga/profil/spieler/85258,1.2,2020/21
+Ander Capa,Right-Back,29,€6.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/ander-capa/profil/spieler/197545,6.0,2020/21
+Óscar de Marcos,Right-Back,32,€2.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/oscar-de-marcos/profil/spieler/96718,2.0,2020/21
+Iñigo Lekue,Right-Back,28,€1.50m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/inigo-lekue/profil/spieler/255501,1.5,2020/21
+Peru Nolaskoain,Defensive Midfield,22,€3.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/peru-nolaskoain/profil/spieler/447052,3.0,2020/21
+Mikel Vesga,Defensive Midfield,28,€2.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/mikel-vesga/profil/spieler/300168,2.0,2020/21
+Unai López,Central Midfield,25,€12.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/unai-lopez/profil/spieler/192009,12.0,2020/21
+Unai Vencedor,Central Midfield,20,€5.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/unai-vencedor/profil/spieler/610083,5.0,2020/21
+Dani García,Central Midfield,31,€3.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/dani-garcia/profil/spieler/178425,3.0,2020/21
+Oier Zarraga,Central Midfield,22,€500k,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/oier-zarraga/profil/spieler/524010,0.5,2020/21
+Beñat Prados,Central Midfield,20,€200k,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/benat-prados/profil/spieler/625047,0.2,2020/21
+Julen Bernaola,Central Midfield,22,€50k,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/julen-bernaola/profil/spieler/447053,0.05,2020/21
+Iker Muniain,Attacking Midfield,28,€12.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/iker-muniain/profil/spieler/54235,12.0,2020/21
+Oihan Sancet,Attacking Midfield,21,€3.50m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/oihan-sancet/profil/spieler/571020,3.5,2020/21
+Raúl García,Attacking Midfield,34,€2.50m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/raul-garcia/profil/spieler/34601,2.5,2020/21
+Álex Berenguer,Left Winger,25,€15.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/alex-berenguer/profil/spieler/338425,15.0,2020/21
+Jon Morcillo,Left Winger,22,€5.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/jon-morcillo/profil/spieler/455349,5.0,2020/21
+Iñigo Córdoba,Left Winger,24,€2.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/inigo-cordoba/profil/spieler/251848,2.0,2020/21
+Nico Williams,Left Winger,18,€1.50m,Athletic Bilbao,"['Spain', 'Ghana']",https://www.transfermarkt.com/nico-williams/profil/spieler/709187,1.5,2020/21
+Ibai Gómez,Left Winger,31,€1.20m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/ibai-gomez/profil/spieler/127837,1.2,2020/21
+Iñigo Vicente,Left Winger,23,€1.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/inigo-vicente/profil/spieler/335216,1.0,2020/21
+Iñaki Williams,Right Winger,27,€25.00m,Athletic Bilbao,"['Ghana', 'Spain']",https://www.transfermarkt.com/inaki-williams/profil/spieler/255508,25.0,2020/21
+Asier Villalibre,Centre-Forward,23,€4.50m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/asier-villalibre/profil/spieler/251897,4.5,2020/21
+Kenan Kodro,Centre-Forward,27,€1.00m,Athletic Bilbao,"['Bosnia-Herzegovina', 'Spain']",https://www.transfermarkt.com/kenan-kodro/profil/spieler/197126,1.0,2020/21
+David Soria,Goalkeeper,28,€9.00m,Getafe CF,['Spain'],https://www.transfermarkt.com/david-soria/profil/spieler/226012,9.0,2020/21
+Rubén Yáñez,Goalkeeper,27,€2.00m,Getafe CF,['Spain'],https://www.transfermarkt.com/ruben-yanez/profil/spieler/246335,2.0,2020/21
+Djené,Centre-Back,29,€18.00m,Getafe CF,['Togo'],https://www.transfermarkt.com/djene/profil/spieler/221150,18.0,2020/21
+Erick Cabaco,Centre-Back,26,€2.50m,Getafe CF,"['Uruguay', 'Italy']",https://www.transfermarkt.com/erick-cabaco/profil/spieler/302991,2.5,2020/21
+Xabi Etxeita,Centre-Back,33,€800k,Getafe CF,['Spain'],https://www.transfermarkt.com/xabi-etxeita/profil/spieler/71559,0.8,2020/21
+Chema Rodríguez,Centre-Back,29,€800k,Getafe CF,['Spain'],https://www.transfermarkt.com/chema-rodriguez/profil/spieler/248330,0.8,2020/21
+Soufiane Chakla,Centre-Back,27,€800k,Getafe CF,"['Morocco', 'Spain']",https://www.transfermarkt.com/soufiane-chakla/profil/spieler/236956,0.8,2020/21
+David Alba,Centre-Back,22,€150k,Getafe CF,['Spain'],https://www.transfermarkt.com/david-alba/profil/spieler/583508,0.15,2020/21
+Ryan Nolan,Centre-Back,22,€150k,Getafe CF,['Ireland'],https://www.transfermarkt.com/ryan-nolan/profil/spieler/385396,0.15,2020/21
+Marc Cucurella,Left-Back,22,€20.00m,Getafe CF,['Spain'],https://www.transfermarkt.com/marc-cucurella/profil/spieler/284857,20.0,2020/21
+Mathías Olivera,Left-Back,23,€12.00m,Getafe CF,"['Uruguay', 'Spain']",https://www.transfermarkt.com/mathias-olivera/profil/spieler/376514,12.0,2020/21
+Koffi,Left-Back,19,€200k,Getafe CF,['Ghana'],https://www.transfermarkt.com/koffi/profil/spieler/809639,0.2,2020/21
+Allan Nyom,Right-Back,33,€2.00m,Getafe CF,"['Cameroon', 'France']",https://www.transfermarkt.com/allan-nyom/profil/spieler/111508,2.0,2020/21
+Damián Suárez,Right-Back,33,€1.50m,Getafe CF,"['Uruguay', 'Spain']",https://www.transfermarkt.com/damian-suarez/profil/spieler/76746,1.5,2020/21
+Juan Iglesias,Right-Back,22,€250k,Getafe CF,['Spain'],https://www.transfermarkt.com/juan-iglesias/profil/spieler/390688,0.25,2020/21
+Ante Palaversa,Defensive Midfield,21,€2.50m,Getafe CF,['Croatia'],https://www.transfermarkt.com/ante-palaversa/profil/spieler/371003,2.5,2020/21
+David Timor,Defensive Midfield,31,€1.50m,Getafe CF,['Spain'],https://www.transfermarkt.com/david-timor/profil/spieler/158795,1.5,2020/21
+Mauro Arambarri,Central Midfield,25,€20.00m,Getafe CF,"['Uruguay', 'Spain']",https://www.transfermarkt.com/mauro-arambarri/profil/spieler/290249,20.0,2020/21
+Carles Aleñá,Central Midfield,23,€15.00m,Getafe CF,['Spain'],https://www.transfermarkt.com/carles-alena/profil/spieler/284854,15.0,2020/21
+Nemanja Maksimovic,Central Midfield,26,€15.00m,Getafe CF,['Serbia'],https://www.transfermarkt.com/nemanja-maksimovic/profil/spieler/273152,15.0,2020/21
+John Patrick,Central Midfield,17,€1.00m,Getafe CF,"['Ireland', 'Spain']",https://www.transfermarkt.com/john-patrick/profil/spieler/841121,1.0,2020/21
+Sabit Abdulai,Central Midfield,22,€150k,Getafe CF,['Ghana'],https://www.transfermarkt.com/sabit-abdulai/profil/spieler/648812,0.15,2020/21
+Víctor Mollejo,Left Winger,20,€3.00m,Getafe CF,['Spain'],https://www.transfermarkt.com/victor-mollejo/profil/spieler/505673,3.0,2020/21
+Josete Miranda,Left Winger,22,€200k,Getafe CF,"['Equatorial Guinea', 'Spain']",https://www.transfermarkt.com/josete-miranda/profil/spieler/355336,0.2,2020/21
+Takefusa Kubo,Right Winger,20,€15.00m,Getafe CF,['Japan'],https://www.transfermarkt.com/takefusa-kubo/profil/spieler/405398,15.0,2020/21
+Abdoulay Diaby,Right Winger,30,€2.00m,Getafe CF,"['Mali', 'France']",https://www.transfermarkt.com/abdoulay-diaby/profil/spieler/148396,2.0,2020/21
+Francisco Portillo,Right Winger,31,€1.20m,Getafe CF,['Spain'],https://www.transfermarkt.com/francisco-portillo/profil/spieler/138803,1.2,2020/21
+Cucho Hernández,Centre-Forward,22,€9.00m,Getafe CF,"['Colombia', 'Spain']",https://www.transfermarkt.com/cucho-hernandez/profil/spieler/459463,9.0,2020/21
+Enes Ünal,Centre-Forward,24,€7.00m,Getafe CF,['Türkiye'],https://www.transfermarkt.com/enes-unal/profil/spieler/251106,7.0,2020/21
+Jaime Mata,Centre-Forward,32,€4.00m,Getafe CF,['Spain'],https://www.transfermarkt.com/jaime-mata/profil/spieler/227961,4.0,2020/21
+Ángel Rodríguez,Centre-Forward,34,€3.00m,Getafe CF,['Spain'],https://www.transfermarkt.com/angel-rodriguez/profil/spieler/51510,3.0,2020/21
+Darío Poveda,Centre-Forward,24,€400k,Getafe CF,['Spain'],https://www.transfermarkt.com/dario-poveda/profil/spieler/399780,0.4,2020/21
+Mamor Niang,Centre-Forward,19,-,Getafe CF,['Senegal'],https://www.transfermarkt.com/mamor-niang/profil/spieler/715650,0.0,2020/21
+Rubén Blanco,Goalkeeper,25,€5.00m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/ruben-blanco/profil/spieler/199321,5.0,2020/21
+Iván Villar,Goalkeeper,23,€2.50m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/ivan-villar/profil/spieler/297194,2.5,2020/21
+Sergio Álvarez,Goalkeeper,34,€700k,Celta de Vigo,['Spain'],https://www.transfermarkt.com/sergio-alvarez/profil/spieler/45912,0.7,2020/21
+Iago Domínguez,Goalkeeper,19,€150k,Celta de Vigo,['Spain'],https://www.transfermarkt.com/iago-dominguez/profil/spieler/636092,0.15,2020/21
+Patrick Sequeira,Goalkeeper,22,€150k,Celta de Vigo,"['Costa Rica', 'Spain']",https://www.transfermarkt.com/patrick-sequeira/profil/spieler/378482,0.15,2020/21
+Álvaro Fernández,Goalkeeper,21,€100k,Celta de Vigo,['Spain'],https://www.transfermarkt.com/alvaro-fernandez/profil/spieler/495627,0.1,2020/21
+Ruly García,Goalkeeper,21,€50k,Celta de Vigo,['Spain'],https://www.transfermarkt.com/ruly-garcia/profil/spieler/577869,0.05,2020/21
+Néstor Araújo,Centre-Back,29,€7.00m,Celta de Vigo,"['Mexico', 'Spain']",https://www.transfermarkt.com/nestor-araujo/profil/spieler/64134,7.0,2020/21
+Jeison Murillo,Centre-Back,29,€7.00m,Celta de Vigo,"['Colombia', 'Spain']",https://www.transfermarkt.com/jeison-murillo/profil/spieler/131102,7.0,2020/21
+Joseph Aidoo,Centre-Back,25,€6.00m,Celta de Vigo,['Ghana'],https://www.transfermarkt.com/joseph-aidoo/profil/spieler/358250,6.0,2020/21
+Carlos Domínguez,Centre-Back,20,€1.50m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/carlos-dominguez/profil/spieler/636093,1.5,2020/21
+David Costas,Centre-Back,26,€1.20m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/david-costas/profil/spieler/276111,1.2,2020/21
+Jorge Sáenz,Centre-Back,24,€1.00m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/jorge-saenz/profil/spieler/340339,1.0,2020/21
+José Fontán,Centre-Back,21,€1.00m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/jose-fontan/profil/spieler/609361,1.0,2020/21
+Gael Alonso,Centre-Back,18,-,Celta de Vigo,['Spain'],https://www.transfermarkt.com/gael-alonso/profil/spieler/715622,0.0,2020/21
+Lucas Olaza,Left-Back,26,€6.00m,Celta de Vigo,"['Uruguay', 'Spain']",https://www.transfermarkt.com/lucas-olaza/profil/spieler/216240,6.0,2020/21
+Aarón Martín,Left-Back,24,€4.50m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/aaron-martin/profil/spieler/251878,4.5,2020/21
+David Juncà,Left-Back,27,€700k,Celta de Vigo,['Spain'],https://www.transfermarkt.com/david-junca/profil/spieler/164055,0.7,2020/21
+Diego Pampín,Left-Back,21,€250k,Celta de Vigo,['Spain'],https://www.transfermarkt.com/diego-pampin/profil/spieler/505493,0.25,2020/21
+Hugo Mallo,Right-Back,30,€5.00m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/hugo-mallo/profil/spieler/119905,5.0,2020/21
+Sergio Carreira,Right-Back,20,€1.00m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/sergio-carreira/profil/spieler/545647,1.0,2020/21
+Kevin Vázquez,Right-Back,28,€800k,Celta de Vigo,['Spain'],https://www.transfermarkt.com/kevin-vazquez/profil/spieler/221315,0.8,2020/21
+Renato Tapia,Defensive Midfield,25,€20.00m,Celta de Vigo,"['Peru', 'Spain']",https://www.transfermarkt.com/renato-tapia/profil/spieler/277137,20.0,2020/21
+Okay Yokuşlu,Defensive Midfield,27,€7.50m,Celta de Vigo,['Türkiye'],https://www.transfermarkt.com/okay-yokuslu/profil/spieler/137616,7.5,2020/21
+Jordan Holsgrove,Defensive Midfield,21,€500k,Celta de Vigo,"['Scotland', 'England']",https://www.transfermarkt.com/jordan-holsgrove/profil/spieler/429309,0.5,2020/21
+Fran Beltrán,Central Midfield,22,€12.00m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/fran-beltran/profil/spieler/423444,12.0,2020/21
+Hugo Sotelo,Central Midfield,17,-,Celta de Vigo,['Spain'],https://www.transfermarkt.com/hugo-sotelo/profil/spieler/892221,0.0,2020/21
+Augusto Solari,Right Midfield,29,€4.00m,Celta de Vigo,"['Argentina', 'Italy']",https://www.transfermarkt.com/augusto-solari/profil/spieler/282694,4.0,2020/21
+Brais Méndez,Attacking Midfield,24,€14.00m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/brais-mendez/profil/spieler/309110,14.0,2020/21
+Denis Suárez,Attacking Midfield,27,€12.00m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/denis-suarez/profil/spieler/165007,12.0,2020/21
+Miguel Baeza,Attacking Midfield,21,€2.50m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/miguel-baeza/profil/spieler/523977,2.5,2020/21
+Gabri Veiga,Attacking Midfield,19,€1.50m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/gabri-veiga/profil/spieler/699704,1.5,2020/21
+Nolito,Left Winger,34,€1.50m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/nolito/profil/spieler/70934,1.5,2020/21
+Álvaro Vadillo,Left Winger,26,€700k,Celta de Vigo,['Spain'],https://www.transfermarkt.com/alvaro-vadillo/profil/spieler/162074,0.7,2020/21
+Alfon González,Left Winger,22,€250k,Celta de Vigo,['Spain'],https://www.transfermarkt.com/alfon-gonzalez/profil/spieler/357628,0.25,2020/21
+Miguel Rodríguez,Right Winger,18,€1.00m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/miguel-rodriguez/profil/spieler/634427,1.0,2020/21
+Emre Mor,Right Winger,23,€700k,Celta de Vigo,"['Türkiye', 'Denmark']",https://www.transfermarkt.com/emre-mor/profil/spieler/283223,0.7,2020/21
+Santi Mina,Centre-Forward,25,€15.00m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/santi-mina/profil/spieler/255653,15.0,2020/21
+Iago Aspas,Centre-Forward,33,€9.00m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/iago-aspas/profil/spieler/72047,9.0,2020/21
+Facundo Ferreyra,Centre-Forward,30,€2.00m,Celta de Vigo,"['Argentina', 'Italy']",https://www.transfermarkt.com/facundo-ferreyra/profil/spieler/93795,2.0,2020/21
+Lautaro de León,Centre-Forward,20,€100k,Celta de Vigo,"['Uruguay', 'Spain']",https://www.transfermarkt.com/lautaro-de-leon/profil/spieler/561745,0.1,2020/21
+Rui Silva,Goalkeeper,27,€12.00m,Granada CF,['Portugal'],https://www.transfermarkt.com/rui-silva/profil/spieler/234811,12.0,2020/21
+Aarón Escandell,Goalkeeper,25,€1.00m,Granada CF,['Spain'],https://www.transfermarkt.com/aaron-escandell/profil/spieler/284430,1.0,2020/21
+João Costa,Goalkeeper,25,€250k,Granada CF,['Portugal'],https://www.transfermarkt.com/joao-costa/profil/spieler/198638,0.25,2020/21
+Arnau Fàbrega,Goalkeeper,21,€100k,Granada CF,['Spain'],https://www.transfermarkt.com/arnau-fabrega/profil/spieler/575472,0.1,2020/21
+Ángel Jiménez,Goalkeeper,19,€100k,Granada CF,['Spain'],https://www.transfermarkt.com/angel-jimenez/profil/spieler/713632,0.1,2020/21
+Rafael Romero,Goalkeeper,17,-,Granada CF,['Spain'],https://www.transfermarkt.com/rafael-romero/profil/spieler/833884,0.0,2020/21
+Domingos Duarte,Centre-Back,26,€12.00m,Granada CF,['Portugal'],https://www.transfermarkt.com/domingos-duarte/profil/spieler/257376,12.0,2020/21
+Jesús Vallejo,Centre-Back,24,€5.00m,Granada CF,['Spain'],https://www.transfermarkt.com/jesus-vallejo/profil/spieler/251896,5.0,2020/21
+Nehuén Pérez,Centre-Back,21,€4.00m,Granada CF,['Argentina'],https://www.transfermarkt.com/nehuen-perez/profil/spieler/491693,4.0,2020/21
+Germán Sánchez,Centre-Back,34,€800k,Granada CF,['Spain'],https://www.transfermarkt.com/german-sanchez/profil/spieler/95963,0.8,2020/21
+Neyder Lozano,Centre-Back,27,€400k,Granada CF,"['Colombia', 'Spain']",https://www.transfermarkt.com/neyder-lozano/profil/spieler/468700,0.4,2020/21
+Pepe Sánchez,Centre-Back,21,€400k,Granada CF,['Spain'],https://www.transfermarkt.com/pepe-sanchez/profil/spieler/500191,0.4,2020/21
+Raúl Torrente,Centre-Back,19,€100k,Granada CF,['Spain'],https://www.transfermarkt.com/raul-torrente/profil/spieler/631222,0.1,2020/21
+Sergio Barcia,Centre-Back,20,€100k,Granada CF,['Spain'],https://www.transfermarkt.com/sergio-barcia/profil/spieler/562058,0.1,2020/21
+Carlos Neva,Left-Back,25,€4.00m,Granada CF,['Spain'],https://www.transfermarkt.com/carlos-neva/profil/spieler/448844,4.0,2020/21
+Adrián Marín,Left-Back,24,€1.20m,Granada CF,['Spain'],https://www.transfermarkt.com/adrian-marin/profil/spieler/295414,1.2,2020/21
+Dimitri Foulquier,Right-Back,28,€3.50m,Granada CF,"['Guadeloupe', 'France']",https://www.transfermarkt.com/dimitri-foulquier/profil/spieler/170472,3.5,2020/21
+Víctor Díaz,Right-Back,33,€1.00m,Granada CF,['Spain'],https://www.transfermarkt.com/victor-diaz/profil/spieler/58330,1.0,2020/21
+Quini,Right-Back,31,€400k,Granada CF,['Spain'],https://www.transfermarkt.com/quini/profil/spieler/223053,0.4,2020/21
+Kingsley Fobi,Right-Back,22,€150k,Granada CF,['Ghana'],https://www.transfermarkt.com/kingsley-fobi/profil/spieler/358981,0.15,2020/21
+Maxime Gonalons,Defensive Midfield,32,€2.50m,Granada CF,['France'],https://www.transfermarkt.com/maxime-gonalons/profil/spieler/60542,2.5,2020/21
+Yan Eteki,Defensive Midfield,23,€2.00m,Granada CF,"['Cameroon', 'Spain']",https://www.transfermarkt.com/yan-eteki/profil/spieler/297784,2.0,2020/21
+Eris Abedini,Defensive Midfield,22,€300k,Granada CF,"['Kosovo', 'Switzerland']",https://www.transfermarkt.com/eris-abedini/profil/spieler/413459,0.3,2020/21
+Yangel Herrera,Central Midfield,23,€18.00m,Granada CF,"['Venezuela', 'Spain']",https://www.transfermarkt.com/yangel-herrera/profil/spieler/378293,18.0,2020/21
+Luis Milla,Central Midfield,26,€4.00m,Granada CF,['Spain'],https://www.transfermarkt.com/luis-milla/profil/spieler/281989,4.0,2020/21
+Domingos Quina,Central Midfield,21,€3.00m,Granada CF,"['Portugal', 'Guinea-Bissau']",https://www.transfermarkt.com/domingos-quina/profil/spieler/391719,3.0,2020/21
+Ángel Montoro,Central Midfield,33,€1.20m,Granada CF,['Spain'],https://www.transfermarkt.com/angel-montoro/profil/spieler/59551,1.2,2020/21
+Ramon Azeez,Central Midfield,28,€800k,Granada CF,['Nigeria'],https://www.transfermarkt.com/ramon-azeez/profil/spieler/131667,0.8,2020/21
+Isma Ruiz,Central Midfield,20,€300k,Granada CF,['Spain'],https://www.transfermarkt.com/isma-ruiz/profil/spieler/631221,0.3,2020/21
+Álvaro Bravo,Central Midfield,23,€200k,Granada CF,['Spain'],https://www.transfermarkt.com/alvaro-bravo/profil/spieler/284872,0.2,2020/21
+Juan Brunet,Central Midfield,23,€50k,Granada CF,"['Argentina', 'Italy']",https://www.transfermarkt.com/juan-brunet/profil/spieler/696883,0.05,2020/21
+Carlos León,Central Midfield,18,-,Granada CF,['Spain'],https://www.transfermarkt.com/carlos-leon/profil/spieler/636229,0.0,2020/21
+Fede Vico,Attacking Midfield,26,€1.20m,Granada CF,['Spain'],https://www.transfermarkt.com/fede-vico/profil/spieler/162079,1.2,2020/21
+Antonio Aranda,Attacking Midfield,20,€200k,Granada CF,['Spain'],https://www.transfermarkt.com/antonio-aranda/profil/spieler/631223,0.2,2020/21
+Darwin Machís,Left Winger,28,€10.00m,Granada CF,"['Venezuela', 'Spain']",https://www.transfermarkt.com/darwin-machis/profil/spieler/211251,10.0,2020/21
+Kenedy,Left Winger,25,€10.00m,Granada CF,['Brazil'],https://www.transfermarkt.com/kenedy/profil/spieler/281404,10.0,2020/21
+Dani Plomer,Left Winger,22,€100k,Granada CF,['Spain'],https://www.transfermarkt.com/dani-plomer/profil/spieler/614195,0.1,2020/21
+Antonio Puertas,Right Winger,29,€5.00m,Granada CF,['Spain'],https://www.transfermarkt.com/antonio-puertas/profil/spieler/262365,5.0,2020/21
+Alberto Soro,Right Winger,22,€3.00m,Granada CF,['Spain'],https://www.transfermarkt.com/alberto-soro/profil/spieler/487688,3.0,2020/21
+Echu Rodríguez,Right Winger,23,€100k,Granada CF,['Spain'],https://www.transfermarkt.com/echu-rodriguez/profil/spieler/462380,0.1,2020/21
+Luis Suárez,Centre-Forward,23,€10.00m,Granada CF,"['Colombia', 'Spain']",https://www.transfermarkt.com/luis-suarez/profil/spieler/424784,10.0,2020/21
+Antoñín,Centre-Forward,21,€1.50m,Granada CF,['Spain'],https://www.transfermarkt.com/antonin/profil/spieler/610336,1.5,2020/21
+Jorge Molina,Centre-Forward,39,€1.50m,Granada CF,['Spain'],https://www.transfermarkt.com/jorge-molina/profil/spieler/57825,1.5,2020/21
+Roberto Soldado,Centre-Forward,36,€1.20m,Granada CF,['Spain'],https://www.transfermarkt.com/roberto-soldado/profil/spieler/34870,1.2,2020/21
+Aitor Fernández,Goalkeeper,30,€6.00m,Levante UD,['Spain'],https://www.transfermarkt.com/aitor-fernandez/profil/spieler/118997,6.0,2020/21
+Dani Cárdenas,Goalkeeper,24,€600k,Levante UD,['Spain'],https://www.transfermarkt.com/dani-cardenas/profil/spieler/397676,0.6,2020/21
+Koke Vegas,Goalkeeper,25,€500k,Levante UD,['Spain'],https://www.transfermarkt.com/koke-vegas/profil/spieler/299715,0.5,2020/21
+Pablo Campos,Goalkeeper,19,€200k,Levante UD,['Spain'],https://www.transfermarkt.com/pablo-campos/profil/spieler/617059,0.2,2020/21
+Rúben Vezo,Centre-Back,27,€10.00m,Levante UD,"['Portugal', 'Cape Verde']",https://www.transfermarkt.com/ruben-vezo/profil/spieler/257851,10.0,2020/21
+Róber Pier,Centre-Back,26,€1.20m,Levante UD,['Spain'],https://www.transfermarkt.com/rober-pier/profil/spieler/387129,1.2,2020/21
+Sergio Postigo,Centre-Back,32,€1.20m,Levante UD,['Spain'],https://www.transfermarkt.com/sergio-postigo/profil/spieler/158791,1.2,2020/21
+Óscar Duarte,Centre-Back,32,€800k,Levante UD,"['Costa Rica', 'Spain']",https://www.transfermarkt.com/oscar-duarte/profil/spieler/175323,0.8,2020/21
+Alfredo Pedraza,Centre-Back,20,€200k,Levante UD,['Spain'],https://www.transfermarkt.com/alfredo-pedraza/profil/spieler/618806,0.2,2020/21
+Euse Monzó,Centre-Back,20,€200k,Levante UD,['Spain'],https://www.transfermarkt.com/euse-monzo/profil/spieler/702332,0.2,2020/21
+Carlos Clerc,Left-Back,29,€3.00m,Levante UD,['Spain'],https://www.transfermarkt.com/carlos-clerc/profil/spieler/193784,3.0,2020/21
+Toño García,Left-Back,31,€800k,Levante UD,['Spain'],https://www.transfermarkt.com/tono-garcia/profil/spieler/125931,0.8,2020/21
+Jorge Miramón,Right-Back,32,€2.00m,Levante UD,['Spain'],https://www.transfermarkt.com/jorge-miramon/profil/spieler/228917,2.0,2020/21
+Son,Right-Back,27,€800k,Levante UD,['Spain'],https://www.transfermarkt.com/sontm/profil/spieler/349856,0.8,2020/21
+Coke,Right-Back,34,€800k,Levante UD,['Spain'],https://www.transfermarkt.com/coke/profil/spieler/71905,0.8,2020/21
+Mickaël Malsa,Defensive Midfield,25,€5.00m,Levante UD,"['Martinique', 'France']",https://www.transfermarkt.com/mickael-malsa/profil/spieler/205569,5.0,2020/21
+Nemanja Radoja,Defensive Midfield,28,€2.50m,Levante UD,['Serbia'],https://www.transfermarkt.com/nemanja-radoja/profil/spieler/168959,2.5,2020/21
+Nikola Vukcevic,Defensive Midfield,29,€1.80m,Levante UD,['Montenegro'],https://www.transfermarkt.com/nikola-vukcevic/profil/spieler/151470,1.8,2020/21
+Cheick Doukouré,Defensive Midfield,28,€600k,Levante UD,"[""Cote d'Ivoire"", 'France']",https://www.transfermarkt.com/cheick-doukoure/profil/spieler/129679,0.6,2020/21
+Giorgi Kochorashvili,Defensive Midfield,22,€300k,Levante UD,['Georgia'],https://www.transfermarkt.com/giorgi-kochorashvili/profil/spieler/405564,0.3,2020/21
+José Campaña,Central Midfield,28,€15.00m,Levante UD,['Spain'],https://www.transfermarkt.com/jose-campana/profil/spieler/120095,15.0,2020/21
+Gonzalo Melero,Central Midfield,27,€4.50m,Levante UD,['Spain'],https://www.transfermarkt.com/gonzalo-melero/profil/spieler/162056,4.5,2020/21
+Pablo Martínez,Central Midfield,23,€600k,Levante UD,['Spain'],https://www.transfermarkt.com/pablo-martinez/profil/spieler/568835,0.6,2020/21
+Álex Blesa,Central Midfield,19,€300k,Levante UD,['Spain'],https://www.transfermarkt.com/alex-blesa/profil/spieler/611198,0.3,2020/21
+Enis Bardhi,Attacking Midfield,25,€15.00m,Levante UD,['North Macedonia'],https://www.transfermarkt.com/enis-bardhi/profil/spieler/245014,15.0,2020/21
+Hernâni,Left Winger,29,€1.20m,Levante UD,"['Portugal', 'Cape Verde']",https://www.transfermarkt.com/hernani/profil/spieler/172142,1.2,2020/21
+Álex Cantero,Left Winger,21,€700k,Levante UD,['Spain'],https://www.transfermarkt.com/alex-cantero/profil/spieler/638235,0.7,2020/21
+Jorge de Frutos,Right Winger,24,€15.00m,Levante UD,['Spain'],https://www.transfermarkt.com/jorge-de-frutos/profil/spieler/455181,15.0,2020/21
+Rubén Rochina,Right Winger,30,€2.80m,Levante UD,['Spain'],https://www.transfermarkt.com/ruben-rochina/profil/spieler/67548,2.8,2020/21
+Edgar Sevikyan,Right Winger,19,€700k,Levante UD,"['Armenia', 'Russia']",https://www.transfermarkt.com/edgar-sevikyan/profil/spieler/430488,0.7,2020/21
+Roger Martí,Centre-Forward,30,€10.00m,Levante UD,['Spain'],https://www.transfermarkt.com/roger-marti/profil/spieler/212391,10.0,2020/21
+José Luis Morales,Centre-Forward,33,€6.00m,Levante UD,['Spain'],https://www.transfermarkt.com/jose-luis-morales/profil/spieler/252677,6.0,2020/21
+Dani Gómez,Centre-Forward,22,€1.50m,Levante UD,['Spain'],https://www.transfermarkt.com/dani-gomez/profil/spieler/422460,1.5,2020/21
+Sergio León,Centre-Forward,32,€1.20m,Levante UD,['Spain'],https://www.transfermarkt.com/sergio-leon/profil/spieler/145769,1.2,2020/21
+Sergio Herrera,Goalkeeper,28,€6.00m,CA Osasuna,['Spain'],https://www.transfermarkt.com/sergio-herrera/profil/spieler/248738,6.0,2020/21
+Juan Pérez,Goalkeeper,24,€600k,CA Osasuna,['Spain'],https://www.transfermarkt.com/juan-perez/profil/spieler/298613,0.6,2020/21
+Rubén Martínez,Goalkeeper,37,€500k,CA Osasuna,['Spain'],https://www.transfermarkt.com/ruben-martinez/profil/spieler/8184,0.5,2020/21
+Iván Martínez,Goalkeeper,19,€250k,CA Osasuna,['Spain'],https://www.transfermarkt.com/ivan-martinez/profil/spieler/568183,0.25,2020/21
+Iñaki Álvarez,Goalkeeper,24,€200k,CA Osasuna,['Spain'],https://www.transfermarkt.com/inaki-alvarez/profil/spieler/548635,0.2,2020/21
+David García,Centre-Back,27,€7.50m,CA Osasuna,['Spain'],https://www.transfermarkt.com/david-garcia/profil/spieler/298589,7.5,2020/21
+Aridane Hernández,Centre-Back,32,€3.00m,CA Osasuna,['Spain'],https://www.transfermarkt.com/aridane-hernandez/profil/spieler/82503,3.0,2020/21
+Unai García,Centre-Back,29,€1.50m,CA Osasuna,['Spain'],https://www.transfermarkt.com/unai-garcia/profil/spieler/197122,1.5,2020/21
+Facundo Roncaglia,Centre-Back,34,€1.00m,CA Osasuna,"['Argentina', 'Italy']",https://www.transfermarkt.com/facundo-roncaglia/profil/spieler/61546,1.0,2020/21
+Jonás Ramalho,Centre-Back,28,€1.00m,CA Osasuna,"['Spain', 'Angola']",https://www.transfermarkt.com/jonas-ramalho/profil/spieler/69660,1.0,2020/21
+Raúl Navas,Centre-Back,33,€300k,CA Osasuna,['Spain'],https://www.transfermarkt.com/raul-navas/profil/spieler/142419,0.3,2020/21
+Jorge Herrando,Centre-Back,20,€250k,CA Osasuna,['Spain'],https://www.transfermarkt.com/jorge-herrando/profil/spieler/555500,0.25,2020/21
+Manu Sánchez,Left-Back,20,€8.00m,CA Osasuna,['Spain'],https://www.transfermarkt.com/manu-sanchez/profil/spieler/618809,8.0,2020/21
+Juan Cruz,Left-Back,28,€2.20m,CA Osasuna,['Spain'],https://www.transfermarkt.com/juan-cruz/profil/spieler/169497,2.2,2020/21
+Nacho Vidal,Right-Back,26,€2.00m,CA Osasuna,['Spain'],https://www.transfermarkt.com/nacho-vidal/profil/spieler/216870,2.0,2020/21
+Gorka Zabarte,Right-Back,22,€150k,CA Osasuna,['Spain'],https://www.transfermarkt.com/gorka-zabarte/profil/spieler/311440,0.15,2020/21
+Lucas Torró,Defensive Midfield,26,€2.20m,CA Osasuna,['Spain'],https://www.transfermarkt.com/lucas-torro/profil/spieler/213670,2.2,2020/21
+Oier Sanjurjo,Defensive Midfield,35,€700k,CA Osasuna,['Spain'],https://www.transfermarkt.com/oier-sanjurjo/profil/spieler/63040,0.7,2020/21
+Jon Moncayola,Central Midfield,23,€7.00m,CA Osasuna,['Spain'],https://www.transfermarkt.com/jon-moncayola/profil/spieler/552425,7.0,2020/21
+Darko Brasanac,Central Midfield,29,€1.80m,CA Osasuna,['Serbia'],https://www.transfermarkt.com/darko-brasanac/profil/spieler/95641,1.8,2020/21
+Iñigo Pérez,Central Midfield,33,€600k,CA Osasuna,['Spain'],https://www.transfermarkt.com/inigo-perez/profil/spieler/71579,0.6,2020/21
+Roberto Torres,Attacking Midfield,32,€5.00m,CA Osasuna,['Spain'],https://www.transfermarkt.com/roberto-torres/profil/spieler/63056,5.0,2020/21
+Javi Martínez,Attacking Midfield,21,€1.20m,CA Osasuna,['Spain'],https://www.transfermarkt.com/javi-martinez/profil/spieler/471474,1.2,2020/21
+Aimar Oroz,Attacking Midfield,19,€200k,CA Osasuna,['Spain'],https://www.transfermarkt.com/aimar-oroz/profil/spieler/634131,0.2,2020/21
+Jony,Left Winger,29,€2.80m,CA Osasuna,['Spain'],https://www.transfermarkt.com/jony/profil/spieler/228761,2.8,2020/21
+Asier Córdoba,Left Winger,21,€200k,CA Osasuna,['Spain'],https://www.transfermarkt.com/asier-cordoba/profil/spieler/505512,0.2,2020/21
+Kike Saverio,Left Winger,22,€200k,CA Osasuna,"['Ecuador', 'Spain']",https://www.transfermarkt.com/kike-saverio/profil/spieler/388519,0.2,2020/21
+Rubén García,Right Winger,27,€10.00m,CA Osasuna,['Spain'],https://www.transfermarkt.com/ruben-garcia/profil/spieler/213260,10.0,2020/21
+Kike Barja,Right Winger,24,€3.00m,CA Osasuna,['Spain'],https://www.transfermarkt.com/kike-barja/profil/spieler/298575,3.0,2020/21
+Chimy Ávila,Centre-Forward,27,€10.00m,CA Osasuna,"['Argentina', 'Spain']",https://www.transfermarkt.com/chimy-avila/profil/spieler/167721,10.0,2020/21
+Ante Budimir,Centre-Forward,29,€9.00m,CA Osasuna,['Croatia'],https://www.transfermarkt.com/ante-budimir/profil/spieler/46413,9.0,2020/21
+Jonathan Calleri,Centre-Forward,27,€5.00m,CA Osasuna,"['Argentina', 'Italy']",https://www.transfermarkt.com/jonathan-calleri/profil/spieler/284727,5.0,2020/21
+Adrián López,Centre-Forward,33,€1.20m,CA Osasuna,['Spain'],https://www.transfermarkt.com/adrian-lopez/profil/spieler/45383,1.2,2020/21
+Enric Gallego,Centre-Forward,34,€1.00m,CA Osasuna,['Spain'],https://www.transfermarkt.com/enric-gallego/profil/spieler/114060,1.0,2020/21
+Marc Cardona,Centre-Forward,25,€600k,CA Osasuna,['Spain'],https://www.transfermarkt.com/marc-cardona/profil/spieler/443222,0.6,2020/21
+Brandon Thomas,Centre-Forward,26,€600k,CA Osasuna,"['Spain', 'England']",https://www.transfermarkt.com/brandon-thomas/profil/spieler/251680,0.6,2020/21
+Marko Dmitrovic,Goalkeeper,29,€8.00m,SD Eibar,['Serbia'],https://www.transfermarkt.com/marko-dmitrovic/profil/spieler/94308,8.0,2020/21
+Yoel Rodríguez,Goalkeeper,32,€900k,SD Eibar,['Spain'],https://www.transfermarkt.com/yoel-rodriguez/profil/spieler/58115,0.9,2020/21
+Jonmi Magunagoitia,Goalkeeper,20,€200k,SD Eibar,['Spain'],https://www.transfermarkt.com/jonmi-magunagoitia/profil/spieler/606848,0.2,2020/21
+Unai Ayala,Goalkeeper,17,-,SD Eibar,['Spain'],https://www.transfermarkt.com/unai-ayala/profil/spieler/867426,0.0,2020/21
+Paulo Oliveira,Centre-Back,29,€4.00m,SD Eibar,['Portugal'],https://www.transfermarkt.com/paulo-oliveira/profil/spieler/139336,4.0,2020/21
+Esteban Burgos,Centre-Back,29,€2.50m,SD Eibar,"['Argentina', 'Spain']",https://www.transfermarkt.com/esteban-burgos/profil/spieler/337922,2.5,2020/21
+Pedro Bigas,Centre-Back,31,€1.20m,SD Eibar,['Spain'],https://www.transfermarkt.com/pedro-bigas/profil/spieler/203043,1.2,2020/21
+José Antonio Martínez,Centre-Back,28,€1.20m,SD Eibar,['Spain'],https://www.transfermarkt.com/jose-antonio-martinez/profil/spieler/311287,1.2,2020/21
+Anaitz Arbilla,Centre-Back,34,€1.00m,SD Eibar,['Spain'],https://www.transfermarkt.com/anaitz-arbilla/profil/spieler/71548,1.0,2020/21
+Unai Dufur,Centre-Back,22,-,SD Eibar,['Spain'],https://www.transfermarkt.com/unai-dufur/profil/spieler/783429,0.0,2020/21
+Kévin Rodrigues,Left-Back,27,€3.50m,SD Eibar,"['Portugal', 'France']",https://www.transfermarkt.com/kevin-rodrigues/profil/spieler/206947,3.5,2020/21
+Rafa Soares,Left-Back,26,€1.60m,SD Eibar,['Portugal'],https://www.transfermarkt.com/rafa-soares/profil/spieler/198006,1.6,2020/21
+Cote,Left-Back,31,€1.50m,SD Eibar,['Spain'],https://www.transfermarkt.com/cote/profil/spieler/87469,1.5,2020/21
+Álex Pozo,Right-Back,22,€4.00m,SD Eibar,['Spain'],https://www.transfermarkt.com/alex-pozo/profil/spieler/341272,4.0,2020/21
+Álvaro Tejero,Right-Back,24,€1.00m,SD Eibar,['Spain'],https://www.transfermarkt.com/alvaro-tejero/profil/spieler/290273,1.0,2020/21
+Rober Correa,Right-Back,28,€900k,SD Eibar,['Spain'],https://www.transfermarkt.com/rober-correa/profil/spieler/223890,0.9,2020/21
+Sergio Cubero,Right-Back,21,-,SD Eibar,['Spain'],https://www.transfermarkt.com/sergio-cubero/profil/spieler/684253,0.0,2020/21
+Sergio Álvarez,Defensive Midfield,29,€1.20m,SD Eibar,['Spain'],https://www.transfermarkt.com/sergio-alvarez/profil/spieler/138935,1.2,2020/21
+Pape Diop,Defensive Midfield,35,€800k,SD Eibar,"['Senegal', 'France']",https://www.transfermarkt.com/pape-diop/profil/spieler/39907,0.8,2020/21
+Edu Expósito,Central Midfield,24,€3.50m,SD Eibar,['Spain'],https://www.transfermarkt.com/edu-exposito/profil/spieler/506248,3.5,2020/21
+Aleix García,Central Midfield,24,€1.80m,SD Eibar,['Spain'],https://www.transfermarkt.com/aleix-garcia/profil/spieler/261504,1.8,2020/21
+Recio,Central Midfield,30,€1.20m,SD Eibar,['Spain'],https://www.transfermarkt.com/recio/profil/spieler/150948,1.2,2020/21
+Roberto Olabe,Central Midfield,25,€700k,SD Eibar,['Spain'],https://www.transfermarkt.com/roberto-olabe/profil/spieler/242299,0.7,2020/21
+Miguel Atienza,Central Midfield,22,€600k,SD Eibar,['Spain'],https://www.transfermarkt.com/miguel-atienza/profil/spieler/480955,0.6,2020/21
+Bryan Gil,Left Winger,20,€30.00m,SD Eibar,['Spain'],https://www.transfermarkt.com/bryan-gil/profil/spieler/537382,30.0,2020/21
+Takashi Inui,Left Winger,33,€1.50m,SD Eibar,['Japan'],https://www.transfermarkt.com/takashi-inui/profil/spieler/98249,1.5,2020/21
+Damian Kadzior,Right Winger,29,€1.70m,SD Eibar,['Poland'],https://www.transfermarkt.com/damian-kadzior/profil/spieler/199299,1.7,2020/21
+Pedro León,Right Winger,34,€1.00m,SD Eibar,['Spain'],https://www.transfermarkt.com/pedro-leon/profil/spieler/51587,1.0,2020/21
+Kike García,Centre-Forward,31,€2.80m,SD Eibar,['Spain'],https://www.transfermarkt.com/kike-garcia/profil/spieler/93936,2.8,2020/21
+Yoshinori Muto,Centre-Forward,28,€2.50m,SD Eibar,['Japan'],https://www.transfermarkt.com/yoshinori-muto/profil/spieler/230541,2.5,2020/21
+Sergi Enrich,Centre-Forward,31,€1.80m,SD Eibar,['Spain'],https://www.transfermarkt.com/sergi-enrich/profil/spieler/81988,1.8,2020/21
+Quique González,Centre-Forward,31,€800k,SD Eibar,['Spain'],https://www.transfermarkt.com/quique-gonzalez/profil/spieler/79352,0.8,2020/21
+Eñaut Mendia,Centre-Forward,22,-,SD Eibar,['Spain'],https://www.transfermarkt.com/enaut-mendia/profil/spieler/684299,0.0,2020/21
+Unai Arieta,Centre-Forward,22,-,SD Eibar,['Spain'],https://www.transfermarkt.com/unai-arieta/profil/spieler/783434,0.0,2020/21
+Fernando Pacheco,Goalkeeper,29,€8.00m,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/fernando-pacheco/profil/spieler/172015,8.0,2020/21
+Antonio Sivera,Goalkeeper,24,€900k,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/antonio-sivera/profil/spieler/298197,0.9,2020/21
+Aritz Castro,Goalkeeper,23,€150k,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/aritz-castro/profil/spieler/582718,0.15,2020/21
+Florian Lejeune,Centre-Back,30,€4.50m,Deportivo Alavés,['France'],https://www.transfermarkt.com/florian-lejeune/profil/spieler/127108,4.5,2020/21
+Víctor Laguardia,Centre-Back,31,€4.00m,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/victor-laguardia/profil/spieler/67080,4.0,2020/21
+Rodrigo Ely,Centre-Back,27,€2.20m,Deportivo Alavés,"['Brazil', 'Italy']",https://www.transfermarkt.com/rodrigo-ely/profil/spieler/176140,2.2,2020/21
+Tachi,Centre-Back,23,€800k,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/tachi/profil/spieler/354697,0.8,2020/21
+Abdel Abqar,Centre-Back,22,€150k,Deportivo Alavés,['Morocco'],https://www.transfermarkt.com/abdel-abqar/profil/spieler/559979,0.15,2020/21
+Stephane Keller,Centre-Back,19,€150k,Deportivo Alavés,['Cameroon'],https://www.transfermarkt.com/stephane-keller/profil/spieler/718032,0.15,2020/21
+Hugo Pérez,Centre-Back,18,-,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/hugo-perez/profil/spieler/718027,0.0,2020/21
+Rubén Duarte,Left-Back,25,€4.00m,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/ruben-duarte/profil/spieler/177046,4.0,2020/21
+Adrián Marín,Left-Back,24,€1.20m,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/adrian-marin/profil/spieler/295414,1.2,2020/21
+Javi López,Left-Back,19,€600k,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/javi-lopez/profil/spieler/568158,0.6,2020/21
+Eneko Ortiz,Left-Back,18,-,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/eneko-ortiz/profil/spieler/892217,0.0,2020/21
+Tomás Tavares,Right-Back,20,€5.50m,Deportivo Alavés,"['Portugal', 'Cape Verde']",https://www.transfermarkt.com/tomas-tavares/profil/spieler/550549,5.5,2020/21
+Martín Aguirregabiria,Right-Back,25,€3.00m,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/martin-aguirregabiria/profil/spieler/483573,3.0,2020/21
+Ximo Navarro,Right-Back,31,€1.80m,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/ximo-navarro/profil/spieler/184767,1.8,2020/21
+Rodrigo Battaglia,Defensive Midfield,29,€4.00m,Deportivo Alavés,"['Argentina', 'Italy']",https://www.transfermarkt.com/rodrigo-battaglia/profil/spieler/89297,4.0,2020/21
+Pere Pons,Central Midfield,28,€3.50m,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/pere-pons/profil/spieler/242497,3.5,2020/21
+Tomás Pina,Central Midfield,33,€1.20m,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/tomas-pina/profil/spieler/139895,1.2,2020/21
+Manu García,Central Midfield,35,€800k,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/manu-garcia/profil/spieler/76273,0.8,2020/21
+Pepe Blanco,Central Midfield,21,€150k,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/pepe-blanco/profil/spieler/718035,0.15,2020/21
+Sergi García,Central Midfield,22,€100k,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/sergi-garcia/profil/spieler/598608,0.1,2020/21
+Abdallahi Mahmoud,Attacking Midfield,21,€300k,Deportivo Alavés,['Mauritania'],https://www.transfermarkt.com/abdallahi-mahmoud/profil/spieler/615636,0.3,2020/21
+Luis Rioja,Left Winger,27,€3.00m,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/luis-rioja/profil/spieler/278837,3.0,2020/21
+Iñigo Córdoba,Left Winger,24,€2.00m,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/inigo-cordoba/profil/spieler/251848,2.0,2020/21
+Borja Sainz,Left Winger,20,€2.00m,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/borja-sainz/profil/spieler/634461,2.0,2020/21
+Burgui,Left Winger,27,€800k,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/burgui/profil/spieler/246277,0.8,2020/21
+Facundo Pellistri,Right Winger,19,€6.00m,Deportivo Alavés,"['Uruguay', 'Spain']",https://www.transfermarkt.com/facundo-pellistri/profil/spieler/676318,6.0,2020/21
+Edgar Méndez,Right Winger,31,€2.20m,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/edgar-mendez/profil/spieler/133794,2.2,2020/21
+Jota Peleteiro,Right Winger,30,€1.80m,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/jota-peleteiro/profil/spieler/176591,1.8,2020/21
+Joselu,Centre-Forward,31,€8.00m,Deportivo Alavés,"['Spain', 'Germany']",https://www.transfermarkt.com/joselu/profil/spieler/81999,8.0,2020/21
+Lucas Pérez,Centre-Forward,32,€3.00m,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/lucas-perez/profil/spieler/73185,3.0,2020/21
+Deyverson,Centre-Forward,30,€2.80m,Deportivo Alavés,['Brazil'],https://www.transfermarkt.com/deyverson/profil/spieler/243541,2.8,2020/21
+John Guidetti,Centre-Forward,29,€1.20m,Deportivo Alavés,['Sweden'],https://www.transfermarkt.com/john-guidetti/profil/spieler/98596,1.2,2020/21
+Álvaro Fernández,Goalkeeper,23,€4.00m,SD Huesca,['Spain'],https://www.transfermarkt.com/alvaro-fernandez/profil/spieler/453704,4.0,2020/21
+Andrés Fernández,Goalkeeper,34,€600k,SD Huesca,['Spain'],https://www.transfermarkt.com/andres-fernandez/profil/spieler/57522,0.6,2020/21
+Antonio Valera,Goalkeeper,24,€300k,SD Huesca,['Spain'],https://www.transfermarkt.com/antonio-valera/profil/spieler/290275,0.3,2020/21
+Javi Gasca,Goalkeeper,21,-,SD Huesca,['Spain'],https://www.transfermarkt.com/javi-gasca/profil/spieler/824754,0.0,2020/21
+Denis Vavro,Centre-Back,25,€4.00m,SD Huesca,['Slovakia'],https://www.transfermarkt.com/denis-vavro/profil/spieler/239962,4.0,2020/21
+Dimitrios Siovas,Centre-Back,32,€2.50m,SD Huesca,['Greece'],https://www.transfermarkt.com/dimitrios-siovas/profil/spieler/52403,2.5,2020/21
+Jorge Pulido,Centre-Back,30,€2.00m,SD Huesca,['Spain'],https://www.transfermarkt.com/jorge-pulido/profil/spieler/67546,2.0,2020/21
+Pablo Insua,Centre-Back,27,€1.20m,SD Huesca,['Spain'],https://www.transfermarkt.com/pablo-insua/profil/spieler/171362,1.2,2020/21
+Gastón Silva,Centre-Back,27,€1.20m,SD Huesca,"['Uruguay', 'Italy']",https://www.transfermarkt.com/gaston-silva/profil/spieler/189452,1.2,2020/21
+Manu Galán,Centre-Back,23,-,SD Huesca,['Spain'],https://www.transfermarkt.com/manu-galan/profil/spieler/461836,0.0,2020/21
+Jorge Cofrades,Centre-Back,20,-,SD Huesca,['Spain'],https://www.transfermarkt.com/jorge-cofrades/profil/spieler/718190,0.0,2020/21
+Javi Galán,Left-Back,26,€6.00m,SD Huesca,['Spain'],https://www.transfermarkt.com/javi-galan/profil/spieler/448628,6.0,2020/21
+Luisinho,Left-Back,36,€200k,SD Huesca,['Portugal'],https://www.transfermarkt.com/luisinho/profil/spieler/56777,0.2,2020/21
+Pablo Maffeo,Right-Back,23,€3.50m,SD Huesca,"['Argentina', 'Spain']",https://www.transfermarkt.com/pablo-maffeo/profil/spieler/251876,3.5,2020/21
+Pedro López,Right-Back,37,€100k,SD Huesca,['Spain'],https://www.transfermarkt.com/pedro-lopez/profil/spieler/25412,0.1,2020/21
+Idrissa Doumbia,Defensive Midfield,23,€3.50m,SD Huesca,"[""Cote d'Ivoire""]",https://www.transfermarkt.com/idrissa-doumbia/profil/spieler/430579,3.5,2020/21
+Jaime Seoane,Central Midfield,24,€3.00m,SD Huesca,['Spain'],https://www.transfermarkt.com/jaime-seoane/profil/spieler/340867,3.0,2020/21
+Kelechi Nwakali,Central Midfield,23,€1.00m,SD Huesca,['Nigeria'],https://www.transfermarkt.com/kelechi-nwakali/profil/spieler/383153,1.0,2020/21
+Eugeni,Central Midfield,26,€800k,SD Huesca,['Spain'],https://www.transfermarkt.com/eugeni/profil/spieler/223073,0.8,2020/21
+Pedro Mosquera,Central Midfield,33,€700k,SD Huesca,['Spain'],https://www.transfermarkt.com/pedro-mosquera/profil/spieler/44069,0.7,2020/21
+Mikel Rico,Central Midfield,36,€300k,SD Huesca,['Spain'],https://www.transfermarkt.com/mikel-rico/profil/spieler/51474,0.3,2020/21
+Borja García,Attacking Midfield,30,€1.50m,SD Huesca,['Spain'],https://www.transfermarkt.com/borja-garcia/profil/spieler/67808,1.5,2020/21
+Juan Carlos Real,Attacking Midfield,30,€1.00m,SD Huesca,['Spain'],https://www.transfermarkt.com/juan-carlos-real/profil/spieler/201861,1.0,2020/21
+Javi Ontiveros,Left Winger,23,€5.00m,SD Huesca,['Spain'],https://www.transfermarkt.com/javi-ontiveros/profil/spieler/298983,5.0,2020/21
+Sergio Gómez,Left Winger,20,€2.50m,SD Huesca,['Spain'],https://www.transfermarkt.com/sergio-gomez/profil/spieler/366930,2.5,2020/21
+David Ferreiro,Left Winger,33,€1.00m,SD Huesca,['Spain'],https://www.transfermarkt.com/david-ferreiro/profil/spieler/71918,1.0,2020/21
+Joaquín Muñoz,Right Winger,22,€600k,SD Huesca,['Spain'],https://www.transfermarkt.com/joaquin-munoz/profil/spieler/396334,0.6,2020/21
+Juan Peñaloza,Right Winger,21,€100k,SD Huesca,['Colombia'],https://www.transfermarkt.com/juan-penaloza/profil/spieler/491541,0.1,2020/21
+Gustavo Abizanda,Right Winger,21,-,SD Huesca,['Spain'],https://www.transfermarkt.com/gustavo-abizanda/profil/spieler/853290,0.0,2020/21
+Rafa Mir,Centre-Forward,24,€12.00m,SD Huesca,['Spain'],https://www.transfermarkt.com/rafa-mir/profil/spieler/361254,12.0,2020/21
+Sandro Ramírez,Centre-Forward,25,€3.50m,SD Huesca,['Spain'],https://www.transfermarkt.com/sandro-ramirez/profil/spieler/199369,3.5,2020/21
+Shinji Okazaki,Centre-Forward,35,€1.00m,SD Huesca,['Japan'],https://www.transfermarkt.com/shinji-okazaki/profil/spieler/79642,1.0,2020/21
+Dani Escriche,Centre-Forward,23,€1.00m,SD Huesca,['Spain'],https://www.transfermarkt.com/dani-escriche/profil/spieler/531829,1.0,2020/21
+Kevin Carlos,Centre-Forward,20,-,SD Huesca,"['Spain', 'Nigeria']",https://www.transfermarkt.com/kevin-carlos/profil/spieler/718201,0.0,2020/21
+Jordi Masip,Goalkeeper,32,€2.00m,Real Valladolid CF,['Spain'],https://www.transfermarkt.com/jordi-masip/profil/spieler/65263,2.0,2020/21
+Roberto,Goalkeeper,35,€700k,Real Valladolid CF,['Spain'],https://www.transfermarkt.com/roberto/profil/spieler/37403,0.7,2020/21
+Samu Pérez,Goalkeeper,24,€250k,Real Valladolid CF,['Spain'],https://www.transfermarkt.com/samu-perez/profil/spieler/363541,0.25,2020/21
+Gaizka Campos,Goalkeeper,24,€150k,Real Valladolid CF,['Spain'],https://www.transfermarkt.com/gaizka-campos/profil/spieler/448835,0.15,2020/21
+Javi Sánchez,Centre-Back,24,€2.80m,Real Valladolid CF,['Spain'],https://www.transfermarkt.com/javi-sanchez/profil/spieler/340853,2.8,2020/21
+Joaquín Fernández,Centre-Back,25,€2.80m,Real Valladolid CF,['Spain'],https://www.transfermarkt.com/joaquin-fernandez/profil/spieler/221321,2.8,2020/21
+Jawad El Yamiq,Centre-Back,29,€1.20m,Real Valladolid CF,['Morocco'],https://www.transfermarkt.com/jawad-el-yamiq/profil/spieler/235412,1.2,2020/21
+Kiko Olivas,Centre-Back,32,€1.00m,Real Valladolid CF,['Spain'],https://www.transfermarkt.com/kiko-olivas/profil/spieler/51667,1.0,2020/21
+Bruno González,Centre-Back,31,€1.00m,Real Valladolid CF,['Spain'],https://www.transfermarkt.com/bruno-gonzalez/profil/spieler/188838,1.0,2020/21
+Miguel Rubio,Centre-Back,23,€150k,Real Valladolid CF,['Spain'],https://www.transfermarkt.com/miguel-rubio/profil/spieler/583510,0.15,2020/21
+Lucas Freitas,Centre-Back,20,€100k,Real Valladolid CF,"['Brazil', 'Portugal']",https://www.transfermarkt.com/lucas-freitas/profil/spieler/809716,0.1,2020/21
+Jesús Palomeque,Centre-Back,19,€50k,Real Valladolid CF,['Spain'],https://www.transfermarkt.com/jesus-palomeque/profil/spieler/710479,0.05,2020/21
+Lucas Olaza,Left-Back,26,€6.00m,Real Valladolid CF,"['Uruguay', 'Spain']",https://www.transfermarkt.com/lucas-olaza/profil/spieler/216240,6.0,2020/21
+Nacho Martínez,Left-Back,32,€1.20m,Real Valladolid CF,['Spain'],https://www.transfermarkt.com/nacho-martinez/profil/spieler/127554,1.2,2020/21
+Raúl Carnero,Left-Back,32,€600k,Real Valladolid CF,['Spain'],https://www.transfermarkt.com/raul-carnero/profil/spieler/139434,0.6,2020/21
+Ignasi Vilarrasa,Left-Back,21,€100k,Real Valladolid CF,['Spain'],https://www.transfermarkt.com/ignasi-vilarrasa/profil/spieler/581701,0.1,2020/21
+Saidy Janko,Right-Back,25,€1.50m,Real Valladolid CF,"['The Gambia', 'Switzerland']",https://www.transfermarkt.com/saidy-janko/profil/spieler/196435,1.5,2020/21
+Sergio López,Right-Back,22,€1.00m,Real Valladolid CF,"['Spain', 'Germany']",https://www.transfermarkt.com/sergio-lopez/profil/spieler/523972,1.0,2020/21
+Luis Pérez,Right-Back,26,€900k,Real Valladolid CF,['Spain'],https://www.transfermarkt.com/luis-perez/profil/spieler/358115,0.9,2020/21
+Javi Moyano,Right-Back,35,€100k,Real Valladolid CF,['Spain'],https://www.transfermarkt.com/javi-moyano/profil/spieler/71204,0.1,2020/21
+Luismi Sánchez,Defensive Midfield,29,€500k,Real Valladolid CF,['Spain'],https://www.transfermarkt.com/luismi-sanchez/profil/spieler/207922,0.5,2020/21
+Oriol Rey,Defensive Midfield,23,€300k,Real Valladolid CF,['Spain'],https://www.transfermarkt.com/oriol-rey/profil/spieler/293388,0.3,2020/21
+Rubén Alcaraz,Central Midfield,30,€4.00m,Real Valladolid CF,['Spain'],https://www.transfermarkt.com/ruben-alcaraz/profil/spieler/247250,4.0,2020/21
+Fede San Emeterio,Central Midfield,24,€3.00m,Real Valladolid CF,['Spain'],https://www.transfermarkt.com/fede-san-emeterio/profil/spieler/307519,3.0,2020/21
+Roque Mesa,Central Midfield,32,€2.50m,Real Valladolid CF,['Spain'],https://www.transfermarkt.com/roque-mesa/profil/spieler/202984,2.5,2020/21
+Míchel Herrero,Central Midfield,32,€1.20m,Real Valladolid CF,['Spain'],https://www.transfermarkt.com/michel-herrero/profil/spieler/65331,1.2,2020/21
+Kike Pérez,Central Midfield,24,€1.00m,Real Valladolid CF,['Spain'],https://www.transfermarkt.com/kike-perez/profil/spieler/527698,1.0,2020/21
+Moha Moukhliss,Central Midfield,21,€100k,Real Valladolid CF,"['Spain', 'Morocco']",https://www.transfermarkt.com/moha-moukhliss/profil/spieler/495622,0.1,2020/21
+Kuki Zalazar,Attacking Midfield,23,€250k,Real Valladolid CF,"['Spain', 'Uruguay']",https://www.transfermarkt.com/kuki-zalazar/profil/spieler/311696,0.25,2020/21
+Fran Álvarez,Attacking Midfield,23,€200k,Real Valladolid CF,['Spain'],https://www.transfermarkt.com/fran-alvarez/profil/spieler/531273,0.2,2020/21
+Jota,Left Winger,22,€3.50m,Real Valladolid CF,['Portugal'],https://www.transfermarkt.com/jota/profil/spieler/329812,3.5,2020/21
+Toni Villa,Left Winger,26,€2.50m,Real Valladolid CF,['Spain'],https://www.transfermarkt.com/toni-villa/profil/spieler/337066,2.5,2020/21
+Waldo Rubio,Left Winger,25,€1.20m,Real Valladolid CF,['Spain'],https://www.transfermarkt.com/waldo-rubio/profil/spieler/404688,1.2,2020/21
+Óscar Plano,Right Winger,30,€2.80m,Real Valladolid CF,['Spain'],https://www.transfermarkt.com/oscar-plano/profil/spieler/221309,2.8,2020/21
+Pablo Hervías,Right Winger,28,€1.50m,Real Valladolid CF,['Spain'],https://www.transfermarkt.com/pablo-hervias/profil/spieler/142027,1.5,2020/21
+Fabián Orellana,Right Winger,35,€1.50m,Real Valladolid CF,"['Chile', 'Spain']",https://www.transfermarkt.com/fabian-orellana/profil/spieler/60890,1.5,2020/21
+Shon Weissman,Centre-Forward,25,€6.00m,Real Valladolid CF,"['Israel', 'Portugal']",https://www.transfermarkt.com/shon-weissman/profil/spieler/247652,6.0,2020/21
+Marcos André,Centre-Forward,24,€3.50m,Real Valladolid CF,"['Brazil', 'Spain']",https://www.transfermarkt.com/marcos-andre/profil/spieler/481084,3.5,2020/21
+Sergi Guardiola,Centre-Forward,30,€3.00m,Real Valladolid CF,['Spain'],https://www.transfermarkt.com/sergi-guardiola/profil/spieler/256429,3.0,2020/21
+Kenan Kodro,Centre-Forward,27,€1.00m,Real Valladolid CF,"['Bosnia-Herzegovina', 'Spain']",https://www.transfermarkt.com/kenan-kodro/profil/spieler/197126,1.0,2020/21
+Sergio Benito,Centre-Forward,22,€200k,Real Valladolid CF,['Spain'],https://www.transfermarkt.com/sergio-benito/profil/spieler/531825,0.2,2020/21
+Conan Ledesma,Goalkeeper,28,€5.00m,Cádiz CF,"['Argentina', 'Italy']",https://www.transfermarkt.com/conan-ledesma/profil/spieler/284342,5.0,2020/21
+David Gil,Goalkeeper,27,€800k,Cádiz CF,['Spain'],https://www.transfermarkt.com/david-gil/profil/spieler/162027,0.8,2020/21
+Juan Flere,Goalkeeper,23,€100k,Cádiz CF,"['Argentina', 'Italy']",https://www.transfermarkt.com/juan-flere/profil/spieler/513972,0.1,2020/21
+Juanjo Garrancho,Goalkeeper,24,€100k,Cádiz CF,['Spain'],https://www.transfermarkt.com/juanjo-garrancho/profil/spieler/408895,0.1,2020/21
+Alberto Cifuentes,Goalkeeper,42,-,Cádiz CF,['Spain'],https://www.transfermarkt.com/alberto-cifuentes/profil/spieler/7668,0.0,2020/21
+Fali,Centre-Back,27,€3.00m,Cádiz CF,['Spain'],https://www.transfermarkt.com/fali/profil/spieler/252667,3.0,2020/21
+Marcos Mauro,Centre-Back,30,€1.50m,Cádiz CF,"['Argentina', 'Spain']",https://www.transfermarkt.com/marcos-mauro/profil/spieler/247366,1.5,2020/21
+Juan Cala,Centre-Back,31,€1.20m,Cádiz CF,['Spain'],https://www.transfermarkt.com/juan-cala/profil/spieler/67089,1.2,2020/21
+Pedro Alcalá,Centre-Back,32,€600k,Cádiz CF,['Spain'],https://www.transfermarkt.com/pedro-alcala/profil/spieler/51663,0.6,2020/21
+Álex Martín,Centre-Back,23,€600k,Cádiz CF,['Spain'],https://www.transfermarkt.com/alex-martin/profil/spieler/345083,0.6,2020/21
+Jean-Pierre Rhyner,Centre-Back,25,€300k,Cádiz CF,"['Peru', 'Switzerland']",https://www.transfermarkt.com/jean-pierre-rhyner/profil/spieler/203981,0.3,2020/21
+Saturday Erimuya,Centre-Back,23,€300k,Cádiz CF,['Nigeria'],https://www.transfermarkt.com/saturday-erimuya/profil/spieler/419596,0.3,2020/21
+Momo Mbaye,Centre-Back,23,€50k,Cádiz CF,['Senegal'],https://www.transfermarkt.com/momo-mbaye/profil/spieler/490421,0.05,2020/21
+Alfonso Espino,Left-Back,29,€2.50m,Cádiz CF,"['Uruguay', 'Spain']",https://www.transfermarkt.com/alfonso-espino/profil/spieler/311044,2.5,2020/21
+Jairo Izquierdo,Left-Back,27,€800k,Cádiz CF,['Spain'],https://www.transfermarkt.com/jairo-izquierdo/profil/spieler/337946,0.8,2020/21
+Marc Baró,Left-Back,21,€200k,Cádiz CF,['Spain'],https://www.transfermarkt.com/marc-baro/profil/spieler/388512,0.2,2020/21
+Iza Carcelén,Right-Back,28,€1.50m,Cádiz CF,['Spain'],https://www.transfermarkt.com/iza-carcelen/profil/spieler/254037,1.5,2020/21
+Carlos Akapo,Right-Back,28,€800k,Cádiz CF,"['Equatorial Guinea', 'Spain']",https://www.transfermarkt.com/carlos-akapo/profil/spieler/225015,0.8,2020/21
+Jens Jönsson,Defensive Midfield,28,€4.00m,Cádiz CF,['Denmark'],https://www.transfermarkt.com/jens-jonsson/profil/spieler/148355,4.0,2020/21
+Yann Bodiger,Defensive Midfield,26,€800k,Cádiz CF,['France'],https://www.transfermarkt.com/yann-bodiger/profil/spieler/290533,0.8,2020/21
+Jon Ander Garrido,Defensive Midfield,31,€600k,Cádiz CF,['Spain'],https://www.transfermarkt.com/jon-ander-garrido/profil/spieler/158704,0.6,2020/21
+José Mari,Defensive Midfield,33,€500k,Cádiz CF,['Spain'],https://www.transfermarkt.com/jose-mari/profil/spieler/225462,0.5,2020/21
+Álex Fernández,Central Midfield,28,€6.00m,Cádiz CF,['Spain'],https://www.transfermarkt.com/alex-fernandez/profil/spieler/89733,6.0,2020/21
+Sergio González,Central Midfield,24,€500k,Cádiz CF,['Spain'],https://www.transfermarkt.com/sergio-gonzalez/profil/spieler/435500,0.5,2020/21
+Augusto Fernández,Central Midfield,35,€300k,Cádiz CF,"['Argentina', 'Italy']",https://www.transfermarkt.com/augusto-fernandez/profil/spieler/39151,0.3,2020/21
+Álvaro Bastida,Central Midfield,17,-,Cádiz CF,['Spain'],https://www.transfermarkt.com/alvaro-bastida/profil/spieler/882772,0.0,2020/21
+Jorge Pombo,Attacking Midfield,27,€1.00m,Cádiz CF,['Spain'],https://www.transfermarkt.com/jorge-pombo/profil/spieler/336747,1.0,2020/21
+Alberto Perea,Left Winger,30,€1.20m,Cádiz CF,['Spain'],https://www.transfermarkt.com/alberto-perea/profil/spieler/99559,1.2,2020/21
+Salvi Sánchez,Right Winger,30,€2.00m,Cádiz CF,['Spain'],https://www.transfermarkt.com/salvi-sanchez/profil/spieler/246204,2.0,2020/21
+Iván Alejo,Right Winger,26,€1.20m,Cádiz CF,['Spain'],https://www.transfermarkt.com/ivan-alejo/profil/spieler/281755,1.2,2020/21
+Filip Malbasic,Right Winger,28,€1.20m,Cádiz CF,['Serbia'],https://www.transfermarkt.com/filip-malbasic/profil/spieler/162652,1.2,2020/21
+Bobby Adekanye,Right Winger,22,€600k,Cádiz CF,"['Netherlands', 'Nigeria']",https://www.transfermarkt.com/bobby-adekanye/profil/spieler/331514,0.6,2020/21
+Mamady Diarra,Right Winger,21,€100k,Cádiz CF,['Mali'],https://www.transfermarkt.com/mamady-diarra/profil/spieler/402002,0.1,2020/21
+Kike Carrasco,Right Winger,23,€50k,Cádiz CF,['Spain'],https://www.transfermarkt.com/kike-carrasco/profil/spieler/746908,0.05,2020/21
+Choco Lozano,Centre-Forward,28,€2.20m,Cádiz CF,"['Honduras', 'Spain']",https://www.transfermarkt.com/choco-lozano/profil/spieler/131275,2.2,2020/21
+Álvaro Giménez,Centre-Forward,30,€1.50m,Cádiz CF,['Spain'],https://www.transfermarkt.com/alvaro-gimenez/profil/spieler/57935,1.5,2020/21
+Rubén Sobrino,Centre-Forward,29,€1.50m,Cádiz CF,['Spain'],https://www.transfermarkt.com/ruben-sobrino/profil/spieler/85383,1.5,2020/21
+Ivan Saponjic,Centre-Forward,23,€1.20m,Cádiz CF,['Serbia'],https://www.transfermarkt.com/ivan-saponjic/profil/spieler/274347,1.2,2020/21
+Álvaro Negredo,Centre-Forward,35,€1.20m,Cádiz CF,['Spain'],https://www.transfermarkt.com/alvaro-negredo/profil/spieler/18644,1.2,2020/21
+Nano Mesa,Centre-Forward,26,€500k,Cádiz CF,['Spain'],https://www.transfermarkt.com/nano-mesa/profil/spieler/305956,0.5,2020/21
+Manu Nieto,Centre-Forward,23,€150k,Cádiz CF,['Spain'],https://www.transfermarkt.com/manu-nieto/profil/spieler/399357,0.15,2020/21
+Paulo Gazzaniga,Goalkeeper,29,€3.00m,Elche CF,"['Argentina', 'Italy']",https://www.transfermarkt.com/paulo-gazzaniga/profil/spieler/195488,3.0,2020/21
+Edgar Badia,Goalkeeper,29,€2.00m,Elche CF,['Spain'],https://www.transfermarkt.com/edgar-badia/profil/spieler/102146,2.0,2020/21
+Diego Rodríguez,Goalkeeper,32,€300k,Elche CF,"['Argentina', 'Spain']",https://www.transfermarkt.com/diego-rodriguez/profil/spieler/90800,0.3,2020/21
+Lluis Andreu,Goalkeeper,21,-,Elche CF,['Spain'],https://www.transfermarkt.com/lluis-andreu/profil/spieler/602979,0.0,2020/21
+Luis Castillo,Goalkeeper,21,-,Elche CF,['Spain'],https://www.transfermarkt.com/luis-castillo/profil/spieler/694535,0.0,2020/21
+Dani Calvo,Centre-Back,27,€1.50m,Elche CF,['Spain'],https://www.transfermarkt.com/dani-calvo/profil/spieler/326416,1.5,2020/21
+Diego González,Centre-Back,26,€1.00m,Elche CF,['Spain'],https://www.transfermarkt.com/diego-gonzalez/profil/spieler/349836,1.0,2020/21
+Josema,Centre-Back,25,€1.00m,Elche CF,['Spain'],https://www.transfermarkt.com/josema/profil/spieler/255892,1.0,2020/21
+Gonzalo Verdú,Centre-Back,32,€800k,Elche CF,['Spain'],https://www.transfermarkt.com/gonzalo-verdu/profil/spieler/184779,0.8,2020/21
+Nacho Pastor,Centre-Back,21,€150k,Elche CF,['Spain'],https://www.transfermarkt.com/nacho-pastor/profil/spieler/725201,0.15,2020/21
+John Donald,Centre-Back,20,-,Elche CF,"['Spain', 'Nigeria']",https://www.transfermarkt.com/john-donald/profil/spieler/627290,0.0,2020/21
+Gerard Barri,Centre-Back,20,-,Elche CF,['Spain'],https://www.transfermarkt.com/gerard-barri/profil/spieler/628492,0.0,2020/21
+Juan Sánchez Miño,Left-Back,31,€2.50m,Elche CF,"['Argentina', 'Italy']",https://www.transfermarkt.com/juan-sanchez-mino/profil/spieler/169249,2.5,2020/21
+Johan Mojica,Left-Back,28,€2.00m,Elche CF,"['Colombia', 'Spain']",https://www.transfermarkt.com/johan-mojica/profil/spieler/262939,2.0,2020/21
+Youssouf Koné,Left-Back,25,€1.60m,Elche CF,['Mali'],https://www.transfermarkt.com/youssouf-kone/profil/spieler/274484,1.6,2020/21
+José Salinas,Left-Back,20,-,Elche CF,['Spain'],https://www.transfermarkt.com/jose-salinas/profil/spieler/819590,0.0,2020/21
+Helibelton Palacios,Right-Back,28,€1.00m,Elche CF,['Colombia'],https://www.transfermarkt.com/helibelton-palacios/profil/spieler/211389,1.0,2020/21
+Antonio Barragán,Right-Back,34,€800k,Elche CF,['Spain'],https://www.transfermarkt.com/antonio-barragan/profil/spieler/32522,0.8,2020/21
+Iván Marcone,Defensive Midfield,31,€3.00m,Elche CF,"['Argentina', 'Italy']",https://www.transfermarkt.com/ivan-marcone/profil/spieler/90451,3.0,2020/21
+Nuke Mfulu,Defensive Midfield,27,€800k,Elche CF,"['DR Congo', 'France']",https://www.transfermarkt.com/nuke-mfulu/profil/spieler/203516,0.8,2020/21
+Luismi Sánchez,Defensive Midfield,29,€500k,Elche CF,['Spain'],https://www.transfermarkt.com/luismi-sanchez/profil/spieler/207922,0.5,2020/21
+Raúl Guti,Central Midfield,24,€5.00m,Elche CF,['Spain'],https://www.transfermarkt.com/raul-guti/profil/spieler/330352,5.0,2020/21
+Miguel Cifuentes,Central Midfield,30,€600k,Elche CF,['Spain'],https://www.transfermarkt.com/miguel-cifuentes/profil/spieler/175836,0.6,2020/21
+Ramón Folch,Central Midfield,31,€300k,Elche CF,['Spain'],https://www.transfermarkt.com/ramon-folch/profil/spieler/286841,0.3,2020/21
+César Moreno,Central Midfield,20,-,Elche CF,['Spain'],https://www.transfermarkt.com/cesar-moreno/profil/spieler/672953,0.0,2020/21
+Jony Álamo,Central Midfield,19,-,Elche CF,['Spain'],https://www.transfermarkt.com/jony-alamo/profil/spieler/786438,0.0,2020/21
+Pablo Piatti,Attacking Midfield,32,€1.20m,Elche CF,"['Argentina', 'Italy']",https://www.transfermarkt.com/pablo-piatti/profil/spieler/56067,1.2,2020/21
+Víctor Rodríguez,Attacking Midfield,31,€800k,Elche CF,['Spain'],https://www.transfermarkt.com/victor-rodriguez/profil/spieler/129753,0.8,2020/21
+Fidel,Left Winger,31,€2.00m,Elche CF,['Spain'],https://www.transfermarkt.com/fidel/profil/spieler/149231,2.0,2020/21
+Pere Milla,Left Winger,28,€1.80m,Elche CF,['Spain'],https://www.transfermarkt.com/pere-milla/profil/spieler/225593,1.8,2020/21
+Tete Morente,Left Winger,24,€1.50m,Elche CF,['Spain'],https://www.transfermarkt.com/tete-morente/profil/spieler/339816,1.5,2020/21
+Emiliano Rigoni,Right Winger,28,€2.50m,Elche CF,"['Argentina', 'Italy']",https://www.transfermarkt.com/emiliano-rigoni/profil/spieler/282544,2.5,2020/21
+Josan,Right Winger,31,€1.00m,Elche CF,['Spain'],https://www.transfermarkt.com/josan/profil/spieler/277533,1.0,2020/21
+Jeison Lucumí,Right Winger,26,€950k,Elche CF,['Colombia'],https://www.transfermarkt.com/jeison-lucumi/profil/spieler/352567,0.95,2020/21
+Diego Bri,Right Winger,18,-,Elche CF,['Spain'],https://www.transfermarkt.com/diego-bri/profil/spieler/720532,0.0,2020/21
+Lucas Boyé,Centre-Forward,25,€3.50m,Elche CF,"['Argentina', 'Italy']",https://www.transfermarkt.com/lucas-boye/profil/spieler/334222,3.5,2020/21
+Guido Carrillo,Centre-Forward,30,€2.00m,Elche CF,"['Argentina', 'Italy']",https://www.transfermarkt.com/guido-carrillo/profil/spieler/184672,2.0,2020/21
+Claudio Medina,Centre-Forward,27,€350k,Elche CF,['Spain'],https://www.transfermarkt.com/claudio-medina/profil/spieler/510385,0.35,2020/21
+Nino,Centre-Forward,41,€100k,Elche CF,['Spain'],https://www.transfermarkt.com/nino/profil/spieler/29178,0.1,2020/21
+Mourad El Ghezouani,Centre-Forward,23,€100k,Elche CF,"['Morocco', 'Spain']",https://www.transfermarkt.com/mourad-el-ghezouani/profil/spieler/527972,0.1,2020/21
+Cheikh Diamanka,Centre-Forward,20,-,Elche CF,"['Senegal', 'Spain']",https://www.transfermarkt.com/cheikh-diamanka/profil/spieler/887054,0.0,2020/21

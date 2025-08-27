@@ -1,0 +1,776 @@
+player,position,age,market_value,club,nationality,player_url,mv_millions,season
+Thibaut Courtois,Goalkeeper,32,€28.00m,Real Madrid,['Belgium'],https://www.transfermarkt.com/thibaut-courtois/profil/spieler/108390,28.0,2023/24
+Andriy Lunin,Goalkeeper,25,€25.00m,Real Madrid,['Ukraine'],https://www.transfermarkt.com/andriy-lunin/profil/spieler/404839,25.0,2023/24
+Kepa Arrizabalaga,Goalkeeper,29,€12.00m,Real Madrid,['Spain'],https://www.transfermarkt.com/kepa-arrizabalaga/profil/spieler/192279,12.0,2023/24
+Lucas Cañizares,Goalkeeper,22,€400k,Real Madrid,['Spain'],https://www.transfermarkt.com/lucas-canizares/profil/spieler/568154,0.4,2023/24
+Mario de Luis,Goalkeeper,22,€400k,Real Madrid,['Spain'],https://www.transfermarkt.com/mario-de-luis/profil/spieler/717952,0.4,2023/24
+Diego Piñeiro,Goalkeeper,20,€50k,Real Madrid,['Spain'],https://www.transfermarkt.com/diego-pineiro/profil/spieler/926850,0.05,2023/24
+Fran González,Goalkeeper,19,-,Real Madrid,['Spain'],https://www.transfermarkt.com/fran-gonzalez/profil/spieler/1055220,0.0,2023/24
+Éder Militão,Centre-Back,26,€60.00m,Real Madrid,"['Brazil', 'Spain']",https://www.transfermarkt.com/eder-militao/profil/spieler/401530,60.0,2023/24
+Antonio Rüdiger,Centre-Back,31,€25.00m,Real Madrid,"['Germany', 'Sierra Leone']",https://www.transfermarkt.com/antonio-rudiger/profil/spieler/86202,25.0,2023/24
+David Alaba,Centre-Back,32,€20.00m,Real Madrid,['Austria'],https://www.transfermarkt.com/david-alaba/profil/spieler/59016,20.0,2023/24
+Nacho Fernández,Centre-Back,34,€3.00m,Real Madrid,['Spain'],https://www.transfermarkt.com/nacho-fernandez/profil/spieler/58884,3.0,2023/24
+Álvaro Carrillo,Centre-Back,22,€300k,Real Madrid,['Spain'],https://www.transfermarkt.com/alvaro-carrillo/profil/spieler/652330,0.3,2023/24
+Edgar Pujol,Centre-Back,19,€250k,Real Madrid,"['Dominican Republic', 'Spain']",https://www.transfermarkt.com/edgar-pujol/profil/spieler/646745,0.25,2023/24
+Jacobo Ramón,Centre-Back,19,€100k,Real Madrid,['Spain'],https://www.transfermarkt.com/jacobo-ramon/profil/spieler/948278,0.1,2023/24
+Ferland Mendy,Left-Back,29,€22.00m,Real Madrid,"['France', 'Senegal']",https://www.transfermarkt.com/ferland-mendy/profil/spieler/291417,22.0,2023/24
+Fran García,Left-Back,24,€15.00m,Real Madrid,['Spain'],https://www.transfermarkt.com/fran-garcia/profil/spieler/341264,15.0,2023/24
+Daniel Carvajal,Right-Back,32,€12.00m,Real Madrid,['Spain'],https://www.transfermarkt.com/daniel-carvajal/profil/spieler/138927,12.0,2023/24
+Lucas Vázquez,Right-Back,32,€4.00m,Real Madrid,['Spain'],https://www.transfermarkt.com/lucas-vazquez/profil/spieler/221316,4.0,2023/24
+Vinícius Tobias,Right-Back,20,€3.00m,Real Madrid,"['Brazil', 'Spain']",https://www.transfermarkt.com/vinicius-tobias/profil/spieler/743587,3.0,2023/24
+Álvaro Odriozola,Right-Back,28,€2.50m,Real Madrid,['Spain'],https://www.transfermarkt.com/alvaro-odriozola/profil/spieler/280730,2.5,2023/24
+Aurélien Tchouaméni,Defensive Midfield,24,€100.00m,Real Madrid,"['France', 'Cameroon']",https://www.transfermarkt.com/aurelien-tchouameni/profil/spieler/413112,100.0,2023/24
+Mario Martín,Defensive Midfield,20,€300k,Real Madrid,['Spain'],https://www.transfermarkt.com/mario-martin/profil/spieler/948273,0.3,2023/24
+Federico Valverde,Central Midfield,25,€120.00m,Real Madrid,"['Uruguay', 'Spain']",https://www.transfermarkt.com/federico-valverde/profil/spieler/369081,120.0,2023/24
+Eduardo Camavinga,Central Midfield,21,€100.00m,Real Madrid,"['France', 'DR Congo']",https://www.transfermarkt.com/eduardo-camavinga/profil/spieler/640428,100.0,2023/24
+Toni Kroos,Central Midfield,34,€10.00m,Real Madrid,['Germany'],https://www.transfermarkt.com/toni-kroos/profil/spieler/31909,10.0,2023/24
+Luka Modrić,Central Midfield,38,€6.00m,Real Madrid,['Croatia'],https://www.transfermarkt.com/luka-modric/profil/spieler/27992,6.0,2023/24
+Dani Ceballos,Central Midfield,27,€6.00m,Real Madrid,['Spain'],https://www.transfermarkt.com/dani-ceballos/profil/spieler/319745,6.0,2023/24
+Théo Zidane,Central Midfield,22,€300k,Real Madrid,"['France', 'Spain']",https://www.transfermarkt.com/theo-zidane/profil/spieler/337917,0.3,2023/24
+Jude Bellingham,Attacking Midfield,21,€180.00m,Real Madrid,"['England', 'Ireland']",https://www.transfermarkt.com/jude-bellingham/profil/spieler/581678,180.0,2023/24
+Nico Paz,Attacking Midfield,19,€10.00m,Real Madrid,"['Argentina', 'Spain']",https://www.transfermarkt.com/nico-paz/profil/spieler/948294,10.0,2023/24
+Vinicius Junior,Left Winger,23,€180.00m,Real Madrid,"['Brazil', 'Spain']",https://www.transfermarkt.com/vinicius-junior/profil/spieler/371998,180.0,2023/24
+Rodrygo,Right Winger,23,€110.00m,Real Madrid,"['Brazil', 'Spain']",https://www.transfermarkt.com/rodrygo/profil/spieler/412363,110.0,2023/24
+Brahim Díaz,Right Winger,24,€40.00m,Real Madrid,"['Morocco', 'Spain']",https://www.transfermarkt.com/brahim-diaz/profil/spieler/314678,40.0,2023/24
+Arda Güler,Right Winger,19,€30.00m,Real Madrid,['Türkiye'],https://www.transfermarkt.com/arda-guler/profil/spieler/861410,30.0,2023/24
+Kylian Mbappé,Centre-Forward,25,€180.00m,Real Madrid,"['France', 'Cameroon']",https://www.transfermarkt.com/kylian-mbappe/profil/spieler/342229,180.0,2023/24
+Joselu,Centre-Forward,34,€5.00m,Real Madrid,"['Spain', 'Germany']",https://www.transfermarkt.com/joselu/profil/spieler/81999,5.0,2023/24
+Álvaro Rodríguez,Centre-Forward,19,€3.50m,Real Madrid,"['Uruguay', 'Spain']",https://www.transfermarkt.com/alvaro-rodriguez/profil/spieler/948275,3.5,2023/24
+Gonzalo,Centre-Forward,20,€1.00m,Real Madrid,['Spain'],https://www.transfermarkt.com/gonzalo/profil/spieler/935230,1.0,2023/24
+Marc-André ter Stegen,Goalkeeper,32,€28.00m,FC Barcelona,['Germany'],https://www.transfermarkt.com/marc-andre-ter-stegen/profil/spieler/74857,28.0,2023/24
+Iñaki Peña,Goalkeeper,25,€8.00m,FC Barcelona,['Spain'],https://www.transfermarkt.com/inaki-pena/profil/spieler/283170,8.0,2023/24
+Ander Astralaga,Goalkeeper,20,€1.00m,FC Barcelona,['Spain'],https://www.transfermarkt.com/ander-astralaga/profil/spieler/709955,1.0,2023/24
+Diego Kochen,Goalkeeper,18,€100k,FC Barcelona,"['United States', 'Peru']",https://www.transfermarkt.com/diego-kochen/profil/spieler/938144,0.1,2023/24
+Áron Yaakobishvili,Goalkeeper,18,-,FC Barcelona,"['Hungary', 'Georgia']",https://www.transfermarkt.com/aron-yaakobishvili/profil/spieler/938145,0.0,2023/24
+Ronald Araujo,Centre-Back,25,€70.00m,FC Barcelona,"['Uruguay', 'Spain']",https://www.transfermarkt.com/ronald-araujo/profil/spieler/480267,70.0,2023/24
+Andreas Christensen,Centre-Back,28,€40.00m,FC Barcelona,['Denmark'],https://www.transfermarkt.com/andreas-christensen/profil/spieler/196948,40.0,2023/24
+Pau Cubarsí,Centre-Back,17,€30.00m,FC Barcelona,['Spain'],https://www.transfermarkt.com/pau-cubarsi/profil/spieler/962110,30.0,2023/24
+Eric García,Centre-Back,23,€20.00m,FC Barcelona,['Spain'],https://www.transfermarkt.com/eric-garcia/profil/spieler/466794,20.0,2023/24
+Mikayil Faye,Centre-Back,19,€10.00m,FC Barcelona,['Senegal'],https://www.transfermarkt.com/mikayil-faye/profil/spieler/666974,10.0,2023/24
+Iñigo Martínez,Centre-Back,33,€5.00m,FC Barcelona,['Spain'],https://www.transfermarkt.com/inigo-martinez/profil/spieler/158863,5.0,2023/24
+Alejandro Balde,Left-Back,20,€40.00m,FC Barcelona,"['Spain', 'Dominican Republic']",https://www.transfermarkt.com/alejandro-balde/profil/spieler/636688,40.0,2023/24
+Marcos Alonso,Left-Back,33,€2.00m,FC Barcelona,['Spain'],https://www.transfermarkt.com/marcos-alonso/profil/spieler/112515,2.0,2023/24
+Jules Koundé,Right-Back,25,€45.00m,FC Barcelona,"['France', 'Benin']",https://www.transfermarkt.com/jules-kounde/profil/spieler/411975,45.0,2023/24
+João Cancelo,Right-Back,30,€25.00m,FC Barcelona,['Portugal'],https://www.transfermarkt.com/joao-cancelo/profil/spieler/182712,25.0,2023/24
+Héctor Fort,Right-Back,17,€10.00m,FC Barcelona,['Spain'],https://www.transfermarkt.com/hector-fort/profil/spieler/937955,10.0,2023/24
+Marc Casadó,Defensive Midfield,20,€2.50m,FC Barcelona,['Spain'],https://www.transfermarkt.com/marc-casado/profil/spieler/636695,2.5,2023/24
+Oriol Romeu,Defensive Midfield,32,€2.00m,FC Barcelona,['Spain'],https://www.transfermarkt.com/oriol-romeu/profil/spieler/66100,2.0,2023/24
+Pau Prim,Defensive Midfield,18,€500k,FC Barcelona,['Spain'],https://www.transfermarkt.com/pau-prim/profil/spieler/937956,0.5,2023/24
+Gavi,Central Midfield,19,€90.00m,FC Barcelona,['Spain'],https://www.transfermarkt.com/gavi/profil/spieler/646740,90.0,2023/24
+Pedri,Central Midfield,21,€80.00m,FC Barcelona,['Spain'],https://www.transfermarkt.com/pedri/profil/spieler/683840,80.0,2023/24
+Frenkie de Jong,Central Midfield,27,€70.00m,FC Barcelona,['Netherlands'],https://www.transfermarkt.com/frenkie-de-jong/profil/spieler/326330,70.0,2023/24
+İlkay Gündoğan,Central Midfield,33,€15.00m,FC Barcelona,['Germany'],https://www.transfermarkt.com/ilkay-gundogan/profil/spieler/53622,15.0,2023/24
+Sergi Roberto,Central Midfield,32,€2.50m,FC Barcelona,['Spain'],https://www.transfermarkt.com/sergi-roberto/profil/spieler/85370,2.5,2023/24
+Unai Hernández,Central Midfield,19,€800k,FC Barcelona,['Spain'],https://www.transfermarkt.com/unai-hernandez/profil/spieler/970633,0.8,2023/24
+Aleix Garrido,Central Midfield,20,€500k,FC Barcelona,['Spain'],https://www.transfermarkt.com/aleix-garrido/profil/spieler/709966,0.5,2023/24
+Fermín López,Attacking Midfield,21,€30.00m,FC Barcelona,['Spain'],https://www.transfermarkt.com/fermin-lopez/profil/spieler/636703,30.0,2023/24
+Raphinha,Left Winger,27,€50.00m,FC Barcelona,"['Brazil', 'Italy']",https://www.transfermarkt.com/raphinha/profil/spieler/411295,50.0,2023/24
+Ansu Fati,Left Winger,21,€25.00m,FC Barcelona,"['Spain', 'Guinea-Bissau']",https://www.transfermarkt.com/ansu-fati/profil/spieler/466810,25.0,2023/24
+Abde Ezzalzouli,Left Winger,22,€9.00m,FC Barcelona,"['Morocco', 'Spain']",https://www.transfermarkt.com/abde-ezzalzouli/profil/spieler/724520,9.0,2023/24
+Ángel Alarcón,Left Winger,20,€300k,FC Barcelona,['Spain'],https://www.transfermarkt.com/angel-alarcon/profil/spieler/646739,0.3,2023/24
+Lamine Yamal,Right Winger,16,€90.00m,FC Barcelona,"['Spain', 'Equatorial Guinea']",https://www.transfermarkt.com/lamine-yamal/profil/spieler/937958,90.0,2023/24
+João Félix,Second Striker,24,€30.00m,FC Barcelona,['Portugal'],https://www.transfermarkt.com/joao-felix/profil/spieler/462250,30.0,2023/24
+Ferran Torres,Centre-Forward,24,€30.00m,FC Barcelona,['Spain'],https://www.transfermarkt.com/ferran-torres/profil/spieler/398184,30.0,2023/24
+Vitor Roque,Centre-Forward,19,€30.00m,FC Barcelona,['Brazil'],https://www.transfermarkt.com/vitor-roque/profil/spieler/943837,30.0,2023/24
+Robert Lewandowski,Centre-Forward,35,€15.00m,FC Barcelona,['Poland'],https://www.transfermarkt.com/robert-lewandowski/profil/spieler/38253,15.0,2023/24
+Marc Guiu,Centre-Forward,18,€7.50m,FC Barcelona,['Spain'],https://www.transfermarkt.com/marc-guiu/profil/spieler/938158,7.5,2023/24
+Pau Víctor,Centre-Forward,22,€1.50m,FC Barcelona,['Spain'],https://www.transfermarkt.com/pau-victor/profil/spieler/707572,1.5,2023/24
+Álex Remiro,Goalkeeper,29,€25.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/alex-remiro/profil/spieler/212862,25.0,2023/24
+Gaizka Ayesa,Goalkeeper,23,€300k,Real Sociedad,['Spain'],https://www.transfermarkt.com/gaizka-ayesa/profil/spieler/561702,0.3,2023/24
+Unai Marrero,Goalkeeper,22,€300k,Real Sociedad,['Spain'],https://www.transfermarkt.com/unai-marrero/profil/spieler/625657,0.3,2023/24
+Aitor Fraga,Goalkeeper,21,€200k,Real Sociedad,['Spain'],https://www.transfermarkt.com/aitor-fraga/profil/spieler/668313,0.2,2023/24
+Robin Le Normand,Centre-Back,27,€40.00m,Real Sociedad,"['Spain', 'France']",https://www.transfermarkt.com/robin-le-normand/profil/spieler/351809,40.0,2023/24
+Igor Zubeldia,Centre-Back,27,€22.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/igor-zubeldia/profil/spieler/355628,22.0,2023/24
+Jon Pacheco,Centre-Back,23,€15.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/jon-pacheco/profil/spieler/580560,15.0,2023/24
+Aritz Elustondo,Centre-Back,30,€5.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/aritz-elustondo/profil/spieler/229804,5.0,2023/24
+Jon Martín,Centre-Back,18,€2.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/jon-martin/profil/spieler/1018938,2.0,2023/24
+Kieran Tierney,Left-Back,27,€12.00m,Real Sociedad,"['Scotland', 'Isle of Man']",https://www.transfermarkt.com/kieran-tierney/profil/spieler/300716,12.0,2023/24
+Aihen Muñoz,Left-Back,26,€8.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/aihen-munoz/profil/spieler/517842,8.0,2023/24
+Javi Galán,Left-Back,29,€7.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/javi-galan/profil/spieler/448628,7.0,2023/24
+Diego Rico,Left-Back,31,€1.50m,Real Sociedad,['Spain'],https://www.transfermarkt.com/diego-rico/profil/spieler/249513,1.5,2023/24
+Hamari Traoré,Right-Back,32,€6.00m,Real Sociedad,['Mali'],https://www.transfermarkt.com/hamari-traore/profil/spieler/297070,6.0,2023/24
+Jon Aramburu,Right-Back,21,€2.50m,Real Sociedad,"['Venezuela', 'Spain']",https://www.transfermarkt.com/jon-aramburu/profil/spieler/661145,2.5,2023/24
+Álvaro Odriozola,Right-Back,28,€2.50m,Real Sociedad,['Spain'],https://www.transfermarkt.com/alvaro-odriozola/profil/spieler/280730,2.5,2023/24
+Iñaki Rupérez,Right-Back,21,€150k,Real Sociedad,['Spain'],https://www.transfermarkt.com/inaki-ruperez/profil/spieler/1055860,0.15,2023/24
+Martín Zubimendi,Defensive Midfield,25,€50.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/martin-zubimendi/profil/spieler/423440,50.0,2023/24
+Urko González de Zárate,Defensive Midfield,23,€1.20m,Real Sociedad,['Spain'],https://www.transfermarkt.com/urko-gonzalez-de-zarate/profil/spieler/625651,1.2,2023/24
+Mikel Merino,Central Midfield,28,€50.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/mikel-merino/profil/spieler/338424,50.0,2023/24
+Beñat Turrientes,Central Midfield,22,€20.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/benat-turrientes/profil/spieler/634431,20.0,2023/24
+Jon Ander Olasagasti,Central Midfield,23,€1.20m,Real Sociedad,['Spain'],https://www.transfermarkt.com/jon-ander-olasagasti/profil/spieler/625660,1.2,2023/24
+Brais Méndez,Attacking Midfield,27,€40.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/brais-mendez/profil/spieler/309110,40.0,2023/24
+Arsen Zakharyan,Attacking Midfield,21,€18.00m,Real Sociedad,['Russia'],https://www.transfermarkt.com/arsen-zakharyan/profil/spieler/555143,18.0,2023/24
+Pablo Marín,Attacking Midfield,20,€1.50m,Real Sociedad,['Spain'],https://www.transfermarkt.com/pablo-marin/profil/spieler/907813,1.5,2023/24
+Jon Magunazelaia,Attacking Midfield,22,€1.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/jon-magunazelaia/profil/spieler/625655,1.0,2023/24
+Ander Barrenetxea,Left Winger,22,€20.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/ander-barrenetxea/profil/spieler/616369,20.0,2023/24
+Sheraldo Becker,Left Winger,29,€10.00m,Real Sociedad,"['Suriname', 'Netherlands']",https://www.transfermarkt.com/sheraldo-becker/profil/spieler/188888,10.0,2023/24
+Martín Merquelanz,Left Winger,29,€600k,Real Sociedad,['Spain'],https://www.transfermarkt.com/martin-merquelanz/profil/spieler/289272,0.6,2023/24
+Takefusa Kubo,Right Winger,23,€50.00m,Real Sociedad,['Japan'],https://www.transfermarkt.com/takefusa-kubo/profil/spieler/405398,50.0,2023/24
+Mohamed-Ali Cho,Right Winger,20,€10.00m,Real Sociedad,"['France', 'England']",https://www.transfermarkt.com/mohamed-ali-cho/profil/spieler/670847,10.0,2023/24
+Robert Navarro,Right Winger,22,€6.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/robert-navarro/profil/spieler/563137,6.0,2023/24
+Álex Sola,Right Winger,25,€4.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/alex-sola/profil/spieler/434990,4.0,2023/24
+Alberto Dadie,Right Winger,21,€250k,Real Sociedad,['Spain'],https://www.transfermarkt.com/alberto-dadie/profil/spieler/711377,0.25,2023/24
+Mikel Oyarzabal,Centre-Forward,27,€45.00m,Real Sociedad,['Spain'],https://www.transfermarkt.com/mikel-oyarzabal/profil/spieler/351478,45.0,2023/24
+Umar Sadiq,Centre-Forward,27,€10.00m,Real Sociedad,['Nigeria'],https://www.transfermarkt.com/umar-sadiq/profil/spieler/337715,10.0,2023/24
+André Silva,Centre-Forward,28,€6.00m,Real Sociedad,['Portugal'],https://www.transfermarkt.com/andre-silva/profil/spieler/198008,6.0,2023/24
+Jon Karrikaburu,Centre-Forward,21,€2.50m,Real Sociedad,['Spain'],https://www.transfermarkt.com/jon-karrikaburu/profil/spieler/711382,2.5,2023/24
+Carlos Fernández,Centre-Forward,28,€1.50m,Real Sociedad,['Spain'],https://www.transfermarkt.com/carlos-fernandez/profil/spieler/216464,1.5,2023/24
+Bryan Fiabema,Centre-Forward,21,€300k,Real Sociedad,['Norway'],https://www.transfermarkt.com/bryan-fiabema/profil/spieler/581113,0.3,2023/24
+Jan Oblak,Goalkeeper,31,€28.00m,Atlético de Madrid,['Slovenia'],https://www.transfermarkt.com/jan-oblak/profil/spieler/121483,28.0,2023/24
+Ivo Grbic,Goalkeeper,28,€3.50m,Atlético de Madrid,['Croatia'],https://www.transfermarkt.com/ivo-grbic/profil/spieler/226073,3.5,2023/24
+Horațiu Moldovan,Goalkeeper,26,€2.50m,Atlético de Madrid,['Romania'],https://www.transfermarkt.com/horatiu-moldovan/profil/spieler/525438,2.5,2023/24
+Antonio Gomis,Goalkeeper,21,€150k,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/antonio-gomis/profil/spieler/930415,0.15,2023/24
+Sergio Mestre,Goalkeeper,19,€50k,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/sergio-mestre/profil/spieler/973314,0.05,2023/24
+Mario Hermoso,Centre-Back,29,€25.00m,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/mario-hermoso/profil/spieler/281769,25.0,2023/24
+José María Giménez,Centre-Back,29,€22.00m,Atlético de Madrid,"['Uruguay', 'Spain']",https://www.transfermarkt.com/jose-maria-gimenez/profil/spieler/250845,22.0,2023/24
+Çağlar Söyüncü,Centre-Back,28,€10.00m,Atlético de Madrid,['Türkiye'],https://www.transfermarkt.com/caglar-soyuncu/profil/spieler/320141,10.0,2023/24
+Axel Witsel,Centre-Back,35,€3.50m,Atlético de Madrid,"['Belgium', 'Martinique']",https://www.transfermarkt.com/axel-witsel/profil/spieler/35047,3.5,2023/24
+Stefan Savic,Centre-Back,33,€2.50m,Atlético de Madrid,"['Montenegro', 'Serbia']",https://www.transfermarkt.com/stefan-savic/profil/spieler/107010,2.5,2023/24
+César Azpilicueta,Centre-Back,34,€2.00m,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/cesar-azpilicueta/profil/spieler/57500,2.0,2023/24
+Gabriel Paulista,Centre-Back,33,€2.00m,Atlético de Madrid,"['Brazil', 'Spain']",https://www.transfermarkt.com/gabriel-paulista/profil/spieler/149498,2.0,2023/24
+Marco Moreno,Centre-Back,23,€400k,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/marco-moreno/profil/spieler/534376,0.4,2023/24
+Ilias Kostis,Centre-Back,21,€300k,Atlético de Madrid,"['Greece', 'Cyprus']",https://www.transfermarkt.com/ilias-kostis/profil/spieler/614988,0.3,2023/24
+Reinildo Mandava,Left-Back,30,€9.00m,Atlético de Madrid,['Mozambique'],https://www.transfermarkt.com/reinildo-mandava/profil/spieler/240692,9.0,2023/24
+Javi Galán,Left-Back,29,€7.00m,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/javi-galan/profil/spieler/448628,7.0,2023/24
+Nahuel Molina,Right-Back,26,€28.00m,Atlético de Madrid,['Argentina'],https://www.transfermarkt.com/nahuel-molina/profil/spieler/424042,28.0,2023/24
+Javier Boñar,Right-Back,19,€500k,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/javier-bonar/profil/spieler/741253,0.5,2023/24
+Arthur Vermeeren,Defensive Midfield,19,€25.00m,Atlético de Madrid,['Belgium'],https://www.transfermarkt.com/arthur-vermeeren/profil/spieler/926694,25.0,2023/24
+Rodrigo De Paul,Central Midfield,30,€30.00m,Atlético de Madrid,"['Argentina', 'Italy']",https://www.transfermarkt.com/rodrigo-de-paul/profil/spieler/255901,30.0,2023/24
+Pablo Barrios,Central Midfield,21,€25.00m,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/pablo-barrios/profil/spieler/775605,25.0,2023/24
+Koke,Central Midfield,32,€12.00m,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/koke/profil/spieler/74229,12.0,2023/24
+Saúl Ñíguez,Central Midfield,29,€7.50m,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/saul-niguez/profil/spieler/148928,7.5,2023/24
+Aitor Gismera,Central Midfield,20,€250k,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/aitor-gismera/profil/spieler/646735,0.25,2023/24
+Sergio Guerrero,Central Midfield,25,€200k,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/sergio-guerrero/profil/spieler/606570,0.2,2023/24
+Marcos Llorente,Right Midfield,29,€30.00m,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/marcos-llorente/profil/spieler/282411,30.0,2023/24
+Thomas Lemar,Attacking Midfield,28,€10.00m,Atlético de Madrid,"['France', 'Guadeloupe']",https://www.transfermarkt.com/thomas-lemar/profil/spieler/205562,10.0,2023/24
+Samuel Lino,Left Winger,24,€30.00m,Atlético de Madrid,['Brazil'],https://www.transfermarkt.com/samuel-lino/profil/spieler/694928,30.0,2023/24
+Rodrigo Riquelme,Left Winger,24,€25.00m,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/rodrigo-riquelme/profil/spieler/461617,25.0,2023/24
+Yannick Carrasco,Left Winger,30,€14.00m,Atlético de Madrid,"['Belgium', 'Spain']",https://www.transfermarkt.com/yannick-carrasco/profil/spieler/140776,14.0,2023/24
+Marcos Paulo,Left Winger,23,€2.00m,Atlético de Madrid,"['Portugal', 'Brazil']",https://www.transfermarkt.com/marcos-paulo/profil/spieler/612496,2.0,2023/24
+Salim El Jebari,Left Winger,20,€1.00m,Atlético de Madrid,"['Morocco', 'Spain']",https://www.transfermarkt.com/salim-el-jebari/profil/spieler/935457,1.0,2023/24
+Vitolo,Left Winger,34,€100k,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/vitolo/profil/spieler/67082,0.1,2023/24
+Rayane Belaid,Left Winger,19,-,Atlético de Madrid,"['Spain', 'Algeria']",https://www.transfermarkt.com/rayane-belaid/profil/spieler/945500,0.0,2023/24
+Ángel Correa,Right Winger,29,€18.00m,Atlético de Madrid,"['Argentina', 'Spain']",https://www.transfermarkt.com/angel-correa/profil/spieler/266807,18.0,2023/24
+Álex Calatrava,Right Winger,24,€200k,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/alex-calatrava/profil/spieler/633111,0.2,2023/24
+João Félix,Second Striker,24,€30.00m,Atlético de Madrid,['Portugal'],https://www.transfermarkt.com/joao-felix/profil/spieler/462250,30.0,2023/24
+Antoine Griezmann,Centre-Forward,33,€25.00m,Atlético de Madrid,['France'],https://www.transfermarkt.com/antoine-griezmann/profil/spieler/125781,25.0,2023/24
+Álvaro Morata,Centre-Forward,31,€16.00m,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/alvaro-morata/profil/spieler/128223,16.0,2023/24
+Memphis Depay,Centre-Forward,30,€10.00m,Atlético de Madrid,"['Netherlands', 'Ghana']",https://www.transfermarkt.com/memphis-depay/profil/spieler/167850,10.0,2023/24
+Adrián Niño,Centre-Forward,20,€500k,Atlético de Madrid,['Spain'],https://www.transfermarkt.com/adrian-nino/profil/spieler/926849,0.5,2023/24
+Abde Raihani,Centre-Forward,20,€300k,Atlético de Madrid,"['Morocco', 'Spain']",https://www.transfermarkt.com/abde-raihani/profil/spieler/860062,0.3,2023/24
+Paulo Gazzaniga,Goalkeeper,32,€4.00m,Girona FC,"['Argentina', 'Italy']",https://www.transfermarkt.com/paulo-gazzaniga/profil/spieler/195488,4.0,2023/24
+Toni Fuidias,Goalkeeper,23,€300k,Girona FC,['Spain'],https://www.transfermarkt.com/toni-fuidias/profil/spieler/623526,0.3,2023/24
+Juan Carlos,Goalkeeper,36,€200k,Girona FC,['Spain'],https://www.transfermarkt.com/juan-carlos/profil/spieler/120705,0.2,2023/24
+Eric García,Centre-Back,23,€20.00m,Girona FC,['Spain'],https://www.transfermarkt.com/eric-garcia/profil/spieler/466794,20.0,2023/24
+Santiago Bueno,Centre-Back,25,€8.00m,Girona FC,"['Uruguay', 'Italy']",https://www.transfermarkt.com/santiago-bueno/profil/spieler/438001,8.0,2023/24
+Daley Blind,Centre-Back,34,€3.00m,Girona FC,"['Netherlands', 'England']",https://www.transfermarkt.com/daley-blind/profil/spieler/12282,3.0,2023/24
+David López,Centre-Back,34,€2.50m,Girona FC,['Spain'],https://www.transfermarkt.com/david-lopez/profil/spieler/129444,2.5,2023/24
+Juanpe,Centre-Back,33,€1.00m,Girona FC,['Spain'],https://www.transfermarkt.com/juanpe/profil/spieler/115333,1.0,2023/24
+Bernardo Espinosa,Centre-Back,34,€550k,Girona FC,"['Colombia', 'Spain']",https://www.transfermarkt.com/bernardo-espinosa/profil/spieler/64598,0.55,2023/24
+Eric Monjonell,Centre-Back,22,€200k,Girona FC,['Spain'],https://www.transfermarkt.com/eric-monjonell/profil/spieler/787154,0.2,2023/24
+Antal Yaakobishvili,Centre-Back,19,-,Girona FC,"['Hungary', 'Georgia']",https://www.transfermarkt.com/antal-yaakobishvili/profil/spieler/923915,0.0,2023/24
+Miguel Gutiérrez,Left-Back,22,€25.00m,Girona FC,['Spain'],https://www.transfermarkt.com/miguel-gutierrez/profil/spieler/525299,25.0,2023/24
+Yan Couto,Right-Back,22,€25.00m,Girona FC,"['Brazil', 'Portugal']",https://www.transfermarkt.com/yan-couto/profil/spieler/627228,25.0,2023/24
+Arnau Martínez,Right-Back,21,€10.00m,Girona FC,['Spain'],https://www.transfermarkt.com/arnau-martinez/profil/spieler/826224,10.0,2023/24
+Ibrahima Kébé,Defensive Midfield,23,€500k,Girona FC,['Mali'],https://www.transfermarkt.com/ibrahima-kebe/profil/spieler/785967,0.5,2023/24
+Selvi Clua,Defensive Midfield,19,-,Girona FC,['Spain'],https://www.transfermarkt.com/selvi-clua/profil/spieler/1061660,0.0,2023/24
+Aleix García,Central Midfield,27,€25.00m,Girona FC,['Spain'],https://www.transfermarkt.com/aleix-garcia/profil/spieler/261504,25.0,2023/24
+Yangel Herrera,Central Midfield,26,€25.00m,Girona FC,"['Venezuela', 'Spain']",https://www.transfermarkt.com/yangel-herrera/profil/spieler/378293,25.0,2023/24
+Jhon Solís,Central Midfield,19,€3.00m,Girona FC,['Colombia'],https://www.transfermarkt.com/jhon-solis/profil/spieler/742521,3.0,2023/24
+Enric García,Central Midfield,17,-,Girona FC,['Spain'],https://www.transfermarkt.com/enric-garcia/profil/spieler/1000626,0.0,2023/24
+Iván Martín,Attacking Midfield,25,€15.00m,Girona FC,['Spain'],https://www.transfermarkt.com/ivan-martin/profil/spieler/341278,15.0,2023/24
+Pablo Torre,Attacking Midfield,21,€3.00m,Girona FC,['Spain'],https://www.transfermarkt.com/pablo-torre/profil/spieler/720038,3.0,2023/24
+Borja García,Attacking Midfield,33,€800k,Girona FC,['Spain'],https://www.transfermarkt.com/borja-garcia/profil/spieler/67808,0.8,2023/24
+Ricard Artero,Attacking Midfield,21,-,Girona FC,['Spain'],https://www.transfermarkt.com/ricard-artero/profil/spieler/906025,0.0,2023/24
+Toni Villa,Left Winger,29,€1.50m,Girona FC,['Spain'],https://www.transfermarkt.com/toni-villa/profil/spieler/337066,1.5,2023/24
+Alex Almansa,Left Winger,20,-,Girona FC,['Spain'],https://www.transfermarkt.com/alex-almansa/profil/spieler/946269,0.0,2023/24
+Juan Arango,Left Winger,18,-,Girona FC,"['Venezuela', 'Spain']",https://www.transfermarkt.com/juan-arango/profil/spieler/1025582,0.0,2023/24
+Jastin Garcia,Left Winger,20,-,Girona FC,"['Portugal', 'Spain']",https://www.transfermarkt.com/jastin-garcia/profil/spieler/1061665,0.0,2023/24
+Savinho,Right Winger,20,€50.00m,Girona FC,['Brazil'],https://www.transfermarkt.com/savinho/profil/spieler/743591,50.0,2023/24
+Viktor Tsygankov,Right Winger,26,€30.00m,Girona FC,['Ukraine'],https://www.transfermarkt.com/viktor-tsygankov/profil/spieler/264372,30.0,2023/24
+Portu,Right Winger,32,€3.50m,Girona FC,['Spain'],https://www.transfermarkt.com/portu/profil/spieler/99353,3.5,2023/24
+Valery Fernández,Right Winger,24,€2.50m,Girona FC,['Spain'],https://www.transfermarkt.com/valery-fernandez/profil/spieler/331496,2.5,2023/24
+Iker Almena,Right Winger,20,-,Girona FC,['Spain'],https://www.transfermarkt.com/iker-almena/profil/spieler/1061656,0.0,2023/24
+Manu Vallejo,Second Striker,27,€1.50m,Girona FC,['Spain'],https://www.transfermarkt.com/manu-vallejo/profil/spieler/527350,1.5,2023/24
+Artem Dovbyk,Centre-Forward,27,€35.00m,Girona FC,['Ukraine'],https://www.transfermarkt.com/artem-dovbyk/profil/spieler/343537,35.0,2023/24
+Cristhian Stuani,Centre-Forward,37,€1.80m,Girona FC,"['Uruguay', 'Italy']",https://www.transfermarkt.com/cristhian-stuani/profil/spieler/59323,1.8,2023/24
+Carles Garrido,Centre-Forward,19,€50k,Girona FC,['Spain'],https://www.transfermarkt.com/carles-garrido/profil/spieler/964264,0.05,2023/24
+Unai Simón,Goalkeeper,27,€30.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/unai-simon/profil/spieler/262396,30.0,2023/24
+Julen Agirrezabala,Goalkeeper,23,€5.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/julen-agirrezabala/profil/spieler/625014,5.0,2023/24
+Álex Padilla,Goalkeeper,20,€200k,Athletic Bilbao,"['Mexico', 'Spain']",https://www.transfermarkt.com/alex-padilla/profil/spieler/834483,0.2,2023/24
+Dani Vivian,Centre-Back,24,€25.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/dani-vivian/profil/spieler/524000,25.0,2023/24
+Aitor Paredes,Centre-Back,24,€22.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/aitor-paredes/profil/spieler/591916,22.0,2023/24
+Yeray Álvarez,Centre-Back,29,€8.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/yeray-alvarez/profil/spieler/255488,8.0,2023/24
+Unai Egiluz,Centre-Back,22,€100k,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/unai-egiluz/profil/spieler/834485,0.1,2023/24
+Yuri Berchiche,Left-Back,34,€1.80m,Athletic Bilbao,"['Spain', 'Algeria']",https://www.transfermarkt.com/yuri-berchiche/profil/spieler/61812,1.8,2023/24
+Imanol García de Albéniz,Left-Back,24,€1.20m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/imanol-garcia-de-albeniz/profil/spieler/626954,1.2,2023/24
+Iñigo Lekue,Right-Back,31,€3.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/inigo-lekue/profil/spieler/255501,3.0,2023/24
+Óscar de Marcos,Right-Back,35,€1.50m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/oscar-de-marcos/profil/spieler/96718,1.5,2023/24
+Hugo Rincón,Right-Back,21,€250k,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/hugo-rincon/profil/spieler/834487,0.25,2023/24
+Mikel Vesga,Defensive Midfield,31,€4.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/mikel-vesga/profil/spieler/300168,4.0,2023/24
+Peru Nolaskoain,Defensive Midfield,25,€1.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/peru-nolaskoain/profil/spieler/447052,1.0,2023/24
+Beñat Prados,Central Midfield,23,€15.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/benat-prados/profil/spieler/625047,15.0,2023/24
+Iñigo Ruiz de Galarreta,Central Midfield,30,€5.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/inigo-ruiz-de-galarreta/profil/spieler/126751,5.0,2023/24
+Ander Herrera,Central Midfield,34,€2.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/ander-herrera/profil/spieler/99343,2.0,2023/24
+Dani García,Central Midfield,34,€1.80m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/dani-garcia/profil/spieler/178425,1.8,2023/24
+Mikel Jauregizar,Central Midfield,20,€800k,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/mikel-jauregizar/profil/spieler/938729,0.8,2023/24
+Oihan Sancet,Attacking Midfield,24,€35.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/oihan-sancet/profil/spieler/571020,35.0,2023/24
+Unai Gómez,Attacking Midfield,21,€6.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/unai-gomez/profil/spieler/834752,6.0,2023/24
+Iker Muniain,Attacking Midfield,31,€5.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/iker-muniain/profil/spieler/54235,5.0,2023/24
+Raúl García,Attacking Midfield,37,€1.50m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/raul-garcia/profil/spieler/34601,1.5,2023/24
+Nico Williams,Left Winger,21,€60.00m,Athletic Bilbao,"['Spain', 'Ghana']",https://www.transfermarkt.com/nico-williams/profil/spieler/709187,60.0,2023/24
+Álex Berenguer,Left Winger,28,€12.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/alex-berenguer/profil/spieler/338425,12.0,2023/24
+Iñaki Williams,Right Winger,30,€25.00m,Athletic Bilbao,"['Ghana', 'Spain']",https://www.transfermarkt.com/inaki-williams/profil/spieler/255508,25.0,2023/24
+Adu Ares,Right Winger,22,€2.00m,Athletic Bilbao,"['Spain', 'Guinea-Bissau']",https://www.transfermarkt.com/adu-ares/profil/spieler/895480,2.0,2023/24
+Aingeru Olabarrieta,Right Winger,18,€500k,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/aingeru-olabarrieta/profil/spieler/1056971,0.5,2023/24
+Gorka Guruzeta,Centre-Forward,27,€18.00m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/gorka-guruzeta/profil/spieler/340205,18.0,2023/24
+Asier Villalibre,Centre-Forward,26,€2.50m,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/asier-villalibre/profil/spieler/251897,2.5,2023/24
+Javi Martón,Centre-Forward,25,€500k,Athletic Bilbao,['Spain'],https://www.transfermarkt.com/javi-marton/profil/spieler/711394,0.5,2023/24
+Filip Jørgensen,Goalkeeper,22,€20.00m,Villarreal CF,"['Denmark', 'Sweden']",https://www.transfermarkt.com/filip-jorgensen/profil/spieler/585323,20.0,2023/24
+Iker Álvarez,Goalkeeper,22,€800k,Villarreal CF,['Andorra'],https://www.transfermarkt.com/iker-alvarez/profil/spieler/547248,0.8,2023/24
+Pepe Reina,Goalkeeper,41,€600k,Villarreal CF,['Spain'],https://www.transfermarkt.com/pepe-reina/profil/spieler/7825,0.6,2023/24
+Matteo Gabbia,Centre-Back,24,€8.00m,Villarreal CF,['Italy'],https://www.transfermarkt.com/matteo-gabbia/profil/spieler/323167,8.0,2023/24
+Yerson Mosquera,Centre-Back,23,€6.00m,Villarreal CF,['Colombia'],https://www.transfermarkt.com/yerson-mosquera/profil/spieler/716276,6.0,2023/24
+Jorge Cuenca,Centre-Back,24,€6.00m,Villarreal CF,['Spain'],https://www.transfermarkt.com/jorge-cuenca/profil/spieler/494880,6.0,2023/24
+Eric Bailly,Centre-Back,30,€3.00m,Villarreal CF,"[""Cote d'Ivoire""]",https://www.transfermarkt.com/eric-bailly/profil/spieler/286384,3.0,2023/24
+Stefan Leković,Centre-Back,20,€1.80m,Villarreal CF,['Serbia'],https://www.transfermarkt.com/stefan-lekovic/profil/spieler/797572,1.8,2023/24
+Aïssa Mandi,Centre-Back,32,€1.80m,Villarreal CF,"['Algeria', 'France']",https://www.transfermarkt.com/aissa-mandi/profil/spieler/80293,1.8,2023/24
+Raúl Albiol,Centre-Back,38,€1.50m,Villarreal CF,['Spain'],https://www.transfermarkt.com/raul-albiol/profil/spieler/15452,1.5,2023/24
+Antonio Espigares,Centre-Back,19,€500k,Villarreal CF,['Spain'],https://www.transfermarkt.com/antonio-espigares/profil/spieler/886047,0.5,2023/24
+Abraham del Moral,Centre-Back,22,€100k,Villarreal CF,['Spain'],https://www.transfermarkt.com/abraham-del-moral/profil/spieler/635344,0.1,2023/24
+Alfonso Pedraza,Left-Back,28,€5.00m,Villarreal CF,['Spain'],https://www.transfermarkt.com/alfonso-pedraza/profil/spieler/356197,5.0,2023/24
+Alberto Moreno,Left-Back,31,€1.80m,Villarreal CF,['Spain'],https://www.transfermarkt.com/alberto-moreno/profil/spieler/207917,1.8,2023/24
+Carlos Romero,Left-Back,22,€1.50m,Villarreal CF,['Spain'],https://www.transfermarkt.com/carlos-romero/profil/spieler/709372,1.5,2023/24
+Juan Foyth,Right-Back,26,€15.00m,Villarreal CF,"['Argentina', 'Spain']",https://www.transfermarkt.com/juan-foyth/profil/spieler/480763,15.0,2023/24
+Adrià Altimira,Right-Back,23,€2.00m,Villarreal CF,['Spain'],https://www.transfermarkt.com/adria-altimira/profil/spieler/466807,2.0,2023/24
+Kiko Femenía,Right-Back,33,€1.40m,Villarreal CF,['Spain'],https://www.transfermarkt.com/kiko-femenia/profil/spieler/76467,1.4,2023/24
+Daniel Budesca,Right-Back,18,-,Villarreal CF,['Spain'],https://www.transfermarkt.com/daniel-budesca/profil/spieler/937942,0.0,2023/24
+Étienne Capoue,Defensive Midfield,35,€1.50m,Villarreal CF,"['France', 'Guadeloupe']",https://www.transfermarkt.com/etienne-capoue/profil/spieler/63494,1.5,2023/24
+Francis Coquelin,Defensive Midfield,33,€1.50m,Villarreal CF,"['France', 'Réunion']",https://www.transfermarkt.com/francis-coquelin/profil/spieler/74869,1.5,2023/24
+Santi Comesaña,Central Midfield,27,€6.00m,Villarreal CF,['Spain'],https://www.transfermarkt.com/santi-comesana/profil/spieler/380598,6.0,2023/24
+Ramón Terrats,Central Midfield,23,€4.00m,Villarreal CF,['Spain'],https://www.transfermarkt.com/ramon-terrats/profil/spieler/783396,4.0,2023/24
+Dani Parejo,Central Midfield,35,€2.50m,Villarreal CF,['Spain'],https://www.transfermarkt.com/dani-parejo/profil/spieler/59561,2.5,2023/24
+Manu Trigueros,Central Midfield,32,€1.50m,Villarreal CF,['Spain'],https://www.transfermarkt.com/manu-trigueros/profil/spieler/188854,1.5,2023/24
+Dani Requena,Central Midfield,20,€400k,Villarreal CF,['Spain'],https://www.transfermarkt.com/dani-requena/profil/spieler/945709,0.4,2023/24
+Denis Suárez,Attacking Midfield,30,€1.50m,Villarreal CF,['Spain'],https://www.transfermarkt.com/denis-suarez/profil/spieler/165007,1.5,2023/24
+Álex Baena,Left Winger,22,€40.00m,Villarreal CF,['Spain'],https://www.transfermarkt.com/alex-baena/profil/spieler/548111,40.0,2023/24
+Gonçalo Guedes,Left Winger,27,€15.00m,Villarreal CF,['Portugal'],https://www.transfermarkt.com/goncalo-guedes/profil/spieler/225122,15.0,2023/24
+Diego Collado,Left Winger,23,€800k,Villarreal CF,['Spain'],https://www.transfermarkt.com/diego-collado/profil/spieler/566965,0.8,2023/24
+Yéremy Pino,Right Winger,21,€30.00m,Villarreal CF,['Spain'],https://www.transfermarkt.com/yeremy-pino/profil/spieler/568157,30.0,2023/24
+Ilias Akhomach,Right Winger,20,€15.00m,Villarreal CF,"['Morocco', 'Spain']",https://www.transfermarkt.com/ilias-akhomach/profil/spieler/709969,15.0,2023/24
+Bertrand Traoré,Right Winger,28,€9.00m,Villarreal CF,['Burkina Faso'],https://www.transfermarkt.com/bertrand-traore/profil/spieler/131996,9.0,2023/24
+Alexander Sørloth,Centre-Forward,28,€25.00m,Villarreal CF,['Norway'],https://www.transfermarkt.com/alexander-sorloth/profil/spieler/238407,25.0,2023/24
+Gerard Moreno,Centre-Forward,32,€10.00m,Villarreal CF,['Spain'],https://www.transfermarkt.com/gerard-moreno/profil/spieler/177467,10.0,2023/24
+Ben Brereton Díaz,Centre-Forward,25,€8.00m,Villarreal CF,"['Chile', 'England']",https://www.transfermarkt.com/ben-brereton-diaz/profil/spieler/426192,8.0,2023/24
+Álex Forés,Centre-Forward,23,€1.50m,Villarreal CF,['Spain'],https://www.transfermarkt.com/alex-fores/profil/spieler/709380,1.5,2023/24
+José Luis Morales,Centre-Forward,36,€1.50m,Villarreal CF,['Spain'],https://www.transfermarkt.com/jose-luis-morales/profil/spieler/252677,1.5,2023/24
+Jorge Pascual,Centre-Forward,21,€1.00m,Villarreal CF,['Spain'],https://www.transfermarkt.com/jorge-pascual/profil/spieler/669511,1.0,2023/24
+Giorgi Mamardashvili,Goalkeeper,23,€35.00m,Valencia CF,['Georgia'],https://www.transfermarkt.com/giorgi-mamardashvili/profil/spieler/502676,35.0,2023/24
+Jaume Doménech,Goalkeeper,33,€800k,Valencia CF,['Spain'],https://www.transfermarkt.com/jaume-domenech/profil/spieler/227805,0.8,2023/24
+Cristian Rivero,Goalkeeper,26,€200k,Valencia CF,['Spain'],https://www.transfermarkt.com/cristian-rivero/profil/spieler/398131,0.2,2023/24
+Vicent Abril,Goalkeeper,19,-,Valencia CF,['Spain'],https://www.transfermarkt.com/vicent-abril/profil/spieler/741251,0.0,2023/24
+Cristhian Mosquera,Centre-Back,20,€30.00m,Valencia CF,"['Spain', 'Colombia']",https://www.transfermarkt.com/cristhian-mosquera/profil/spieler/646750,30.0,2023/24
+Yarek Gasiorowski,Centre-Back,19,€15.00m,Valencia CF,"['Spain', 'Poland']",https://www.transfermarkt.com/yarek-gasiorowski/profil/spieler/895334,15.0,2023/24
+Cenk Özkacar,Centre-Back,23,€4.00m,Valencia CF,['Türkiye'],https://www.transfermarkt.com/cenk-ozkacar/profil/spieler/615350,4.0,2023/24
+Mouctar Diakhaby,Centre-Back,27,€2.00m,Valencia CF,"['Guinea', 'France']",https://www.transfermarkt.com/mouctar-diakhaby/profil/spieler/346289,2.0,2023/24
+Gabriel Paulista,Centre-Back,33,€2.00m,Valencia CF,"['Brazil', 'Spain']",https://www.transfermarkt.com/gabriel-paulista/profil/spieler/149498,2.0,2023/24
+César Tárrega,Centre-Back,22,€1.50m,Valencia CF,['Spain'],https://www.transfermarkt.com/cesar-tarrega/profil/spieler/707274,1.5,2023/24
+Rubén Iranzo,Centre-Back,21,€300k,Valencia CF,['Spain'],https://www.transfermarkt.com/ruben-iranzo/profil/spieler/668212,0.3,2023/24
+José Gayà,Left-Back,29,€25.00m,Valencia CF,['Spain'],https://www.transfermarkt.com/jose-gaya/profil/spieler/221322,25.0,2023/24
+Jesús Vázquez,Left-Back,21,€3.00m,Valencia CF,['Spain'],https://www.transfermarkt.com/jesus-vazquez/profil/spieler/623024,3.0,2023/24
+Thierry Correia,Right-Back,25,€6.00m,Valencia CF,"['Portugal', 'Cape Verde']",https://www.transfermarkt.com/thierry-correia/profil/spieler/367466,6.0,2023/24
+Dimitri Foulquier,Right-Back,31,€2.50m,Valencia CF,"['Guadeloupe', 'France']",https://www.transfermarkt.com/dimitri-foulquier/profil/spieler/170472,2.5,2023/24
+Pepelu,Defensive Midfield,25,€22.00m,Valencia CF,['Spain'],https://www.transfermarkt.com/pepelu/profil/spieler/328480,22.0,2023/24
+Hugo Guillamón,Defensive Midfield,24,€8.00m,Valencia CF,['Spain'],https://www.transfermarkt.com/hugo-guillamon/profil/spieler/495629,8.0,2023/24
+Javi Guerra,Central Midfield,21,€20.00m,Valencia CF,['Spain'],https://www.transfermarkt.com/javi-guerra/profil/spieler/834764,20.0,2023/24
+Ali Fadal,Central Midfield,20,€100k,Valencia CF,['Ghana'],https://www.transfermarkt.com/ali-fadal/profil/spieler/980242,0.1,2023/24
+Javi Navarro,Central Midfield,20,€25k,Valencia CF,['Spain'],https://www.transfermarkt.com/javi-navarro/profil/spieler/646743,0.025,2023/24
+André Almeida,Attacking Midfield,24,€15.00m,Valencia CF,['Portugal'],https://www.transfermarkt.com/andre-almeida/profil/spieler/375382,15.0,2023/24
+Selim Amallah,Attacking Midfield,27,€1.50m,Valencia CF,"['Morocco', 'Belgium']",https://www.transfermarkt.com/selim-amallah/profil/spieler/377219,1.5,2023/24
+Pablo Gozálbez,Attacking Midfield,23,€800k,Valencia CF,['Spain'],https://www.transfermarkt.com/pablo-gozalbez/profil/spieler/622992,0.8,2023/24
+Martín Tejón,Attacking Midfield,20,€100k,Valencia CF,['Spain'],https://www.transfermarkt.com/martin-tejon/profil/spieler/941883,0.1,2023/24
+Sergi Canós,Left Winger,27,€2.50m,Valencia CF,['Spain'],https://www.transfermarkt.com/sergi-canos/profil/spieler/251845,2.5,2023/24
+Marco Camus,Left Winger,22,€300k,Valencia CF,['Spain'],https://www.transfermarkt.com/marco-camus/profil/spieler/636119,0.3,2023/24
+Diego López,Right Winger,22,€14.00m,Valencia CF,['Spain'],https://www.transfermarkt.com/diego-lopez/profil/spieler/617081,14.0,2023/24
+Fran Pérez,Right Winger,21,€8.00m,Valencia CF,['Spain'],https://www.transfermarkt.com/fran-perez/profil/spieler/622988,8.0,2023/24
+Peter Federico,Right Winger,21,€3.00m,Valencia CF,"['Dominican Republic', 'Spain']",https://www.transfermarkt.com/peter-federico/profil/spieler/710004,3.0,2023/24
+David Otorbi,Right Winger,16,€500k,Valencia CF,"['Spain', 'Nigeria']",https://www.transfermarkt.com/david-otorbi/profil/spieler/1009766,0.5,2023/24
+Hugo González,Right Winger,21,€300k,Valencia CF,['Spain'],https://www.transfermarkt.com/hugo-gonzalez/profil/spieler/707279,0.3,2023/24
+Hugo Duro,Centre-Forward,24,€16.00m,Valencia CF,['Spain'],https://www.transfermarkt.com/hugo-duro/profil/spieler/573775,16.0,2023/24
+Roman Yaremchuk,Centre-Forward,28,€3.50m,Valencia CF,['Ukraine'],https://www.transfermarkt.com/roman-yaremchuk/profil/spieler/221958,3.5,2023/24
+Alberto Marí,Centre-Forward,22,€1.50m,Valencia CF,['Spain'],https://www.transfermarkt.com/alberto-mari/profil/spieler/634105,1.5,2023/24
+Mario Dominguez,Centre-Forward,20,€200k,Valencia CF,['Spain'],https://www.transfermarkt.com/mario-dominguez/profil/spieler/941867,0.2,2023/24
+Joselu Pérez,Centre-Forward,20,€100k,Valencia CF,['Spain'],https://www.transfermarkt.com/joselu-perez/profil/spieler/1000135,0.1,2023/24
+Bono,Goalkeeper,33,€9.00m,Sevilla FC,"['Morocco', 'Canada']",https://www.transfermarkt.com/bono/profil/spieler/207834,9.0,2023/24
+Ørjan Nyland,Goalkeeper,33,€1.40m,Sevilla FC,['Norway'],https://www.transfermarkt.com/orjan-nyland/profil/spieler/73517,1.4,2023/24
+Marko Dmitrovic,Goalkeeper,32,€900k,Sevilla FC,['Serbia'],https://www.transfermarkt.com/marko-dmitrovic/profil/spieler/94308,0.9,2023/24
+Alberto Flores,Goalkeeper,20,€300k,Sevilla FC,['Spain'],https://www.transfermarkt.com/alberto-flores/profil/spieler/766552,0.3,2023/24
+Matías Árbol,Goalkeeper,21,€100k,Sevilla FC,['Spain'],https://www.transfermarkt.com/matias-arbol/profil/spieler/767255,0.1,2023/24
+Rafael Romero,Goalkeeper,20,-,Sevilla FC,['Spain'],https://www.transfermarkt.com/rafael-romero/profil/spieler/833884,0.0,2023/24
+Loïc Badé,Centre-Back,24,€14.00m,Sevilla FC,"['France', ""Cote d'Ivoire""]",https://www.transfermarkt.com/loic-bade/profil/spieler/730581,14.0,2023/24
+Kike Salas,Centre-Back,22,€10.00m,Sevilla FC,['Spain'],https://www.transfermarkt.com/kike-salas/profil/spieler/766583,10.0,2023/24
+Marcão,Centre-Back,28,€4.00m,Sevilla FC,['Brazil'],https://www.transfermarkt.com/marcao/profil/spieler/439022,4.0,2023/24
+Federico Gattoni,Centre-Back,25,€3.50m,Sevilla FC,"['Argentina', 'Italy']",https://www.transfermarkt.com/federico-gattoni/profil/spieler/660735,3.5,2023/24
+Tanguy Nianzou,Centre-Back,22,€3.00m,Sevilla FC,"['France', ""Cote d'Ivoire""]",https://www.transfermarkt.com/tanguy-nianzou/profil/spieler/538996,3.0,2023/24
+Sergio Ramos,Centre-Back,38,€2.50m,Sevilla FC,['Spain'],https://www.transfermarkt.com/sergio-ramos/profil/spieler/25557,2.5,2023/24
+Xavi Sintes,Centre-Back,22,€200k,Sevilla FC,['Spain'],https://www.transfermarkt.com/xavi-sintes/profil/spieler/569876,0.2,2023/24
+Adrià Pedrosa,Left-Back,26,€6.00m,Sevilla FC,['Spain'],https://www.transfermarkt.com/adria-pedrosa/profil/spieler/501418,6.0,2023/24
+Marcos Acuña,Left-Back,32,€4.00m,Sevilla FC,['Argentina'],https://www.transfermarkt.com/marcos-acuna/profil/spieler/60410,4.0,2023/24
+Diego Hormigo,Left-Back,21,€200k,Sevilla FC,['Spain'],https://www.transfermarkt.com/diego-hormigo/profil/spieler/767229,0.2,2023/24
+Oso,Left-Back,20,€200k,Sevilla FC,"['Spain', 'Argentina']",https://www.transfermarkt.com/osotm/profil/spieler/1032280,0.2,2023/24
+Juanlu Sánchez,Right-Back,20,€15.00m,Sevilla FC,['Spain'],https://www.transfermarkt.com/juanlu-sanchez/profil/spieler/676042,15.0,2023/24
+Gonzalo Montiel,Right-Back,27,€10.00m,Sevilla FC,"['Argentina', 'Spain']",https://www.transfermarkt.com/gonzalo-montiel/profil/spieler/402733,10.0,2023/24
+Jesús Navas,Right-Back,38,€2.50m,Sevilla FC,['Spain'],https://www.transfermarkt.com/jesus-navas/profil/spieler/15956,2.5,2023/24
+Darío Benavides,Right-Back,21,€150k,Sevilla FC,['Spain'],https://www.transfermarkt.com/dario-benavides/profil/spieler/711626,0.15,2023/24
+Boubakary Soumaré,Defensive Midfield,25,€14.00m,Sevilla FC,"['France', 'Senegal']",https://www.transfermarkt.com/boubakary-soumare/profil/spieler/344605,14.0,2023/24
+Lucien Agoumé,Defensive Midfield,22,€6.00m,Sevilla FC,"['France', 'Cameroon']",https://www.transfermarkt.com/lucien-agoume/profil/spieler/569384,6.0,2023/24
+Nemanja Gudelj,Defensive Midfield,32,€3.50m,Sevilla FC,"['Serbia', 'Netherlands']",https://www.transfermarkt.com/nemanja-gudelj/profil/spieler/74294,3.5,2023/24
+Fernando,Defensive Midfield,36,€2.00m,Sevilla FC,"['Brazil', 'Portugal']",https://www.transfermarkt.com/fernando/profil/spieler/51174,2.0,2023/24
+Djibril Sow,Central Midfield,27,€9.00m,Sevilla FC,"['Switzerland', 'Senegal']",https://www.transfermarkt.com/djibril-sow/profil/spieler/212723,9.0,2023/24
+Óliver Torres,Central Midfield,29,€6.00m,Sevilla FC,['Spain'],https://www.transfermarkt.com/oliver-torres/profil/spieler/214775,6.0,2023/24
+Joan Jordán,Central Midfield,29,€3.50m,Sevilla FC,['Spain'],https://www.transfermarkt.com/joan-jordan/profil/spieler/263727,3.5,2023/24
+Ivan Rakitic,Central Midfield,36,€3.50m,Sevilla FC,"['Croatia', 'Switzerland']",https://www.transfermarkt.com/ivan-rakitic/profil/spieler/32467,3.5,2023/24
+Manu Bueno,Central Midfield,19,€300k,Sevilla FC,['Spain'],https://www.transfermarkt.com/manu-bueno/profil/spieler/766723,0.3,2023/24
+Lulo Dasilva,Central Midfield,21,€150k,Sevilla FC,"['Spain', 'Brazil']",https://www.transfermarkt.com/lulo-dasilva/profil/spieler/718581,0.15,2023/24
+Alberto Collado,Central Midfield,19,-,Sevilla FC,['Spain'],https://www.transfermarkt.com/alberto-collado/profil/spieler/935342,0.0,2023/24
+Hannibal,Attacking Midfield,21,€9.00m,Sevilla FC,"['Tunisia', 'France']",https://www.transfermarkt.com/hannibal/profil/spieler/607224,9.0,2023/24
+Stanis Idumbo,Attacking Midfield,19,€800k,Sevilla FC,"['Belgium', 'DR Congo']",https://www.transfermarkt.com/stanis-idumbo/profil/spieler/743387,0.8,2023/24
+Miguel Capitas,Attacking Midfield,23,€200k,Sevilla FC,['Spain'],https://www.transfermarkt.com/miguel-capitas/profil/spieler/628926,0.2,2023/24
+Lucas Ocampos,Left Winger,29,€9.00m,Sevilla FC,"['Argentina', 'Spain']",https://www.transfermarkt.com/lucas-ocampos/profil/spieler/189441,9.0,2023/24
+Isra Domínguez,Left Winger,21,€150k,Sevilla FC,['Spain'],https://www.transfermarkt.com/isra-dominguez/profil/spieler/916014,0.15,2023/24
+Papu Gómez,Left Winger,36,-,Sevilla FC,"['Argentina', 'Italy']",https://www.transfermarkt.com/papu-gomez/profil/spieler/20005,0.0,2023/24
+Dodi Lukébakio,Right Winger,26,€12.00m,Sevilla FC,"['Belgium', 'DR Congo']",https://www.transfermarkt.com/dodi-lukebakio/profil/spieler/303259,12.0,2023/24
+Suso,Right Winger,30,€4.00m,Sevilla FC,['Spain'],https://www.transfermarkt.com/suso/profil/spieler/111961,4.0,2023/24
+Jesús Corona,Right Winger,31,€3.50m,Sevilla FC,"['Mexico', 'Portugal']",https://www.transfermarkt.com/jesus-corona/profil/spieler/125165,3.5,2023/24
+Erik Lamela,Right Winger,32,€2.00m,Sevilla FC,"['Argentina', 'Spain']",https://www.transfermarkt.com/erik-lamela/profil/spieler/111630,2.0,2023/24
+Adnan Januzaj,Right Winger,29,€2.00m,Sevilla FC,"['Belgium', 'Kosovo']",https://www.transfermarkt.com/adnan-januzaj/profil/spieler/177847,2.0,2023/24
+Youssef En-Nesyri,Centre-Forward,27,€20.00m,Sevilla FC,['Morocco'],https://www.transfermarkt.com/youssef-en-nesyri/profil/spieler/433049,20.0,2023/24
+Isaac Romero,Centre-Forward,24,€18.00m,Sevilla FC,['Spain'],https://www.transfermarkt.com/isaac-romero/profil/spieler/687609,18.0,2023/24
+Alejo Veliz,Centre-Forward,20,€9.00m,Sevilla FC,['Argentina'],https://www.transfermarkt.com/alejo-veliz/profil/spieler/888493,9.0,2023/24
+Rafa Mir,Centre-Forward,27,€2.50m,Sevilla FC,['Spain'],https://www.transfermarkt.com/rafa-mir/profil/spieler/361254,2.5,2023/24
+Mariano Díaz,Centre-Forward,30,€1.50m,Sevilla FC,"['Dominican Republic', 'Spain']",https://www.transfermarkt.com/mariano-diaz/profil/spieler/225020,1.5,2023/24
+Ibra Sow,Centre-Forward,17,€200k,Sevilla FC,"['Senegal', 'Spain']",https://www.transfermarkt.com/ibra-sow/profil/spieler/934420,0.2,2023/24
+Rui Silva,Goalkeeper,30,€8.00m,Real Betis Balompié,['Portugal'],https://www.transfermarkt.com/rui-silva/profil/spieler/234811,8.0,2023/24
+Claudio Bravo,Goalkeeper,41,€800k,Real Betis Balompié,"['Chile', 'Spain']",https://www.transfermarkt.com/claudio-bravo/profil/spieler/40423,0.8,2023/24
+Fran Vieites,Goalkeeper,25,€500k,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/fran-vieites/profil/spieler/551182,0.5,2023/24
+Guilherme Fernandes,Goalkeeper,23,€150k,Real Betis Balompié,['Portugal'],https://www.transfermarkt.com/guilherme-fernandes/profil/spieler/567504,0.15,2023/24
+Germán García,Goalkeeper,20,€25k,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/german-garcia/profil/spieler/1061277,0.025,2023/24
+Chadi Riad,Centre-Back,21,€15.00m,Real Betis Balompié,"['Morocco', 'Spain']",https://www.transfermarkt.com/chadi-riad/profil/spieler/689637,15.0,2023/24
+Luiz Felipe,Centre-Back,27,€13.00m,Real Betis Balompié,"['Italy', 'Brazil']",https://www.transfermarkt.com/luiz-felipe/profil/spieler/457931,13.0,2023/24
+Germán Pezzella,Centre-Back,33,€3.00m,Real Betis Balompié,"['Argentina', 'Italy']",https://www.transfermarkt.com/german-pezzella/profil/spieler/113133,3.0,2023/24
+Nobel Mendy,Centre-Back,19,€1.00m,Real Betis Balompié,"['Senegal', 'Guinea-Bissau']",https://www.transfermarkt.com/nobel-mendy/profil/spieler/1034853,1.0,2023/24
+Marc Bartra,Centre-Back,33,€1.00m,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/marc-bartra/profil/spieler/99922,1.0,2023/24
+Sokratis Papastathopoulos,Centre-Back,36,€700k,Real Betis Balompié,['Greece'],https://www.transfermarkt.com/sokratis-papastathopoulos/profil/spieler/34322,0.7,2023/24
+Ricardo Visus,Centre-Back,23,€150k,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/ricardo-visus/profil/spieler/630989,0.15,2023/24
+Juan Miranda,Left-Back,24,€9.00m,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/juan-miranda/profil/spieler/341227,9.0,2023/24
+Abner,Left-Back,24,€7.00m,Real Betis Balompié,['Brazil'],https://www.transfermarkt.com/abner/profil/spieler/646402,7.0,2023/24
+Xavi Pleguezuelo,Left-Back,21,€100k,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/xavi-pleguezuelo/profil/spieler/971774,0.1,2023/24
+Héctor Bellerín,Right-Back,29,€4.00m,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/hector-bellerin/profil/spieler/191217,4.0,2023/24
+Aitor Ruibal,Right-Back,28,€3.50m,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/aitor-ruibal/profil/spieler/378139,3.5,2023/24
+Youssouf Sabaly,Right-Back,31,€2.50m,Real Betis Balompié,"['Senegal', 'France']",https://www.transfermarkt.com/youssouf-sabaly/profil/spieler/135492,2.5,2023/24
+Pablo Busto,Right-Back,18,€500k,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/pablo-busto/profil/spieler/1054909,0.5,2023/24
+Johnny Cardoso,Defensive Midfield,22,€25.00m,Real Betis Balompié,"['United States', 'Italy']",https://www.transfermarkt.com/johnny-cardoso/profil/spieler/689505,25.0,2023/24
+Guido Rodríguez,Defensive Midfield,30,€20.00m,Real Betis Balompié,"['Argentina', 'Italy']",https://www.transfermarkt.com/guido-rodriguez/profil/spieler/342385,20.0,2023/24
+Marc Roca,Defensive Midfield,27,€9.00m,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/marc-roca/profil/spieler/336869,9.0,2023/24
+William Carvalho,Defensive Midfield,32,€3.00m,Real Betis Balompié,"['Portugal', 'Angola']",https://www.transfermarkt.com/william-carvalho/profil/spieler/100131,3.0,2023/24
+Paul Akouokou,Defensive Midfield,26,€1.50m,Real Betis Balompié,"[""Cote d'Ivoire""]",https://www.transfermarkt.com/paul-akouokou/profil/spieler/429901,1.5,2023/24
+Pablo Fornals,Central Midfield,28,€14.00m,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/pablo-fornals/profil/spieler/357885,14.0,2023/24
+Sergi Altimira,Central Midfield,22,€2.50m,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/sergi-altimira/profil/spieler/466801,2.5,2023/24
+Andrés Guardado,Central Midfield,37,€1.00m,Real Betis Balompié,"['Mexico', 'Spain']",https://www.transfermarkt.com/andres-guardado/profil/spieler/20506,1.0,2023/24
+Ginés Sorroche,Central Midfield,20,€300k,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/gines-sorroche/profil/spieler/961944,0.3,2023/24
+Quique Fernández,Central Midfield,20,€150k,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/quique-fernandez/profil/spieler/668184,0.15,2023/24
+Nabil Fekir,Attacking Midfield,30,€10.00m,Real Betis Balompié,"['France', 'Algeria']",https://www.transfermarkt.com/nabil-fekir/profil/spieler/203496,10.0,2023/24
+Isco,Attacking Midfield,32,€8.00m,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/isco/profil/spieler/85288,8.0,2023/24
+Dani Pérez,Attacking Midfield,18,€500k,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/dani-perez/profil/spieler/895331,0.5,2023/24
+Abde Ezzalzouli,Left Winger,22,€9.00m,Real Betis Balompié,"['Morocco', 'Spain']",https://www.transfermarkt.com/abde-ezzalzouli/profil/spieler/724520,9.0,2023/24
+Juan Cruz,Left Winger,24,€1.50m,Real Betis Balompié,"['Spain', 'Argentina']",https://www.transfermarkt.com/juan-cruz/profil/spieler/585700,1.5,2023/24
+Luiz Henrique,Right Winger,23,€12.00m,Real Betis Balompié,['Brazil'],https://www.transfermarkt.com/luiz-henrique/profil/spieler/800175,12.0,2023/24
+Assane Diao,Right Winger,18,€12.00m,Real Betis Balompié,"['Senegal', 'Spain']",https://www.transfermarkt.com/assane-diao/profil/spieler/1061282,12.0,2023/24
+Rodri Sánchez,Right Winger,24,€3.00m,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/rodri-sanchez/profil/spieler/630995,3.0,2023/24
+Ayoze Pérez,Centre-Forward,30,€7.00m,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/ayoze-perez/profil/spieler/246968,7.0,2023/24
+Borja Iglesias,Centre-Forward,31,€5.00m,Real Betis Balompié,['Spain'],https://www.transfermarkt.com/borja-iglesias/profil/spieler/278359,5.0,2023/24
+Willian José,Centre-Forward,32,€5.00m,Real Betis Balompié,"['Brazil', 'Spain']",https://www.transfermarkt.com/willian-jose/profil/spieler/122155,5.0,2023/24
+Chimy Ávila,Centre-Forward,30,€3.00m,Real Betis Balompié,"['Argentina', 'Spain']",https://www.transfermarkt.com/chimy-avila/profil/spieler/167721,3.0,2023/24
+Cédric Bakambu,Centre-Forward,33,€2.50m,Real Betis Balompié,"['DR Congo', 'France']",https://www.transfermarkt.com/cedric-bakambu/profil/spieler/127048,2.5,2023/24
+Iván Villar,Goalkeeper,26,€1.20m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/ivan-villar/profil/spieler/297194,1.2,2023/24
+Agustín Marchesín,Goalkeeper,36,€800k,Celta de Vigo,"['Argentina', 'Italy']",https://www.transfermarkt.com/agustin-marchesin/profil/spieler/54534,0.8,2023/24
+Vicente Guaita,Goalkeeper,37,€800k,Celta de Vigo,['Spain'],https://www.transfermarkt.com/vicente-guaita/profil/spieler/64399,0.8,2023/24
+Coke Carrillo,Goalkeeper,22,€200k,Celta de Vigo,['Spain'],https://www.transfermarkt.com/coke-carrillo/profil/spieler/581640,0.2,2023/24
+César Fernández,Goalkeeper,20,€200k,Celta de Vigo,['Spain'],https://www.transfermarkt.com/cesar-fernandez/profil/spieler/646741,0.2,2023/24
+Ruly García,Goalkeeper,24,€150k,Celta de Vigo,['Spain'],https://www.transfermarkt.com/ruly-garcia/profil/spieler/577869,0.15,2023/24
+Unai Núñez,Centre-Back,27,€7.00m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/unai-nunez/profil/spieler/338285,7.0,2023/24
+Carl Starfelt,Centre-Back,29,€6.00m,Celta de Vigo,['Sweden'],https://www.transfermarkt.com/carl-starfelt/profil/spieler/258987,6.0,2023/24
+Joseph Aidoo,Centre-Back,28,€4.00m,Celta de Vigo,['Ghana'],https://www.transfermarkt.com/joseph-aidoo/profil/spieler/358250,4.0,2023/24
+Carlos Domínguez,Centre-Back,23,€3.00m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/carlos-dominguez/profil/spieler/636093,3.0,2023/24
+Javi Rodríguez,Centre-Back,21,€250k,Celta de Vigo,['Spain'],https://www.transfermarkt.com/javi-rodriguez/profil/spieler/1076815,0.25,2023/24
+Yoel Lago,Centre-Back,20,€200k,Celta de Vigo,['Spain'],https://www.transfermarkt.com/yoel-lago/profil/spieler/939374,0.2,2023/24
+Javi Domínguez,Centre-Back,23,€150k,Celta de Vigo,['Spain'],https://www.transfermarkt.com/javi-dominguez/profil/spieler/625882,0.15,2023/24
+Manu Sánchez,Left-Back,23,€8.00m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/manu-sanchez/profil/spieler/618809,8.0,2023/24
+Mihailo Ristic,Left-Back,28,€1.00m,Celta de Vigo,"['Serbia', 'Bosnia-Herzegovina']",https://www.transfermarkt.com/mihailo-ristic/profil/spieler/271455,1.0,2023/24
+Joel López,Left-Back,22,€200k,Celta de Vigo,['Spain'],https://www.transfermarkt.com/joel-lopez/profil/spieler/586736,0.2,2023/24
+Óscar Mingueza,Right-Back,25,€8.00m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/oscar-mingueza/profil/spieler/331505,8.0,2023/24
+Javier Manquillo,Right-Back,30,€1.80m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/javier-manquillo/profil/spieler/162029,1.8,2023/24
+Kevin Vázquez,Right-Back,31,€800k,Celta de Vigo,['Spain'],https://www.transfermarkt.com/kevin-vazquez/profil/spieler/221315,0.8,2023/24
+Javi Rueda,Right-Back,22,€250k,Celta de Vigo,['Spain'],https://www.transfermarkt.com/javi-rueda/profil/spieler/652331,0.25,2023/24
+Renato Tapia,Defensive Midfield,28,€5.00m,Celta de Vigo,"['Peru', 'Spain']",https://www.transfermarkt.com/renato-tapia/profil/spieler/277137,5.0,2023/24
+Jailson,Defensive Midfield,28,€1.50m,Celta de Vigo,['Brazil'],https://www.transfermarkt.com/jailson/profil/spieler/366948,1.5,2023/24
+Damián Rodríguez,Defensive Midfield,21,€500k,Celta de Vigo,['Spain'],https://www.transfermarkt.com/damian-rodriguez/profil/spieler/715628,0.5,2023/24
+Fran Beltrán,Central Midfield,25,€6.00m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/fran-beltran/profil/spieler/423444,6.0,2023/24
+Luca de la Torre,Central Midfield,26,€3.00m,Celta de Vigo,"['United States', 'Spain']",https://www.transfermarkt.com/luca-de-la-torre/profil/spieler/315762,3.0,2023/24
+Hugo Sotelo,Central Midfield,20,€2.50m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/hugo-sotelo/profil/spieler/892221,2.5,2023/24
+Carlos Dotor,Central Midfield,23,€2.00m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/carlos-dotor/profil/spieler/623524,2.0,2023/24
+Gabri Veiga,Attacking Midfield,22,€25.00m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/gabri-veiga/profil/spieler/699704,25.0,2023/24
+Jonathan Bamba,Left Winger,28,€9.00m,Celta de Vigo,"[""Cote d'Ivoire"", 'France']",https://www.transfermarkt.com/jonathan-bamba/profil/spieler/292818,9.0,2023/24
+Williot Swedberg,Left Winger,20,€5.00m,Celta de Vigo,['Sweden'],https://www.transfermarkt.com/williot-swedberg/profil/spieler/764859,5.0,2023/24
+Hugo Álvarez,Left Winger,20,€1.50m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/hugo-alvarez/profil/spieler/892929,1.5,2023/24
+Franco Cervi,Left Winger,30,€1.50m,Celta de Vigo,"['Argentina', 'Italy']",https://www.transfermarkt.com/franco-cervi/profil/spieler/341110,1.5,2023/24
+Tadeo Allende,Right Winger,25,€4.00m,Celta de Vigo,"['Argentina', 'Italy']",https://www.transfermarkt.com/tadeo-allende/profil/spieler/872184,4.0,2023/24
+Carles Pérez,Right Winger,26,€2.50m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/carles-perez/profil/spieler/282810,2.5,2023/24
+Miguel Rodríguez,Right Winger,21,€800k,Celta de Vigo,['Spain'],https://www.transfermarkt.com/miguel-rodriguez/profil/spieler/634427,0.8,2023/24
+Jørgen Strand Larsen,Centre-Forward,24,€25.00m,Celta de Vigo,['Norway'],https://www.transfermarkt.com/jorgen-strand-larsen/profil/spieler/429983,25.0,2023/24
+Anastasios Douvikas,Centre-Forward,24,€6.00m,Celta de Vigo,['Greece'],https://www.transfermarkt.com/anastasios-douvikas/profil/spieler/523318,6.0,2023/24
+Iago Aspas,Centre-Forward,36,€3.00m,Celta de Vigo,['Spain'],https://www.transfermarkt.com/iago-aspas/profil/spieler/72047,3.0,2023/24
+Gonçalo Paciência,Centre-Forward,29,€1.50m,Celta de Vigo,['Portugal'],https://www.transfermarkt.com/goncalo-paciencia/profil/spieler/181547,1.5,2023/24
+Augusto Batalla,Goalkeeper,28,€5.00m,Granada CF,"['Argentina', 'Italy']",https://www.transfermarkt.com/augusto-batalla/profil/spieler/275218,5.0,2023/24
+André Ferreira,Goalkeeper,28,€800k,Granada CF,['Portugal'],https://www.transfermarkt.com/andre-ferreira/profil/spieler/290346,0.8,2023/24
+Marc Martínez,Goalkeeper,34,€300k,Granada CF,['Spain'],https://www.transfermarkt.com/marc-martinez/profil/spieler/129374,0.3,2023/24
+Adri López,Goalkeeper,25,€200k,Granada CF,['Spain'],https://www.transfermarkt.com/adri-lopez/profil/spieler/412042,0.2,2023/24
+Raúl Fernández,Goalkeeper,36,€200k,Granada CF,['Spain'],https://www.transfermarkt.com/raul-fernandez/profil/spieler/54217,0.2,2023/24
+Pol Tristán,Goalkeeper,22,€100k,Granada CF,['Spain'],https://www.transfermarkt.com/pol-tristan/profil/spieler/605528,0.1,2023/24
+Fran Árbol,Goalkeeper,18,-,Granada CF,['Spain'],https://www.transfermarkt.com/fran-arbol/profil/spieler/891312,0.0,2023/24
+Bruno Méndez,Centre-Back,24,€5.00m,Granada CF,"['Uruguay', 'Spain']",https://www.transfermarkt.com/bruno-mendez/profil/spieler/552912,5.0,2023/24
+Raúl Torrente,Centre-Back,22,€3.00m,Granada CF,['Spain'],https://www.transfermarkt.com/raul-torrente/profil/spieler/631222,3.0,2023/24
+Kamil Piatkowski,Centre-Back,24,€2.50m,Granada CF,['Poland'],https://www.transfermarkt.com/kamil-piatkowski/profil/spieler/345449,2.5,2023/24
+Miguel Rubio,Centre-Back,26,€1.50m,Granada CF,['Spain'],https://www.transfermarkt.com/miguel-rubio/profil/spieler/583510,1.5,2023/24
+Ignasi Miquel,Centre-Back,31,€1.20m,Granada CF,['Spain'],https://www.transfermarkt.com/ignasi-miquel/profil/spieler/70245,1.2,2023/24
+Jesús Vallejo,Centre-Back,27,€1.00m,Granada CF,['Spain'],https://www.transfermarkt.com/jesus-vallejo/profil/spieler/251896,1.0,2023/24
+Miki Bosch,Centre-Back,23,€100k,Granada CF,['Spain'],https://www.transfermarkt.com/miki-bosch/profil/spieler/707276,0.1,2023/24
+Álvaro Carreras,Left-Back,21,€7.00m,Granada CF,['Spain'],https://www.transfermarkt.com/alvaro-carreras/profil/spieler/811778,7.0,2023/24
+Faitout Maouassa,Left-Back,25,€4.00m,Granada CF,"['France', 'Congo']",https://www.transfermarkt.com/faitout-maouassa/profil/spieler/357072,4.0,2023/24
+Carlos Neva,Left-Back,28,€2.50m,Granada CF,['Spain'],https://www.transfermarkt.com/carlos-neva/profil/spieler/448844,2.5,2023/24
+Miguel Ángel Brau,Left-Back,22,€150k,Granada CF,['Spain'],https://www.transfermarkt.com/miguel-angel-brau/profil/spieler/713649,0.15,2023/24
+Ricard Sánchez,Right-Back,24,€2.50m,Granada CF,['Spain'],https://www.transfermarkt.com/ricard-sanchez/profil/spieler/388545,2.5,2023/24
+Wilson Manafá,Right-Back,29,€1.30m,Granada CF,"['Portugal', 'Guinea-Bissau']",https://www.transfermarkt.com/wilson-manafa/profil/spieler/257388,1.3,2023/24
+Víctor Díaz,Right-Back,36,€400k,Granada CF,['Spain'],https://www.transfermarkt.com/victor-diaz/profil/spieler/58330,0.4,2023/24
+Gerard Gumbau,Defensive Midfield,29,€3.00m,Granada CF,['Spain'],https://www.transfermarkt.com/gerard-gumbau/profil/spieler/268670,3.0,2023/24
+Martin Hongla,Defensive Midfield,26,€2.50m,Granada CF,['Cameroon'],https://www.transfermarkt.com/martin-hongla/profil/spieler/398808,2.5,2023/24
+Njegos Petrovic,Defensive Midfield,24,€2.50m,Granada CF,['Serbia'],https://www.transfermarkt.com/njegos-petrovic/profil/spieler/376588,2.5,2023/24
+Gonzalo Villar,Central Midfield,26,€3.00m,Granada CF,['Spain'],https://www.transfermarkt.com/gonzalo-villar/profil/spieler/398163,3.0,2023/24
+Sergio Ruiz,Central Midfield,29,€2.00m,Granada CF,['Spain'],https://www.transfermarkt.com/sergio-ruiz/profil/spieler/394694,2.0,2023/24
+Lass Sangaré,Central Midfield,22,€150k,Granada CF,"[""Cote d'Ivoire""]",https://www.transfermarkt.com/lass-sangare/profil/spieler/944124,0.15,2023/24
+Óscar Melendo,Attacking Midfield,26,€2.00m,Granada CF,['Spain'],https://www.transfermarkt.com/oscar-melendo/profil/spieler/448344,2.0,2023/24
+Mario González,Attacking Midfield,20,€150k,Granada CF,['Spain'],https://www.transfermarkt.com/mario-gonzalez/profil/spieler/833340,0.15,2023/24
+Bryan Zaragoza,Left Winger,22,€12.00m,Granada CF,['Spain'],https://www.transfermarkt.com/bryan-zaragoza/profil/spieler/713644,12.0,2023/24
+Myrto Uzuni,Left Winger,29,€8.00m,Granada CF,['Albania'],https://www.transfermarkt.com/myrto-uzuni/profil/spieler/315289,8.0,2023/24
+Kamil Jóźwiak,Left Winger,26,€2.00m,Granada CF,['Poland'],https://www.transfermarkt.com/kamil-jozwiak/profil/spieler/289167,2.0,2023/24
+Alberto Perea,Left Winger,33,€450k,Granada CF,['Spain'],https://www.transfermarkt.com/alberto-perea/profil/spieler/99559,0.45,2023/24
+Sergio Rodelas,Left Winger,19,€200k,Granada CF,['Spain'],https://www.transfermarkt.com/sergio-rodelas/profil/spieler/1064103,0.2,2023/24
+Facundo Pellistri,Right Winger,22,€8.00m,Granada CF,"['Uruguay', 'Spain']",https://www.transfermarkt.com/facundo-pellistri/profil/spieler/676318,8.0,2023/24
+Antonio Puertas,Right Winger,32,€2.00m,Granada CF,['Spain'],https://www.transfermarkt.com/antonio-puertas/profil/spieler/262365,2.0,2023/24
+Theo Corbeanu,Right Winger,22,€1.50m,Granada CF,"['Canada', 'Romania']",https://www.transfermarkt.com/theo-corbeanu/profil/spieler/568535,1.5,2023/24
+José Callejón,Right Winger,37,€800k,Granada CF,['Spain'],https://www.transfermarkt.com/jose-callejon/profil/spieler/61253,0.8,2023/24
+Alberto Soro,Right Winger,25,€700k,Granada CF,['Spain'],https://www.transfermarkt.com/alberto-soro/profil/spieler/487688,0.7,2023/24
+Pablo Sáenz,Right Winger,23,€150k,Granada CF,['Spain'],https://www.transfermarkt.com/pablo-saenz/profil/spieler/821820,0.15,2023/24
+Samu Aghehowa,Centre-Forward,20,€35.00m,Granada CF,"['Spain', 'Nigeria']",https://www.transfermarkt.com/samu-aghehowa/profil/spieler/991268,35.0,2023/24
+Lucas Boyé,Centre-Forward,28,€7.00m,Granada CF,"['Argentina', 'Italy']",https://www.transfermarkt.com/lucas-boye/profil/spieler/334222,7.0,2023/24
+Matías Arezo,Centre-Forward,21,€7.00m,Granada CF,['Uruguay'],https://www.transfermarkt.com/matias-arezo/profil/spieler/611426,7.0,2023/24
+Shon Weissman,Centre-Forward,28,€1.70m,Granada CF,"['Israel', 'Portugal']",https://www.transfermarkt.com/shon-weissman/profil/spieler/247652,1.7,2023/24
+Famara Diédhiou,Centre-Forward,31,€500k,Granada CF,['Senegal'],https://www.transfermarkt.com/famara-diedhiou/profil/spieler/237125,0.5,2023/24
+Eghosa Bello,Centre-Forward,20,€50k,Granada CF,['Nigeria'],https://www.transfermarkt.com/eghosa-bello/profil/spieler/1056096,0.05,2023/24
+David Soria,Goalkeeper,31,€5.00m,Getafe CF,['Spain'],https://www.transfermarkt.com/david-soria/profil/spieler/226012,5.0,2023/24
+Daniel Fuzato,Goalkeeper,26,€900k,Getafe CF,"['Brazil', 'Italy']",https://www.transfermarkt.com/daniel-fuzato/profil/spieler/438682,0.9,2023/24
+Jorge Benito,Goalkeeper,18,€25k,Getafe CF,['Spain'],https://www.transfermarkt.com/jorge-benito/profil/spieler/1135452,0.025,2023/24
+Djordjije Medenica,Goalkeeper,17,-,Getafe CF,"['Czech Republic', 'Serbia']",https://www.transfermarkt.com/djordjije-medenica/profil/spieler/1130318,0.0,2023/24
+Gastón Álvarez,Centre-Back,24,€15.00m,Getafe CF,"['Uruguay', 'Spain']",https://www.transfermarkt.com/gaston-alvarez/profil/spieler/577486,15.0,2023/24
+Omar Alderete,Centre-Back,27,€5.00m,Getafe CF,['Paraguay'],https://www.transfermarkt.com/omar-alderete/profil/spieler/353032,5.0,2023/24
+Djené,Centre-Back,32,€2.50m,Getafe CF,['Togo'],https://www.transfermarkt.com/djene/profil/spieler/221150,2.5,2023/24
+Domingos Duarte,Centre-Back,29,€2.00m,Getafe CF,['Portugal'],https://www.transfermarkt.com/domingos-duarte/profil/spieler/257376,2.0,2023/24
+Stefan Mitrovic,Centre-Back,34,€1.30m,Getafe CF,['Serbia'],https://www.transfermarkt.com/stefan-mitrovic/profil/spieler/143029,1.3,2023/24
+Nabil Aberdin,Centre-Back,21,€100k,Getafe CF,"['Morocco', 'France']",https://www.transfermarkt.com/nabil-aberdin/profil/spieler/908621,0.1,2023/24
+Sergio Gimeno,Centre-Back,23,€50k,Getafe CF,['Spain'],https://www.transfermarkt.com/sergio-gimeno/profil/spieler/623025,0.05,2023/24
+Diego Rico,Left-Back,31,€1.50m,Getafe CF,['Spain'],https://www.transfermarkt.com/diego-rico/profil/spieler/249513,1.5,2023/24
+Fabrizio Angileri,Left-Back,30,€1.00m,Getafe CF,"['Argentina', 'Italy']",https://www.transfermarkt.com/fabrizio-angileri/profil/spieler/268506,1.0,2023/24
+Jordi Martín,Left-Back,23,€600k,Getafe CF,['Spain'],https://www.transfermarkt.com/jordi-martin/profil/spieler/537763,0.6,2023/24
+Gorka Rivera,Left-Back,19,€100k,Getafe CF,['Spain'],https://www.transfermarkt.com/gorka-rivera/profil/spieler/1000136,0.1,2023/24
+Alejandro Herranz,Left-Back,19,€25k,Getafe CF,['Spain'],https://www.transfermarkt.com/alejandro-herranz/profil/spieler/1158757,0.025,2023/24
+José Ángel Carmona,Right-Back,22,€3.50m,Getafe CF,['Spain'],https://www.transfermarkt.com/jose-angel-carmona/profil/spieler/711625,3.5,2023/24
+Juan Iglesias,Right-Back,25,€2.50m,Getafe CF,['Spain'],https://www.transfermarkt.com/juan-iglesias/profil/spieler/390688,2.5,2023/24
+Damián Suárez,Right-Back,36,€650k,Getafe CF,"['Uruguay', 'Spain']",https://www.transfermarkt.com/damian-suarez/profil/spieler/76746,0.65,2023/24
+Nemanja Maksimovic,Central Midfield,29,€6.00m,Getafe CF,['Serbia'],https://www.transfermarkt.com/nemanja-maksimovic/profil/spieler/273152,6.0,2023/24
+Mauro Arambarri,Central Midfield,28,€5.00m,Getafe CF,"['Uruguay', 'Spain']",https://www.transfermarkt.com/mauro-arambarri/profil/spieler/290249,5.0,2023/24
+Luis Milla,Central Midfield,29,€3.50m,Getafe CF,['Spain'],https://www.transfermarkt.com/luis-milla/profil/spieler/281989,3.5,2023/24
+Carles Aleñá,Central Midfield,26,€3.00m,Getafe CF,['Spain'],https://www.transfermarkt.com/carles-alena/profil/spieler/284854,3.0,2023/24
+Ilaix Moriba,Central Midfield,21,€3.00m,Getafe CF,"['Guinea', 'Spain']",https://www.transfermarkt.com/ilaix-moriba/profil/spieler/617074,3.0,2023/24
+Yellu Santiago,Central Midfield,20,€1.00m,Getafe CF,['Spain'],https://www.transfermarkt.com/yellu-santiago/profil/spieler/941869,1.0,2023/24
+John Patrick,Central Midfield,20,€200k,Getafe CF,"['Ireland', 'Spain']",https://www.transfermarkt.com/john-patrick/profil/spieler/841121,0.2,2023/24
+Facu Esnáider,Central Midfield,22,€100k,Getafe CF,"['Spain', 'Argentina']",https://www.transfermarkt.com/facu-esnaider/profil/spieler/737138,0.1,2023/24
+Óscar Rodríguez,Attacking Midfield,26,€2.50m,Getafe CF,['Spain'],https://www.transfermarkt.com/oscar-rodriguez/profil/spieler/284884,2.5,2023/24
+Santi García,Attacking Midfield,22,€200k,Getafe CF,['Spain'],https://www.transfermarkt.com/santi-garcia/profil/spieler/732096,0.2,2023/24
+Diego López,Attacking Midfield,22,€100k,Getafe CF,['Spain'],https://www.transfermarkt.com/diego-lopez/profil/spieler/891091,0.1,2023/24
+Alberto Risco,Attacking Midfield,18,-,Getafe CF,['Spain'],https://www.transfermarkt.com/alberto-risco/profil/spieler/1255616,0.0,2023/24
+Jeremy Jorge,Left Winger,21,€200k,Getafe CF,['Spain'],https://www.transfermarkt.com/jeremy-jorge/profil/spieler/1041934,0.2,2023/24
+Yassin Tallal,Left Winger,19,€50k,Getafe CF,"['Morocco', 'Spain']",https://www.transfermarkt.com/yassin-tallal/profil/spieler/1184137,0.05,2023/24
+Mason Greenwood,Right Winger,22,€25.00m,Getafe CF,['England'],https://www.transfermarkt.com/mason-greenwood/profil/spieler/532826,25.0,2023/24
+Portu,Right Winger,32,€3.50m,Getafe CF,['Spain'],https://www.transfermarkt.com/portu/profil/spieler/99353,3.5,2023/24
+Enes Ünal,Centre-Forward,27,€18.00m,Getafe CF,['Türkiye'],https://www.transfermarkt.com/enes-unal/profil/spieler/251106,18.0,2023/24
+Borja Mayoral,Centre-Forward,27,€15.00m,Getafe CF,['Spain'],https://www.transfermarkt.com/borja-mayoral/profil/spieler/298976,15.0,2023/24
+Juanmi Latasa,Centre-Forward,23,€2.80m,Getafe CF,['Spain'],https://www.transfermarkt.com/juanmi-latasa/profil/spieler/623521,2.8,2023/24
+Choco Lozano,Centre-Forward,31,€1.20m,Getafe CF,"['Honduras', 'Spain']",https://www.transfermarkt.com/choco-lozano/profil/spieler/131275,1.2,2023/24
+Jaime Mata,Centre-Forward,35,€900k,Getafe CF,['Spain'],https://www.transfermarkt.com/jaime-mata/profil/spieler/227961,0.9,2023/24
+Antonio Sivera,Goalkeeper,27,€6.00m,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/antonio-sivera/profil/spieler/298197,6.0,2023/24
+Jesús Owono,Goalkeeper,23,€1.00m,Deportivo Alavés,"['Equatorial Guinea', 'Spain']",https://www.transfermarkt.com/jesus-owono/profil/spieler/631693,1.0,2023/24
+Adrián Rodríguez,Goalkeeper,23,€150k,Deportivo Alavés,"['Argentina', 'Spain']",https://www.transfermarkt.com/adrian-rodriguez/profil/spieler/608382,0.15,2023/24
+Gaizka García,Goalkeeper,19,€100k,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/gaizka-garcia/profil/spieler/895316,0.1,2023/24
+Rubén Montero,Goalkeeper,18,-,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/ruben-montero/profil/spieler/948253,0.0,2023/24
+Abdel Abqar,Centre-Back,25,€7.50m,Deportivo Alavés,['Morocco'],https://www.transfermarkt.com/abdel-abqar/profil/spieler/559979,7.5,2023/24
+Rafa Marín,Centre-Back,22,€7.50m,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/rafa-marin/profil/spieler/662261,7.5,2023/24
+Nikola Maras,Centre-Back,28,€1.20m,Deportivo Alavés,['Serbia'],https://www.transfermarkt.com/nikola-maras/profil/spieler/258475,1.2,2023/24
+Aleksandar Sedlar,Centre-Back,32,€400k,Deportivo Alavés,['Serbia'],https://www.transfermarkt.com/aleksandar-sedlar/profil/spieler/237499,0.4,2023/24
+Álvaro García,Centre-Back,18,€150k,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/alvaro-garcia/profil/spieler/1064403,0.15,2023/24
+Javi López,Left-Back,22,€7.50m,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/javi-lopez/profil/spieler/568158,7.5,2023/24
+Rubén Duarte,Left-Back,28,€3.00m,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/ruben-duarte/profil/spieler/177046,3.0,2023/24
+Victor Parada,Left-Back,22,€200k,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/victor-parada/profil/spieler/591957,0.2,2023/24
+Eneko Ortiz,Left-Back,21,€150k,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/eneko-ortiz/profil/spieler/892217,0.15,2023/24
+Andoni Gorosabel,Right-Back,27,€5.00m,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/andoni-gorosabel/profil/spieler/289255,5.0,2023/24
+Nahuel Tenaglia,Right-Back,28,€2.00m,Deportivo Alavés,"['Argentina', 'Italy']",https://www.transfermarkt.com/nahuel-tenaglia/profil/spieler/533568,2.0,2023/24
+Egoitz Muñoz,Right-Back,20,€200k,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/egoitz-munoz/profil/spieler/1064391,0.2,2023/24
+Joseda Álvarez,Right-Back,23,€100k,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/joseda-alvarez/profil/spieler/718177,0.1,2023/24
+Antonio Blanco,Defensive Midfield,23,€7.50m,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/antonio-blanco/profil/spieler/495621,7.5,2023/24
+Carlos Protesoni,Defensive Midfield,26,€1.50m,Deportivo Alavés,"['Uruguay', 'Italy']",https://www.transfermarkt.com/carlos-protesoni/profil/spieler/431190,1.5,2023/24
+Ander Guevara,Central Midfield,26,€5.00m,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/ander-guevara/profil/spieler/465967,5.0,2023/24
+Jon Guridi,Central Midfield,29,€4.00m,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/jon-guridi/profil/spieler/289257,4.0,2023/24
+Tomás Mendes,Central Midfield,19,€200k,Deportivo Alavés,"['Spain', 'Guinea-Bissau']",https://www.transfermarkt.com/tomas-mendes/profil/spieler/646734,0.2,2023/24
+Selu Diallo,Central Midfield,20,€200k,Deportivo Alavés,"['Guinea', 'Spain']",https://www.transfermarkt.com/selu-diallo/profil/spieler/1054931,0.2,2023/24
+Ianis Hagi,Attacking Midfield,25,€2.00m,Deportivo Alavés,['Romania'],https://www.transfermarkt.com/ianis-hagi/profil/spieler/282076,2.0,2023/24
+Ander Sánchez,Attacking Midfield,20,€100k,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/ander-sanchez/profil/spieler/1064402,0.1,2023/24
+Luis Rioja,Left Winger,30,€4.00m,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/luis-rioja/profil/spieler/278837,4.0,2023/24
+Abde Rebbach,Left Winger,25,€800k,Deportivo Alavés,"['Algeria', 'Spain']",https://www.transfermarkt.com/abde-rebbach/profil/spieler/718034,0.8,2023/24
+José de León,Left Winger,20,€200k,Deportivo Alavés,"['Dominican Republic', 'Spain']",https://www.transfermarkt.com/jose-de-leon/profil/spieler/867611,0.2,2023/24
+Álex Sola,Right Winger,25,€4.00m,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/alex-sola/profil/spieler/434990,4.0,2023/24
+Carlos Vicente,Right Winger,25,€4.00m,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/carlos-vicente/profil/spieler/540536,4.0,2023/24
+Giuliano Simeone,Right Winger,21,€3.00m,Deportivo Alavés,"['Argentina', 'Italy']",https://www.transfermarkt.com/giuliano-simeone/profil/spieler/742201,3.0,2023/24
+Xeber Alkain,Right Winger,27,€1.50m,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/xeber-alkain/profil/spieler/572271,1.5,2023/24
+Unai Ropero,Right Winger,22,€500k,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/unai-ropero/profil/spieler/718029,0.5,2023/24
+Samu Aghehowa,Centre-Forward,20,€35.00m,Deportivo Alavés,"['Spain', 'Nigeria']",https://www.transfermarkt.com/samu-aghehowa/profil/spieler/991268,35.0,2023/24
+Miguel de la Fuente,Centre-Forward,24,€2.50m,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/miguel-de-la-fuente/profil/spieler/480883,2.5,2023/24
+Jon Karrikaburu,Centre-Forward,21,€2.50m,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/jon-karrikaburu/profil/spieler/711382,2.5,2023/24
+Mamadou Sylla,Centre-Forward,30,€1.50m,Deportivo Alavés,"['Senegal', 'Spain']",https://www.transfermarkt.com/mamadou-sylla/profil/spieler/166683,1.5,2023/24
+Kike García,Centre-Forward,34,€1.00m,Deportivo Alavés,['Spain'],https://www.transfermarkt.com/kike-garcia/profil/spieler/93936,1.0,2023/24
+Joaquín Panichelli,Centre-Forward,21,€300k,Deportivo Alavés,['Argentina'],https://www.transfermarkt.com/joaquin-panichelli/profil/spieler/1064871,0.3,2023/24
+Giorgi Gagua,Centre-Forward,22,€250k,Deportivo Alavés,['Georgia'],https://www.transfermarkt.com/giorgi-gagua/profil/spieler/550492,0.25,2023/24
+Álvaro Valles,Goalkeeper,26,€12.00m,UD Las Palmas,['Spain'],https://www.transfermarkt.com/alvaro-valles/profil/spieler/417913,12.0,2023/24
+Aarón Escandell,Goalkeeper,28,€1.00m,UD Las Palmas,['Spain'],https://www.transfermarkt.com/aaron-escandell/profil/spieler/284430,1.0,2023/24
+Ale Gorrin,Goalkeeper,21,-,UD Las Palmas,['Spain'],https://www.transfermarkt.com/ale-gorrin/profil/spieler/749978,0.0,2023/24
+Álvaro Killane,Goalkeeper,19,-,UD Las Palmas,"['Argentina', 'Spain']",https://www.transfermarkt.com/alvaro-killane/profil/spieler/1036451,0.0,2023/24
+Mika Mármol,Centre-Back,22,€15.00m,UD Las Palmas,['Spain'],https://www.transfermarkt.com/mika-marmol/profil/spieler/617060,15.0,2023/24
+Saúl Coco,Centre-Back,25,€8.00m,UD Las Palmas,"['Equatorial Guinea', 'Spain']",https://www.transfermarkt.com/saul-coco/profil/spieler/588426,8.0,2023/24
+Alex Suárez,Centre-Back,31,€1.20m,UD Las Palmas,['Spain'],https://www.transfermarkt.com/alex-suarez/profil/spieler/510396,1.2,2023/24
+Juanma Herzog,Centre-Back,20,€1.00m,UD Las Palmas,"['Spain', 'Germany']",https://www.transfermarkt.com/juanma-herzog/profil/spieler/1146029,1.0,2023/24
+Eric Curbelo,Centre-Back,30,€800k,UD Las Palmas,['Spain'],https://www.transfermarkt.com/eric-curbelo/profil/spieler/390823,0.8,2023/24
+Sergi Cardona,Left-Back,24,€6.00m,UD Las Palmas,['Spain'],https://www.transfermarkt.com/sergi-cardona/profil/spieler/678406,6.0,2023/24
+Daley Sinkgraven,Left-Back,28,€1.00m,UD Las Palmas,['Netherlands'],https://www.transfermarkt.com/daley-sinkgraven/profil/spieler/215099,1.0,2023/24
+Gabriel Palmero,Left-Back,22,-,UD Las Palmas,"['Malaysia', 'Spain']",https://www.transfermarkt.com/gabriel-palmero/profil/spieler/1011316,0.0,2023/24
+Julián Araujo,Right-Back,22,€8.00m,UD Las Palmas,"['Mexico', 'United States']",https://www.transfermarkt.com/julian-araujo/profil/spieler/513970,8.0,2023/24
+Marvin Park,Right-Back,23,€2.00m,UD Las Palmas,['Spain'],https://www.transfermarkt.com/marvin-park/profil/spieler/603940,2.0,2023/24
+Álvaro Lemos,Right-Back,31,€700k,UD Las Palmas,['Spain'],https://www.transfermarkt.com/alvaro-lemos/profil/spieler/230222,0.7,2023/24
+Máximo Perrone,Defensive Midfield,21,€9.00m,UD Las Palmas,"['Argentina', 'Spain']",https://www.transfermarkt.com/maximo-perrone/profil/spieler/668547,9.0,2023/24
+Nuke Mfulu,Defensive Midfield,30,€700k,UD Las Palmas,"['DR Congo', 'France']",https://www.transfermarkt.com/nuke-mfulu/profil/spieler/203516,0.7,2023/24
+Enzo Loiodice,Central Midfield,23,€4.00m,UD Las Palmas,['France'],https://www.transfermarkt.com/enzo-loiodice/profil/spieler/581781,4.0,2023/24
+Javi Muñoz,Central Midfield,29,€3.00m,UD Las Palmas,['Spain'],https://www.transfermarkt.com/javi-munoz/profil/spieler/282421,3.0,2023/24
+José Campaña,Central Midfield,31,€1.50m,UD Las Palmas,['Spain'],https://www.transfermarkt.com/jose-campana/profil/spieler/120095,1.5,2023/24
+Fabio González,Central Midfield,27,€500k,UD Las Palmas,['Spain'],https://www.transfermarkt.com/fabio-gonzalez/profil/spieler/531062,0.5,2023/24
+Iñaki González,Central Midfield,19,-,UD Las Palmas,['Spain'],https://www.transfermarkt.com/inaki-gonzalez/profil/spieler/1019408,0.0,2023/24
+Aboubacar Bassinga,Central Midfield,18,-,UD Las Palmas,"[""Cote d'Ivoire""]",https://www.transfermarkt.com/aboubacar-bassinga/profil/spieler/1210422,0.0,2023/24
+Kirian Rodríguez,Attacking Midfield,28,€12.00m,UD Las Palmas,['Spain'],https://www.transfermarkt.com/kirian-rodriguez/profil/spieler/566574,12.0,2023/24
+Jonathan Viera,Attacking Midfield,34,€1.00m,UD Las Palmas,['Spain'],https://www.transfermarkt.com/jonathan-viera/profil/spieler/153238,1.0,2023/24
+Yadam Santana,Attacking Midfield,22,-,UD Las Palmas,['Spain'],https://www.transfermarkt.com/yadam-santana/profil/spieler/913955,0.0,2023/24
+Alberto Moleiro,Left Winger,20,€15.00m,UD Las Palmas,"['Spain', 'Cuba']",https://www.transfermarkt.com/alberto-moleiro/profil/spieler/733576,15.0,2023/24
+Benito Ramírez,Left Winger,28,€600k,UD Las Palmas,['Spain'],https://www.transfermarkt.com/benito-ramirez/profil/spieler/282672,0.6,2023/24
+Munir El Haddadi,Right Winger,28,€2.50m,UD Las Palmas,"['Morocco', 'Spain']",https://www.transfermarkt.com/munir-el-haddadi/profil/spieler/223725,2.5,2023/24
+Pejiño,Right Winger,27,€1.20m,UD Las Palmas,['Spain'],https://www.transfermarkt.com/pejino/profil/spieler/534379,1.2,2023/24
+Sandro Ramírez,Centre-Forward,28,€1.50m,UD Las Palmas,['Spain'],https://www.transfermarkt.com/sandro-ramirez/profil/spieler/199369,1.5,2023/24
+Sory Kaba,Centre-Forward,28,€1.50m,UD Las Palmas,['Guinea'],https://www.transfermarkt.com/sory-kaba/profil/spieler/355689,1.5,2023/24
+Marc Cardona,Centre-Forward,28,€1.40m,UD Las Palmas,['Spain'],https://www.transfermarkt.com/marc-cardona/profil/spieler/443222,1.4,2023/24
+Cristian Herrera,Centre-Forward,33,€300k,UD Las Palmas,['Spain'],https://www.transfermarkt.com/cristian-herrera/profil/spieler/237617,0.3,2023/24
+Pau Ferrer,Centre-Forward,20,-,UD Las Palmas,['Spain'],https://www.transfermarkt.com/pau-ferrer/profil/spieler/940462,0.0,2023/24
+Sergio Herrera,Goalkeeper,31,€6.00m,CA Osasuna,['Spain'],https://www.transfermarkt.com/sergio-herrera/profil/spieler/248738,6.0,2023/24
+Aitor Fernández,Goalkeeper,33,€1.80m,CA Osasuna,['Spain'],https://www.transfermarkt.com/aitor-fernandez/profil/spieler/118997,1.8,2023/24
+Pablo Valencia,Goalkeeper,23,€200k,CA Osasuna,['Spain'],https://www.transfermarkt.com/pablo-valencia/profil/spieler/634117,0.2,2023/24
+Dimitrios Stamatakis,Goalkeeper,21,€200k,CA Osasuna,['Greece'],https://www.transfermarkt.com/dimitrios-stamatakis/profil/spieler/890817,0.2,2023/24
+David García,Centre-Back,30,€10.00m,CA Osasuna,['Spain'],https://www.transfermarkt.com/david-garcia/profil/spieler/298589,10.0,2023/24
+Jorge Herrando,Centre-Back,23,€6.00m,CA Osasuna,['Spain'],https://www.transfermarkt.com/jorge-herrando/profil/spieler/555500,6.0,2023/24
+Alejandro Catena,Centre-Back,29,€4.00m,CA Osasuna,['Spain'],https://www.transfermarkt.com/alejandro-catena/profil/spieler/449796,4.0,2023/24
+Unai García,Centre-Back,32,€1.20m,CA Osasuna,['Spain'],https://www.transfermarkt.com/unai-garcia/profil/spieler/197122,1.2,2023/24
+Jorge Moreno,Centre-Back,22,€500k,CA Osasuna,['Spain'],https://www.transfermarkt.com/jorge-moreno/profil/spieler/717957,0.5,2023/24
+Juan Cruz,Left-Back,31,€2.20m,CA Osasuna,['Spain'],https://www.transfermarkt.com/juan-cruz/profil/spieler/169497,2.2,2023/24
+Johan Mojica,Left-Back,31,€2.20m,CA Osasuna,"['Colombia', 'Spain']",https://www.transfermarkt.com/johan-mojica/profil/spieler/262939,2.2,2023/24
+Jesús Areso,Right-Back,24,€7.50m,CA Osasuna,['Spain'],https://www.transfermarkt.com/jesus-areso/profil/spieler/488626,7.5,2023/24
+Rubén Peña,Right-Back,32,€2.20m,CA Osasuna,['Spain'],https://www.transfermarkt.com/ruben-pena/profil/spieler/238868,2.2,2023/24
+Nacho Vidal,Right-Back,29,€2.00m,CA Osasuna,['Spain'],https://www.transfermarkt.com/nacho-vidal/profil/spieler/216870,2.0,2023/24
+Iñigo Arguibide,Right-Back,19,€150k,CA Osasuna,['Spain'],https://www.transfermarkt.com/inigo-arguibide/profil/spieler/1065442,0.15,2023/24
+Iker Muñoz,Defensive Midfield,21,€5.00m,CA Osasuna,['Spain'],https://www.transfermarkt.com/iker-munoz/profil/spieler/710677,5.0,2023/24
+Lucas Torró,Defensive Midfield,29,€4.00m,CA Osasuna,['Spain'],https://www.transfermarkt.com/lucas-torro/profil/spieler/213670,4.0,2023/24
+Jon Moncayola,Central Midfield,26,€7.00m,CA Osasuna,['Spain'],https://www.transfermarkt.com/jon-moncayola/profil/spieler/552425,7.0,2023/24
+Pablo Ibáñez,Central Midfield,25,€2.50m,CA Osasuna,['Spain'],https://www.transfermarkt.com/pablo-ibanez/profil/spieler/785353,2.5,2023/24
+Darko Brasanac,Central Midfield,32,€1.40m,CA Osasuna,['Serbia'],https://www.transfermarkt.com/darko-brasanac/profil/spieler/95641,1.4,2023/24
+Aimar Oroz,Attacking Midfield,22,€15.00m,CA Osasuna,['Spain'],https://www.transfermarkt.com/aimar-oroz/profil/spieler/634131,15.0,2023/24
+Javi Martínez,Attacking Midfield,24,€1.20m,CA Osasuna,['Spain'],https://www.transfermarkt.com/javi-martinez/profil/spieler/471474,1.2,2023/24
+Asier Osambela,Attacking Midfield,19,€500k,CA Osasuna,['Spain'],https://www.transfermarkt.com/asier-osambela/profil/spieler/1038512,0.5,2023/24
+Xabi Huarte,Attacking Midfield,23,€200k,CA Osasuna,['Spain'],https://www.transfermarkt.com/xabi-huarte/profil/spieler/634125,0.2,2023/24
+Moi Gómez,Left Winger,30,€3.50m,CA Osasuna,['Spain'],https://www.transfermarkt.com/moi-gomez/profil/spieler/175449,3.5,2023/24
+José Manuel Arnáiz,Left Winger,29,€2.00m,CA Osasuna,['Spain'],https://www.transfermarkt.com/jose-manuel-arnaiz/profil/spieler/364603,2.0,2023/24
+Rubén García,Right Winger,30,€2.50m,CA Osasuna,['Spain'],https://www.transfermarkt.com/ruben-garcia/profil/spieler/213260,2.5,2023/24
+Kike Barja,Right Winger,27,€2.00m,CA Osasuna,['Spain'],https://www.transfermarkt.com/kike-barja/profil/spieler/298575,2.0,2023/24
+Ante Budimir,Centre-Forward,32,€5.00m,CA Osasuna,['Croatia'],https://www.transfermarkt.com/ante-budimir/profil/spieler/46413,5.0,2023/24
+Raúl García,Centre-Forward,23,€4.00m,CA Osasuna,['Spain'],https://www.transfermarkt.com/raul-garcia/profil/spieler/631002,4.0,2023/24
+Chimy Ávila,Centre-Forward,30,€3.00m,CA Osasuna,"['Argentina', 'Spain']",https://www.transfermarkt.com/chimy-avila/profil/spieler/167721,3.0,2023/24
+Max Svensson,Centre-Forward,22,€400k,CA Osasuna,"['Spain', 'Sweden']",https://www.transfermarkt.com/max-svensson/profil/spieler/705808,0.4,2023/24
+Luís Maximiano,Goalkeeper,25,€5.00m,UD Almería,['Portugal'],https://www.transfermarkt.com/luis-maximiano/profil/spieler/367464,5.0,2023/24
+Fernando Martínez,Goalkeeper,34,€700k,UD Almería,['Spain'],https://www.transfermarkt.com/fernando-martinez/profil/spieler/81997,0.7,2023/24
+Diego Mariño,Goalkeeper,34,€300k,UD Almería,['Spain'],https://www.transfermarkt.com/diego-marino/profil/spieler/59349,0.3,2023/24
+Bruno Iribarne,Goalkeeper,19,-,UD Almería,['Spain'],https://www.transfermarkt.com/bruno-iribarne/profil/spieler/747197,0.0,2023/24
+Srdjan Babic,Centre-Back,28,€4.00m,UD Almería,"['Serbia', 'Bosnia-Herzegovina']",https://www.transfermarkt.com/srdjan-babic/profil/spieler/222805,4.0,2023/24
+Edgar González,Centre-Back,27,€3.00m,UD Almería,['Spain'],https://www.transfermarkt.com/edgar-gonzalez/profil/spieler/401624,3.0,2023/24
+César Montes,Centre-Back,27,€3.00m,UD Almería,['Mexico'],https://www.transfermarkt.com/cesar-montes/profil/spieler/387687,3.0,2023/24
+Kaiky,Centre-Back,20,€2.00m,UD Almería,['Brazil'],https://www.transfermarkt.com/kaiky/profil/spieler/743589,2.0,2023/24
+Chumi,Centre-Back,25,€2.00m,UD Almería,['Spain'],https://www.transfermarkt.com/chumi/profil/spieler/333361,2.0,2023/24
+Aleksandar Radovanovic,Centre-Back,30,€900k,UD Almería,['Serbia'],https://www.transfermarkt.com/aleksandar-radovanovic/profil/spieler/339501,0.9,2023/24
+Paco Sanz,Centre-Back,19,-,UD Almería,['Spain'],https://www.transfermarkt.com/paco-sanz/profil/spieler/1064116,0.0,2023/24
+Sergio Akieme,Left-Back,26,€7.00m,UD Almería,"['Spain', 'Equatorial Guinea']",https://www.transfermarkt.com/sergio-akieme/profil/spieler/355627,7.0,2023/24
+Bruno Langa,Left-Back,26,€1.50m,UD Almería,['Mozambique'],https://www.transfermarkt.com/bruno-langa/profil/spieler/631472,1.5,2023/24
+Álex Centelles,Left-Back,24,€1.20m,UD Almería,['Spain'],https://www.transfermarkt.com/alex-centelles/profil/spieler/423443,1.2,2023/24
+Marc Pubill,Right-Back,21,€4.00m,UD Almería,['Spain'],https://www.transfermarkt.com/marc-pubill/profil/spieler/844637,4.0,2023/24
+Álex Pozo,Right-Back,25,€2.00m,UD Almería,['Spain'],https://www.transfermarkt.com/alex-pozo/profil/spieler/341272,2.0,2023/24
+Houboulang Mendes,Right-Back,26,€700k,UD Almería,"['Guinea-Bissau', 'France']",https://www.transfermarkt.com/houboulang-mendes/profil/spieler/442552,0.7,2023/24
+Miguel Peña,Right-Back,23,-,UD Almería,['Spain'],https://www.transfermarkt.com/miguel-pena/profil/spieler/718178,0.0,2023/24
+Carlos Ballestero,Right-Back,20,-,UD Almería,['Spain'],https://www.transfermarkt.com/carlos-ballestero/profil/spieler/945760,0.0,2023/24
+Dion Lopy,Defensive Midfield,22,€10.00m,UD Almería,['Senegal'],https://www.transfermarkt.com/dion-lopy/profil/spieler/649033,10.0,2023/24
+Lucas Robertone,Central Midfield,27,€7.00m,UD Almería,"['Argentina', 'Italy']",https://www.transfermarkt.com/lucas-robertone/profil/spieler/457221,7.0,2023/24
+Iddrisu Baba,Central Midfield,28,€2.20m,UD Almería,"['Ghana', 'Spain']",https://www.transfermarkt.com/iddrisu-baba/profil/spieler/442805,2.2,2023/24
+Arnau Puigmal,Central Midfield,23,€1.80m,UD Almería,['Spain'],https://www.transfermarkt.com/arnau-puigmal/profil/spieler/536030,1.8,2023/24
+Gonzalo Melero,Central Midfield,30,€1.80m,UD Almería,['Spain'],https://www.transfermarkt.com/gonzalo-melero/profil/spieler/162056,1.8,2023/24
+Marcos Peña,Central Midfield,19,€1.00m,UD Almería,['Spain'],https://www.transfermarkt.com/marcos-pena/profil/spieler/1064121,1.0,2023/24
+Gui Guedes,Central Midfield,22,€900k,UD Almería,['Portugal'],https://www.transfermarkt.com/gui-guedes/profil/spieler/696506,0.9,2023/24
+Martin Svidersky,Central Midfield,21,€300k,UD Almería,['Slovakia'],https://www.transfermarkt.com/martin-svidersky/profil/spieler/630523,0.3,2023/24
+Sergio Arribas,Attacking Midfield,22,€10.00m,UD Almería,['Spain'],https://www.transfermarkt.com/sergio-arribas/profil/spieler/537762,10.0,2023/24
+Jonathan Viera,Attacking Midfield,34,€1.00m,UD Almería,['Spain'],https://www.transfermarkt.com/jonathan-viera/profil/spieler/153238,1.0,2023/24
+Largie Ramazani,Left Winger,23,€5.00m,UD Almería,"['Belgium', 'Burundi']",https://www.transfermarkt.com/largie-ramazani/profil/spieler/518644,5.0,2023/24
+Lázaro,Left Winger,22,€3.50m,UD Almería,['Brazil'],https://www.transfermarkt.com/lazaro/profil/spieler/574772,3.5,2023/24
+Luka Romero,Right Winger,19,€5.00m,UD Almería,"['Argentina', 'Spain']",https://www.transfermarkt.com/luka-romero/profil/spieler/769063,5.0,2023/24
+Adrián Embarba,Right Winger,32,€1.80m,UD Almería,['Spain'],https://www.transfermarkt.com/adrian-embarba/profil/spieler/288318,1.8,2023/24
+Arvin Appiah,Right Winger,23,€400k,UD Almería,"['England', 'Netherlands']",https://www.transfermarkt.com/arvin-appiah/profil/spieler/433257,0.4,2023/24
+Luis Suárez,Centre-Forward,26,€3.50m,UD Almería,"['Colombia', 'Spain']",https://www.transfermarkt.com/luis-suarez/profil/spieler/424784,3.5,2023/24
+Ibrahima Koné,Centre-Forward,25,€2.50m,UD Almería,['Mali'],https://www.transfermarkt.com/ibrahima-kone/profil/spieler/490223,2.5,2023/24
+Léo Baptistão,Centre-Forward,31,€1.50m,UD Almería,"['Brazil', 'Spain']",https://www.transfermarkt.com/leo-baptistao/profil/spieler/221899,1.5,2023/24
+Choco Lozano,Centre-Forward,31,€1.20m,UD Almería,"['Honduras', 'Spain']",https://www.transfermarkt.com/choco-lozano/profil/spieler/131275,1.2,2023/24
+Marko Milovanovic,Centre-Forward,20,€900k,UD Almería,['Serbia'],https://www.transfermarkt.com/marko-milovanovic/profil/spieler/845568,0.9,2023/24
+Marciano Sanca,Centre-Forward,20,€800k,UD Almería,['Guinea-Bissau'],https://www.transfermarkt.com/marciano-sanca/profil/spieler/1013774,0.8,2023/24
+Rachad Fettal,Centre-Forward,19,-,UD Almería,"['Morocco', 'Spain']",https://www.transfermarkt.com/rachad-fettal/profil/spieler/891310,0.0,2023/24
+Predrag Rajković,Goalkeeper,28,€10.00m,RCD Mallorca,['Serbia'],https://www.transfermarkt.com/predrag-rajkovic/profil/spieler/190263,10.0,2023/24
+Dominik Greif,Goalkeeper,27,€2.50m,RCD Mallorca,['Slovakia'],https://www.transfermarkt.com/dominik-greif/profil/spieler/316884,2.5,2023/24
+Iván Cuéllar,Goalkeeper,40,€100k,RCD Mallorca,['Spain'],https://www.transfermarkt.com/ivan-cuellar/profil/spieler/27493,0.1,2023/24
+Pere García,Goalkeeper,22,€50k,RCD Mallorca,['Spain'],https://www.transfermarkt.com/pere-garcia/profil/spieler/632913,0.05,2023/24
+Alex Quevedo,Goalkeeper,20,-,RCD Mallorca,['Spain'],https://www.transfermarkt.com/alex-quevedo/profil/spieler/892421,0.0,2023/24
+Martin Valjent,Centre-Back,28,€6.00m,RCD Mallorca,['Slovakia'],https://www.transfermarkt.com/martin-valjent/profil/spieler/277384,6.0,2023/24
+José Copete,Centre-Back,24,€2.80m,RCD Mallorca,['Spain'],https://www.transfermarkt.com/jose-copete/profil/spieler/520840,2.8,2023/24
+Siebe Van der Heyden,Centre-Back,26,€2.00m,RCD Mallorca,['Belgium'],https://www.transfermarkt.com/siebe-van-der-heyden/profil/spieler/400131,2.0,2023/24
+Antonio Raíllo,Centre-Back,32,€2.00m,RCD Mallorca,['Spain'],https://www.transfermarkt.com/antonio-raillo/profil/spieler/278296,2.0,2023/24
+Matija Nastasić,Centre-Back,31,€1.50m,RCD Mallorca,['Serbia'],https://www.transfermarkt.com/matija-nastasic/profil/spieler/143559,1.5,2023/24
+David López,Centre-Back,21,€100k,RCD Mallorca,['Spain'],https://www.transfermarkt.com/david-lopez/profil/spieler/947431,0.1,2023/24
+Toni Lato,Left-Back,26,€3.50m,RCD Mallorca,['Spain'],https://www.transfermarkt.com/toni-lato/profil/spieler/320271,3.5,2023/24
+Jaume Costa,Left-Back,36,€900k,RCD Mallorca,['Spain'],https://www.transfermarkt.com/jaume-costa/profil/spieler/65318,0.9,2023/24
+Marcos Fernández,Left-Back,20,€50k,RCD Mallorca,['Spain'],https://www.transfermarkt.com/marcos-fernandez/profil/spieler/947432,0.05,2023/24
+Pablo Maffeo,Right-Back,26,€5.00m,RCD Mallorca,"['Argentina', 'Spain']",https://www.transfermarkt.com/pablo-maffeo/profil/spieler/251876,5.0,2023/24
+Giovanni González,Right-Back,29,€3.00m,RCD Mallorca,"['Uruguay', 'Italy']",https://www.transfermarkt.com/giovanni-gonzalez/profil/spieler/339699,3.0,2023/24
+Nacho Vidal,Right-Back,29,€2.00m,RCD Mallorca,['Spain'],https://www.transfermarkt.com/nacho-vidal/profil/spieler/216870,2.0,2023/24
+Carles Sogorb,Right-Back,18,-,RCD Mallorca,['Spain'],https://www.transfermarkt.com/carles-sogorb/profil/spieler/1004518,0.0,2023/24
+Yuzún Ley,Right-Back,20,-,RCD Mallorca,"['Spain', 'Chile']",https://www.transfermarkt.com/yuzun-ley/profil/spieler/1179588,0.0,2023/24
+Samú Costa,Defensive Midfield,23,€10.00m,RCD Mallorca,['Portugal'],https://www.transfermarkt.com/samu-costa/profil/spieler/657430,10.0,2023/24
+Omar Mascarell,Defensive Midfield,31,€1.00m,RCD Mallorca,"['Equatorial Guinea', 'Spain']",https://www.transfermarkt.com/omar-mascarell/profil/spieler/142031,1.0,2023/24
+Sergi Darder,Central Midfield,30,€6.00m,RCD Mallorca,['Spain'],https://www.transfermarkt.com/sergi-darder/profil/spieler/142021,6.0,2023/24
+Manu Morlanes,Central Midfield,25,€2.50m,RCD Mallorca,['Spain'],https://www.transfermarkt.com/manu-morlanes/profil/spieler/335225,2.5,2023/24
+Antonio Sánchez,Central Midfield,27,€2.50m,RCD Mallorca,['Spain'],https://www.transfermarkt.com/antonio-sanchez/profil/spieler/513031,2.5,2023/24
+Rubén Quintanilla,Central Midfield,22,€50k,RCD Mallorca,['Spain'],https://www.transfermarkt.com/ruben-quintanilla/profil/spieler/1056655,0.05,2023/24
+Dani Rodríguez,Attacking Midfield,36,€1.00m,RCD Mallorca,['Spain'],https://www.transfermarkt.com/dani-rodriguez/profil/spieler/139435,1.0,2023/24
+Daniel Luna,Attacking Midfield,21,€300k,RCD Mallorca,['Colombia'],https://www.transfermarkt.com/daniel-luna/profil/spieler/857830,0.3,2023/24
+Nemanja Radonjić,Left Winger,28,€2.80m,RCD Mallorca,['Serbia'],https://www.transfermarkt.com/nemanja-radonjic/profil/spieler/245078,2.8,2023/24
+Javi Llabrés,Left Winger,21,€700k,RCD Mallorca,['Spain'],https://www.transfermarkt.com/javi-llabres/profil/spieler/706138,0.7,2023/24
+Amath Ndiaye,Right Winger,27,€1.50m,RCD Mallorca,"['Senegal', 'Spain']",https://www.transfermarkt.com/amath-ndiaye/profil/spieler/339820,1.5,2023/24
+Miguelito,Right Winger,23,€50k,RCD Mallorca,['Spain'],https://www.transfermarkt.com/miguelito/profil/spieler/632498,0.05,2023/24
+Vedat Muriqi,Centre-Forward,30,€12.00m,RCD Mallorca,"['Kosovo', 'Albania']",https://www.transfermarkt.com/vedat-muriqi/profil/spieler/256267,12.0,2023/24
+Cyle Larin,Centre-Forward,29,€4.00m,RCD Mallorca,"['Canada', 'Jamaica']",https://www.transfermarkt.com/cyle-larin/profil/spieler/343463,4.0,2023/24
+Abdón Prats,Centre-Forward,31,€1.80m,RCD Mallorca,['Spain'],https://www.transfermarkt.com/abdon-prats/profil/spieler/177452,1.8,2023/24
+Pau Mascaró,Centre-Forward,19,-,RCD Mallorca,['Spain'],https://www.transfermarkt.com/pau-mascaro/profil/spieler/947460,0.0,2023/24
+Stole Dimitrievski,Goalkeeper,30,€4.00m,Rayo Vallecano,"['North Macedonia', 'Spain']",https://www.transfermarkt.com/stole-dimitrievski/profil/spieler/165467,4.0,2023/24
+Dani Cárdenas,Goalkeeper,27,€1.80m,Rayo Vallecano,['Spain'],https://www.transfermarkt.com/dani-cardenas/profil/spieler/397676,1.8,2023/24
+Miguel Ángel Morro,Goalkeeper,23,€600k,Rayo Vallecano,['Spain'],https://www.transfermarkt.com/miguel-angel-morro/profil/spieler/607780,0.6,2023/24
+Florian Lejeune,Centre-Back,33,€3.00m,Rayo Vallecano,['France'],https://www.transfermarkt.com/florian-lejeune/profil/spieler/127108,3.0,2023/24
+Abdul Mumin,Centre-Back,26,€2.50m,Rayo Vallecano,"['Ghana', 'Nigeria']",https://www.transfermarkt.com/abdul-mumin/profil/spieler/451801,2.5,2023/24
+Aridane Hernández,Centre-Back,35,€800k,Rayo Vallecano,['Spain'],https://www.transfermarkt.com/aridane-hernandez/profil/spieler/82503,0.8,2023/24
+Jorge Moreno,Centre-Back,22,€500k,Rayo Vallecano,['Spain'],https://www.transfermarkt.com/jorge-moreno/profil/spieler/717957,0.5,2023/24
+Martín Pascual,Centre-Back,24,€300k,Rayo Vallecano,['Spain'],https://www.transfermarkt.com/martin-pascual/profil/spieler/638588,0.3,2023/24
+Alfonso Espino,Left-Back,32,€2.40m,Rayo Vallecano,"['Uruguay', 'Spain']",https://www.transfermarkt.com/alfonso-espino/profil/spieler/311044,2.4,2023/24
+Pep Chavarría,Left-Back,26,€2.00m,Rayo Vallecano,['Spain'],https://www.transfermarkt.com/pep-chavarria/profil/spieler/596122,2.0,2023/24
+Iván Balliu,Right-Back,32,€2.00m,Rayo Vallecano,"['Albania', 'Spain']",https://www.transfermarkt.com/ivan-balliu/profil/spieler/85295,2.0,2023/24
+Andrei Rațiu,Right-Back,26,€1.40m,Rayo Vallecano,"['Romania', 'Spain']",https://www.transfermarkt.com/andrei-ratiu/profil/spieler/527966,1.4,2023/24
+Miguel Crespo,Central Midfield,27,€4.00m,Rayo Vallecano,"['Portugal', 'France']",https://www.transfermarkt.com/miguel-crespo/profil/spieler/498529,4.0,2023/24
+Óscar Valentín,Central Midfield,29,€4.00m,Rayo Vallecano,['Spain'],https://www.transfermarkt.com/oscar-valentin/profil/spieler/517753,4.0,2023/24
+Kike Pérez,Central Midfield,27,€3.00m,Rayo Vallecano,['Spain'],https://www.transfermarkt.com/kike-perez/profil/spieler/527698,3.0,2023/24
+Unai López,Central Midfield,28,€3.00m,Rayo Vallecano,['Spain'],https://www.transfermarkt.com/unai-lopez/profil/spieler/192009,3.0,2023/24
+Pathé Ciss,Central Midfield,30,€2.50m,Rayo Vallecano,['Senegal'],https://www.transfermarkt.com/pathe-ciss/profil/spieler/525578,2.5,2023/24
+Diego Méndez,Central Midfield,20,-,Rayo Vallecano,['Spain'],https://www.transfermarkt.com/diego-mendez/profil/spieler/932349,0.0,2023/24
+Randy Nteka,Attacking Midfield,26,€1.50m,Rayo Vallecano,"['Angola', 'France']",https://www.transfermarkt.com/randy-nteka/profil/spieler/560483,1.5,2023/24
+José Pozo,Attacking Midfield,28,€1.00m,Rayo Vallecano,['Spain'],https://www.transfermarkt.com/jose-pozo/profil/spieler/195605,1.0,2023/24
+Oscar Trejo,Attacking Midfield,36,€1.00m,Rayo Vallecano,"['Argentina', 'Italy']",https://www.transfermarkt.com/oscar-trejo/profil/spieler/30321,1.0,2023/24
+Álvaro García,Left Winger,31,€3.00m,Rayo Vallecano,['Spain'],https://www.transfermarkt.com/alvaro-garcia/profil/spieler/257062,3.0,2023/24
+Bebé,Left Winger,33,€600k,Rayo Vallecano,"['Cape Verde', 'Portugal']",https://www.transfermarkt.com/bebe/profil/spieler/153427,0.6,2023/24
+Pablo Muñoz,Left Winger,20,€50k,Rayo Vallecano,['Spain'],https://www.transfermarkt.com/pablo-munoz/profil/spieler/1045767,0.05,2023/24
+Jorge de Frutos,Right Winger,27,€4.00m,Rayo Vallecano,['Spain'],https://www.transfermarkt.com/jorge-de-frutos/profil/spieler/455181,4.0,2023/24
+Salvi Sánchez,Right Winger,33,€1.20m,Rayo Vallecano,['Spain'],https://www.transfermarkt.com/salvi-sanchez/profil/spieler/246204,1.2,2023/24
+Isi Palazón,Second Striker,29,€8.00m,Rayo Vallecano,['Spain'],https://www.transfermarkt.com/isi-palazon/profil/spieler/362086,8.0,2023/24
+Sergio Camello,Centre-Forward,23,€3.00m,Rayo Vallecano,['Spain'],https://www.transfermarkt.com/sergio-camello/profil/spieler/505674,3.0,2023/24
+Raúl de Tomás,Centre-Forward,29,€2.00m,Rayo Vallecano,"['Spain', 'Dominican Republic']",https://www.transfermarkt.com/raul-de-tomas/profil/spieler/162038,2.0,2023/24
+Radamel Falcao,Centre-Forward,38,€800k,Rayo Vallecano,"['Colombia', 'Venezuela']",https://www.transfermarkt.com/radamel-falcao/profil/spieler/39152,0.8,2023/24
+Conan Ledesma,Goalkeeper,31,€5.00m,Cádiz CF,"['Argentina', 'Italy']",https://www.transfermarkt.com/conan-ledesma/profil/spieler/284342,5.0,2023/24
+David Gil,Goalkeeper,30,€700k,Cádiz CF,['Spain'],https://www.transfermarkt.com/david-gil/profil/spieler/162027,0.7,2023/24
+Victor Aznar,Goalkeeper,21,€100k,Cádiz CF,"['Brazil', 'Spain']",https://www.transfermarkt.com/victor-aznar/profil/spieler/706797,0.1,2023/24
+Nando Almodóvar,Goalkeeper,20,€50k,Cádiz CF,['Spain'],https://www.transfermarkt.com/nando-almodovar/profil/spieler/930096,0.05,2023/24
+Fali,Centre-Back,30,€2.00m,Cádiz CF,['Spain'],https://www.transfermarkt.com/fali/profil/spieler/252667,2.0,2023/24
+Víctor Chust,Centre-Back,24,€2.00m,Cádiz CF,['Spain'],https://www.transfermarkt.com/victor-chust/profil/spieler/495625,2.0,2023/24
+Aiham Ousou,Centre-Back,24,€1.80m,Cádiz CF,"['Syria', 'Sweden']",https://www.transfermarkt.com/aiham-ousou/profil/spieler/585068,1.8,2023/24
+Jorge Meré,Centre-Back,27,€1.00m,Cádiz CF,['Spain'],https://www.transfermarkt.com/jorge-mere/profil/spieler/286779,1.0,2023/24
+Luis Hernández,Centre-Back,35,€500k,Cádiz CF,['Spain'],https://www.transfermarkt.com/luis-hernandez/profil/spieler/62945,0.5,2023/24
+Momo Mbaye,Centre-Back,26,€400k,Cádiz CF,['Senegal'],https://www.transfermarkt.com/momo-mbaye/profil/spieler/490421,0.4,2023/24
+Álex Morata,Centre-Back,17,€150k,Cádiz CF,['Spain'],https://www.transfermarkt.com/alex-morata/profil/spieler/1178748,0.15,2023/24
+Adri Miranda,Centre-Back,21,€100k,Cádiz CF,['Spain'],https://www.transfermarkt.com/adri-miranda/profil/spieler/834737,0.1,2023/24
+Adrián Salguero,Centre-Back,21,€100k,Cádiz CF,['Spain'],https://www.transfermarkt.com/adrian-salguero/profil/spieler/946276,0.1,2023/24
+Javi Hernández,Left-Back,26,€2.50m,Cádiz CF,['Spain'],https://www.transfermarkt.com/javi-hernandez/profil/spieler/422466,2.5,2023/24
+Lucas Pires,Left-Back,23,€2.00m,Cádiz CF,['Brazil'],https://www.transfermarkt.com/lucas-pires/profil/spieler/927768,2.0,2023/24
+Julio Cabrera,Left-Back,20,€150k,Cádiz CF,['Spain'],https://www.transfermarkt.com/julio-cabrera/profil/spieler/1032447,0.15,2023/24
+Iza Carcelén,Right-Back,31,€1.50m,Cádiz CF,['Spain'],https://www.transfermarkt.com/iza-carcelen/profil/spieler/254037,1.5,2023/24
+Joseba Zaldua,Right-Back,32,€900k,Cádiz CF,['Spain'],https://www.transfermarkt.com/joseba-zaldua/profil/spieler/197135,0.9,2023/24
+Diadié Samassékou,Defensive Midfield,28,€2.00m,Cádiz CF,['Mali'],https://www.transfermarkt.com/diadie-samassekou/profil/spieler/315604,2.0,2023/24
+José Mari,Defensive Midfield,36,€200k,Cádiz CF,['Spain'],https://www.transfermarkt.com/jose-mari/profil/spieler/225462,0.2,2023/24
+Rominigue Kouamé,Central Midfield,27,€2.00m,Cádiz CF,"['Mali', ""Cote d'Ivoire""]",https://www.transfermarkt.com/rominigue-kouame/profil/spieler/277635,2.0,2023/24
+Rubén Alcaraz,Central Midfield,33,€1.50m,Cádiz CF,['Spain'],https://www.transfermarkt.com/ruben-alcaraz/profil/spieler/247250,1.5,2023/24
+Álex Fernández,Central Midfield,31,€1.50m,Cádiz CF,['Spain'],https://www.transfermarkt.com/alex-fernandez/profil/spieler/89733,1.5,2023/24
+Gonzalo Escalante,Central Midfield,31,€1.50m,Cádiz CF,"['Argentina', 'Italy']",https://www.transfermarkt.com/gonzalo-escalante/profil/spieler/266795,1.5,2023/24
+Fede San Emeterio,Central Midfield,27,€1.50m,Cádiz CF,['Spain'],https://www.transfermarkt.com/fede-san-emeterio/profil/spieler/307519,1.5,2023/24
+Álvaro Bastida,Central Midfield,20,€300k,Cádiz CF,['Spain'],https://www.transfermarkt.com/alvaro-bastida/profil/spieler/882772,0.3,2023/24
+Martín Calderón,Central Midfield,25,€200k,Cádiz CF,['Spain'],https://www.transfermarkt.com/martin-calderon/profil/spieler/278404,0.2,2023/24
+Moussa Diakité,Central Midfield,20,€150k,Cádiz CF,['Mali'],https://www.transfermarkt.com/moussa-diakite/profil/spieler/979235,0.15,2023/24
+Juanmi,Left Winger,31,€6.00m,Cádiz CF,['Spain'],https://www.transfermarkt.com/juanmi/profil/spieler/126737,6.0,2023/24
+Darwin Machís,Left Winger,31,€2.00m,Cádiz CF,"['Venezuela', 'Spain']",https://www.transfermarkt.com/darwin-machis/profil/spieler/211251,2.0,2023/24
+Brian Ocampo,Left Winger,25,€900k,Cádiz CF,['Uruguay'],https://www.transfermarkt.com/brian-ocampo/profil/spieler/598765,0.9,2023/24
+José Antonio de la Rosa,Left Winger,19,€300k,Cádiz CF,['Spain'],https://www.transfermarkt.com/jose-antonio-de-la-rosa/profil/spieler/1027993,0.3,2023/24
+Robert Navarro,Right Winger,22,€6.00m,Cádiz CF,['Spain'],https://www.transfermarkt.com/robert-navarro/profil/spieler/563137,6.0,2023/24
+Iván Alejo,Right Winger,29,€1.50m,Cádiz CF,['Spain'],https://www.transfermarkt.com/ivan-alejo/profil/spieler/281755,1.5,2023/24
+Nico Njalla,Right Winger,21,€150k,Cádiz CF,['Cameroon'],https://www.transfermarkt.com/nico-njalla/profil/spieler/1054922,0.15,2023/24
+Chris Ramos,Centre-Forward,27,€4.00m,Cádiz CF,"['Spain', 'United States']",https://www.transfermarkt.com/chris-ramos/profil/spieler/538810,4.0,2023/24
+Milutin Osmajic,Centre-Forward,24,€2.00m,Cádiz CF,['Montenegro'],https://www.transfermarkt.com/milutin-osmajic/profil/spieler/542819,2.0,2023/24
+Maxi Gómez,Centre-Forward,27,€2.00m,Cádiz CF,['Uruguay'],https://www.transfermarkt.com/maxi-gomez/profil/spieler/396894,2.0,2023/24
+Rubén Sobrino,Centre-Forward,32,€1.40m,Cádiz CF,['Spain'],https://www.transfermarkt.com/ruben-sobrino/profil/spieler/85383,1.4,2023/24
+Roger Martí,Centre-Forward,33,€1.20m,Cádiz CF,['Spain'],https://www.transfermarkt.com/roger-marti/profil/spieler/212391,1.2,2023/24
+Sergi Guardiola,Centre-Forward,33,€800k,Cádiz CF,['Spain'],https://www.transfermarkt.com/sergi-guardiola/profil/spieler/256429,0.8,2023/24
+Etta Eyong,Centre-Forward,20,€300k,Cádiz CF,['Cameroon'],https://www.transfermarkt.com/etta-eyong/profil/spieler/1038950,0.3,2023/24
+Álvaro Negredo,Centre-Forward,38,€300k,Cádiz CF,['Spain'],https://www.transfermarkt.com/alvaro-negredo/profil/spieler/18644,0.3,2023/24
+Borja Vázquez,Centre-Forward,19,€50k,Cádiz CF,['Spain'],https://www.transfermarkt.com/borja-vazquez/profil/spieler/1230202,0.05,2023/24

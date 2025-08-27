@@ -3,6 +3,3 @@
 # Bytecode
 __pycache__/
 *.py[cod]
-
-#datos
-data/
